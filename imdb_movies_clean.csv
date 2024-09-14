@@ -1,0 +1,707 @@
+Movie_Title,Release_Year,Runtime,Genre,IMDB_Rating,Director,Star1,Star2,Star3,Star4,Gross
+The Shawshank Redemption,1994,142,Drama,9.3,Frank Darabont,Tim Robbins,Morgan Freeman,Bob Gunton,William Sadler,28341469
+The Godfather,1972,175,"Crime, Drama",9.2,Francis Ford Coppola,Marlon Brando,Al Pacino,James Caan,Diane Keaton,134966411
+The Dark Knight,2008,152,"Action, Crime, Drama",9.0,Christopher Nolan,Christian Bale,Heath Ledger,Aaron Eckhart,Michael Caine,534858444
+The Godfather: Part II,1974,202,"Crime, Drama",9.0,Francis Ford Coppola,Al Pacino,Robert De Niro,Robert Duvall,Diane Keaton,57300000
+The Lord of the Rings: The Return of the King,2003,201,"Action, Adventure, Drama",8.9,Peter Jackson,Elijah Wood,Viggo Mortensen,Ian McKellen,Orlando Bloom,377845905
+Pulp Fiction,1994,154,"Crime, Drama",8.9,Quentin Tarantino,John Travolta,Uma Thurman,Samuel L. Jackson,Bruce Willis,107928762
+Schindler's List,1993,195,"Biography, Drama, History",8.9,Steven Spielberg,Liam Neeson,Ralph Fiennes,Ben Kingsley,Caroline Goodall,96898818
+Inception,2010,148,"Action, Adventure, Sci-Fi",8.8,Christopher Nolan,Leonardo DiCaprio,Joseph Gordon-Levitt,Elliot Page,Ken Watanabe,292576195
+Fight Club,1999,139,Drama,8.8,David Fincher,Brad Pitt,Edward Norton,Meat Loaf,Zach Grenier,37030102
+The Lord of the Rings: The Fellowship of the Ring,2001,178,"Action, Adventure, Drama",8.8,Peter Jackson,Elijah Wood,Ian McKellen,Orlando Bloom,Sean Bean,315544750
+Forrest Gump,1994,142,"Drama, Romance",8.8,Robert Zemeckis,Tom Hanks,Robin Wright,Gary Sinise,Sally Field,330252182
+The Lord of the Rings: The Two Towers,2002,179,"Action, Adventure, Drama",8.7,Peter Jackson,Elijah Wood,Ian McKellen,Viggo Mortensen,Orlando Bloom,342551365
+The Matrix,1999,136,"Action, Sci-Fi",8.7,Lana Wachowski,Lilly Wachowski,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,171479930
+Goodfellas,1990,146,"Biography, Crime, Drama",8.7,Martin Scorsese,Robert De Niro,Ray Liotta,Joe Pesci,Lorraine Bracco,46836394
+Star Wars: Episode V - The Empire Strikes Back,1980,124,"Action, Adventure, Fantasy",8.7,Irvin Kershner,Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams,290475067
+One Flew Over the Cuckoo's Nest,1975,133,Drama,8.7,Milos Forman,Jack Nicholson,Louise Fletcher,Michael Berryman,Peter Brocco,112000000
+Gisaengchung,2019,132,"Comedy, Drama, Thriller",8.6,Bong Joon Ho,Kang-ho Song,Lee Sun-kyun,Cho Yeo-jeong,Choi Woo-sik,53367844
+Interstellar,2014,169,"Adventure, Drama, Sci-Fi",8.6,Christopher Nolan,Matthew McConaughey,Anne Hathaway,Jessica Chastain,Mackenzie Foy,188020017
+Cidade de Deus,2002,130,"Crime, Drama",8.6,Fernando Meirelles,Kátia Lund,Alexandre Rodrigues,Leandro Firmino,Matheus Nachtergaele,7563397
+Sen to Chihiro no kamikakushi,2001,125,"Animation, Adventure, Family",8.6,Hayao Miyazaki,Daveigh Chase,Suzanne Pleshette,Miyu Irino,Rumi Hiiragi,10055859
+Saving Private Ryan,1998,169,"Drama, War",8.6,Steven Spielberg,Tom Hanks,Matt Damon,Tom Sizemore,Edward Burns,216540909
+The Green Mile,1999,189,"Crime, Drama, Fantasy",8.6,Frank Darabont,Tom Hanks,Michael Clarke Duncan,David Morse,Bonnie Hunt,136801374
+La vita è bella,1997,116,"Comedy, Drama, Romance",8.6,Roberto Benigni,Roberto Benigni,Nicoletta Braschi,Giorgio Cantarini,Giustino Durano,57598247
+Se7en,1995,127,"Crime, Drama, Mystery",8.6,David Fincher,Morgan Freeman,Brad Pitt,Kevin Spacey,Andrew Kevin Walker,100125643
+The Silence of the Lambs,1991,118,"Crime, Drama, Thriller",8.6,Jonathan Demme,Jodie Foster,Anthony Hopkins,Lawrence A. Bonney,Kasi Lemmons,130742922
+Star Wars,1977,121,"Action, Adventure, Fantasy",8.6,George Lucas,Mark Hamill,Harrison Ford,Carrie Fisher,Alec Guinness,322740140
+Joker,2019,122,"Crime, Drama, Thriller",8.5,Todd Phillips,Joaquin Phoenix,Robert De Niro,Zazie Beetz,Frances Conroy,335451311
+Whiplash,2014,106,"Drama, Music",8.5,Damien Chazelle,Miles Teller,J.K. Simmons,Melissa Benoist,Paul Reiser,13092000
+The Intouchables,2011,112,"Biography, Comedy, Drama",8.5,Olivier Nakache,Éric Toledano,François Cluzet,Omar Sy,Anne Le Ny,13182281
+The Prestige,2006,130,"Drama, Mystery, Sci-Fi",8.5,Christopher Nolan,Christian Bale,Hugh Jackman,Scarlett Johansson,Michael Caine,53089891
+The Departed,2006,151,"Crime, Drama, Thriller",8.5,Martin Scorsese,Leonardo DiCaprio,Matt Damon,Jack Nicholson,Mark Wahlberg,132384315
+The Pianist,2002,150,"Biography, Drama, Music",8.5,Roman Polanski,Adrien Brody,Thomas Kretschmann,Frank Finlay,Emilia Fox,32572577
+Gladiator,2000,155,"Action, Adventure, Drama",8.5,Ridley Scott,Russell Crowe,Joaquin Phoenix,Connie Nielsen,Oliver Reed,187705427
+American History X,1998,119,Drama,8.5,Tony Kaye,Edward Norton,Edward Furlong,Beverly D'Angelo,Jennifer Lien,6719864
+The Usual Suspects,1995,106,"Crime, Mystery, Thriller",8.5,Bryan Singer,Kevin Spacey,Gabriel Byrne,Chazz Palminteri,Stephen Baldwin,23341568
+Léon,1994,110,"Action, Crime, Drama",8.5,Luc Besson,Jean Reno,Gary Oldman,Natalie Portman,Danny Aiello,19501238
+The Lion King,1994,88,"Animation, Adventure, Drama",8.5,Roger Allers,Rob Minkoff,Matthew Broderick,Jeremy Irons,James Earl Jones,422783777
+Terminator 2: Judgment Day,1991,137,"Action, Sci-Fi",8.5,James Cameron,Arnold Schwarzenegger,Linda Hamilton,Edward Furlong,Robert Patrick,204843350
+Nuovo Cinema Paradiso,1988,155,"Drama, Romance",8.5,Giuseppe Tornatore,Philippe Noiret,Enzo Cannavale,Antonella Attili,Isa Danieli,11990401
+Back to the Future,1985,116,"Adventure, Comedy, Sci-Fi",8.5,Robert Zemeckis,Michael J. Fox,Christopher Lloyd,Lea Thompson,Crispin Glover,210609762
+Capharnaüm,2018,126,Drama,8.4,Nadine Labaki,Zain Al Rafeea,Yordanos Shiferaw,Boluwatife Treasure Bankole,Kawsar Al Haddad,1661096
+Kimi no na wa.,2016,106,"Animation, Drama, Fantasy",8.4,Makoto Shinkai,Ryûnosuke Kamiki,Mone Kamishiraishi,Ryô Narita,Aoi Yûki,5017246
+Dangal,2016,161,"Action, Biography, Drama",8.4,Nitesh Tiwari,Aamir Khan,Sakshi Tanwar,Fatima Sana Shaikh,Sanya Malhotra,12391761
+Spider-Man: Into the Spider-Verse,2018,117,"Animation, Action, Adventure",8.4,Bob Persichetti,Peter Ramsey,Rodney Rothman,Shameik Moore,Jake Johnson,190241310
+Avengers: Endgame,2019,181,"Action, Adventure, Drama",8.4,Anthony Russo,Joe Russo,Robert Downey Jr.,Chris Evans,Mark Ruffalo,858373000
+Avengers: Infinity War,2018,149,"Action, Adventure, Sci-Fi",8.4,Anthony Russo,Joe Russo,Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo,678815482
+Coco,2017,105,"Animation, Adventure, Family",8.4,Lee Unkrich,Adrian Molina,Anthony Gonzalez,Gael García Bernal,Benjamin Bratt,209726015
+Django Unchained,2012,165,"Drama, Western",8.4,Quentin Tarantino,Jamie Foxx,Christoph Waltz,Leonardo DiCaprio,Kerry Washington,162805434
+The Dark Knight Rises,2012,164,"Action, Adventure",8.4,Christopher Nolan,Christian Bale,Tom Hardy,Anne Hathaway,Gary Oldman,448139099
+3 Idiots,2009,170,"Comedy, Drama",8.4,Rajkumar Hirani,Aamir Khan,Madhavan,Mona Singh,Sharman Joshi,6532908
+Taare Zameen Par,2007,165,"Drama, Family",8.4,Aamir Khan,Amole Gupte,Darsheel Safary,Aamir Khan,Tisca Chopra,1223869
+WALL·E,2008,98,"Animation, Adventure, Family",8.4,Andrew Stanton,Ben Burtt,Elissa Knight,Jeff Garlin,Fred Willard,223808164
+The Lives of Others,2006,137,"Drama, Mystery, Thriller",8.4,Florian Henckel von Donnersmarck,Ulrich Mühe,Martina Gedeck,Sebastian Koch,Ulrich Tukur,11286112
+Oldeuboi,2003,101,"Action, Drama, Mystery",8.4,Chan-wook Park,Choi Min-sik,Yoo Ji-Tae,Kang Hye-jeong,Kim Byeong-Ok,707481
+Memento,2000,113,"Mystery, Thriller",8.4,Christopher Nolan,Guy Pearce,Carrie-Anne Moss,Joe Pantoliano,Mark Boone Junior,25544867
+Mononoke-hime,1997,134,"Animation, Action, Adventure",8.4,Hayao Miyazaki,Yôji Matsuda,Yuriko Ishida,Yûko Tanaka,Billy Crudup,2375308
+Raiders of the Lost Ark,1981,115,"Action, Adventure",8.4,Steven Spielberg,Harrison Ford,Karen Allen,Paul Freeman,John Rhys-Davies,248159971
+The Shining,1980,146,"Drama, Horror",8.4,Stanley Kubrick,Jack Nicholson,Shelley Duvall,Danny Lloyd,Scatman Crothers,44017374
+Apocalypse Now,1979,147,"Drama, Mystery, War",8.4,Francis Ford Coppola,Martin Sheen,Marlon Brando,Robert Duvall,Frederic Forrest,83471511
+Alien,1979,117,"Horror, Sci-Fi",8.4,Ridley Scott,Sigourney Weaver,Tom Skerritt,John Hurt,Veronica Cartwright,78900000
+1917,2019,119,"Drama, Thriller, War",8.3,Sam Mendes,Dean-Charles Chapman,George MacKay,Daniel Mays,Colin Firth,159227644
+Andhadhun,2018,139,"Crime, Drama, Music",8.3,Sriram Raghavan,Ayushmann Khurrana,Tabu,Radhika Apte,Anil Dhawan,1373943
+Jagten,2012,115,Drama,8.3,Thomas Vinterberg,Mads Mikkelsen,Thomas Bo Larsen,Annika Wedderkopp,Lasse Fogelstrøm,687185
+Jodaeiye Nader az Simin,2011,123,Drama,8.3,Asghar Farhadi,Payman Maadi,Leila Hatami,Sareh Bayat,Shahab Hosseini,7098492
+Incendies,2010,131,"Drama, Mystery, War",8.3,Denis Villeneuve,Lubna Azabal,Mélissa Désormeaux-Poulin,Maxim Gaudette,Mustafa Kamel,6857096
+Inglourious Basterds,2009,153,"Adventure, Drama, War",8.3,Quentin Tarantino,Brad Pitt,Diane Kruger,Eli Roth,Mélanie Laurent,120540719
+Eternal Sunshine of the Spotless Mind,2004,108,"Drama, Romance, Sci-Fi",8.3,Michel Gondry,Jim Carrey,Kate Winslet,Tom Wilkinson,Gerry Robert Byrne,34400301
+Amélie,2001,122,"Comedy, Romance",8.3,Jean-Pierre Jeunet,Audrey Tautou,Mathieu Kassovitz,Rufus,Lorella Cravotta,33225499
+Snatch,2000,104,"Comedy, Crime",8.3,Guy Ritchie,Jason Statham,Brad Pitt,Benicio Del Toro,Dennis Farina,30328156
+Requiem for a Dream,2000,102,Drama,8.3,Darren Aronofsky,Ellen Burstyn,Jared Leto,Jennifer Connelly,Marlon Wayans,3635482
+American Beauty,1999,122,Drama,8.3,Sam Mendes,Kevin Spacey,Annette Bening,Thora Birch,Wes Bentley,130096601
+Good Will Hunting,1997,126,"Drama, Romance",8.3,Gus Van Sant,Robin Williams,Matt Damon,Ben Affleck,Stellan Skarsgård,138433435
+Bacheha-Ye aseman,1997,89,"Drama, Family, Sport",8.3,Majid Majidi,Mohammad Amir Naji,Amir Farrokh Hashemian,Bahare Seddiqi,Nafise Jafar-Mohammadi,933933
+Toy Story,1995,81,"Animation, Adventure, Comedy",8.3,John Lasseter,Tom Hanks,Tim Allen,Don Rickles,Jim Varney,191796233
+Braveheart,1995,178,"Biography, Drama, History",8.3,Mel Gibson,Mel Gibson,Sophie Marceau,Patrick McGoohan,Angus Macfadyen,75600000
+Reservoir Dogs,1992,99,"Crime, Drama, Thriller",8.3,Quentin Tarantino,Harvey Keitel,Tim Roth,Michael Madsen,Chris Penn,2832029
+Full Metal Jacket,1987,116,"Drama, War",8.3,Stanley Kubrick,Matthew Modine,R. Lee Ermey,Vincent D'Onofrio,Adam Baldwin,46357676
+Aliens,1986,137,"Action, Adventure, Sci-Fi",8.3,James Cameron,Sigourney Weaver,Michael Biehn,Carrie Henn,Paul Reiser,85160248
+Amadeus,1984,160,"Biography, Drama, History",8.3,Milos Forman,F. Murray Abraham,Tom Hulce,Elizabeth Berridge,Roy Dotrice,51973029
+Scarface,1983,170,"Crime, Drama",8.3,Brian De Palma,Al Pacino,Michelle Pfeiffer,Steven Bauer,Mary Elizabeth Mastrantonio,45598982
+Star Wars: Episode VI - Return of the Jedi,1983,131,"Action, Adventure, Fantasy",8.3,Richard Marquand,Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams,309125409
+Das Boot,1981,149,"Adventure, Drama, Thriller",8.3,Wolfgang Petersen,Jürgen Prochnow,Herbert Grönemeyer,Klaus Wennemann,Hubertus Bengsch,11487676
+Taxi Driver,1976,114,"Crime, Drama",8.3,Martin Scorsese,Robert De Niro,Jodie Foster,Cybill Shepherd,Albert Brooks,28262574
+The Sting,1973,129,"Comedy, Crime, Drama",8.3,George Roy Hill,Paul Newman,Robert Redford,Robert Shaw,Charles Durning,159600000
+A Clockwork Orange,1971,136,"Crime, Drama, Sci-Fi",8.3,Stanley Kubrick,Malcolm McDowell,Patrick Magee,Michael Bates,Warren Clarke,6207725
+Chhichhore,2019,143,"Comedy, Drama",8.2,Nitesh Tiwari,Sushant Singh Rajput,Shraddha Kapoor,Varun Sharma,Prateik,898575
+Uri: The Surgical Strike,2018,138,"Action, Drama, War",8.2,Aditya Dhar,Vicky Kaushal,Paresh Rawal,Mohit Raina,Yami Gautam,4186168
+Green Book,2018,130,"Biography, Comedy, Drama",8.2,Peter Farrelly,Viggo Mortensen,Mahershala Ali,Linda Cardellini,Sebastian Maniscalco,85080171
+"Three Billboards Outside Ebbing, Missouri",2017,115,"Comedy, Crime, Drama",8.2,Martin McDonagh,Frances McDormand,Woody Harrelson,Sam Rockwell,Caleb Landry Jones,54513740
+Talvar,2015,132,"Crime, Drama, Mystery",8.2,Meghna Gulzar,Irrfan Khan,Konkona Sen Sharma,Neeraj Kabi,Sohum Shah,342370
+Baahubali 2: The Conclusion,2017,167,"Action, Drama",8.2,S.S. Rajamouli,Prabhas,Rana Daggubati,Anushka Shetty,Tamannaah Bhatia,20186659
+Drishyam,2015,163,"Crime, Drama, Mystery",8.2,Nishikant Kamat,Ajay Devgn,Shriya Saran,Tabu,Rajat Kapoor,739478
+Queen,2013,146,"Adventure, Comedy, Drama",8.2,Vikas Bahl,Kangana Ranaut,Rajkummar Rao,Lisa Haydon,Jeffrey Ho,1429534
+Mandariinid,2013,87,"Drama, War",8.2,Zaza Urushadze,Lembit Ulfsak,Elmo Nüganen,Giorgi Nakashidze,Misha Meskhi,144501
+Bhaag Milkha Bhaag,2013,186,"Biography, Drama, Sport",8.2,Rakeysh Omprakash Mehra,Farhan Akhtar,Sonam Kapoor,Pawan Malhotra,Art Malik,1626289
+Udaan,2010,134,Drama,8.2,Vikramaditya Motwane,Rajat Barmecha,Ronit Roy,Manjot Singh,Ram Kapoor,7461
+Paan Singh Tomar,2012,135,"Action, Biography, Crime",8.2,Tigmanshu Dhulia,Irrfan Khan,Mahie Gill,Rajesh Abhay,Hemendra Dandotiya,39567
+El secreto de sus ojos,2009,129,"Drama, Mystery, Romance",8.2,Juan José Campanella,Ricardo Darín,Soledad Villamil,Pablo Rago,Carla Quevedo,6391436
+Warrior,2011,140,"Action, Drama, Sport",8.2,Gavin O'Connor,Tom Hardy,Nick Nolte,Joel Edgerton,Jennifer Morrison,13657115
+Shutter Island,2010,138,"Mystery, Thriller",8.2,Martin Scorsese,Leonardo DiCaprio,Emily Mortimer,Mark Ruffalo,Ben Kingsley,128012934
+Up,2009,96,"Animation, Adventure, Comedy",8.2,Pete Docter,Bob Peterson,Edward Asner,Jordan Nagai,John Ratzenberger,293004164
+The Wolf of Wall Street,2013,180,"Biography, Crime, Drama",8.2,Martin Scorsese,Leonardo DiCaprio,Jonah Hill,Margot Robbie,Matthew McConaughey,116900694
+Chak De! India,2007,153,"Drama, Family, Sport",8.2,Shimit Amin,Shah Rukh Khan,Vidya Malvade,Sagarika Ghatge,Shilpa Shukla,1113541
+There Will Be Blood,2007,158,Drama,8.2,Paul Thomas Anderson,Daniel Day-Lewis,Paul Dano,Ciarán Hinds,Martin Stringer,40222514
+Pan's Labyrinth,2006,118,"Drama, Fantasy, War",8.2,Guillermo del Toro,Ivana Baquero,Ariadna Gil,Sergi López,Maribel Verdú,37634615
+Toy Story 3,2010,103,"Animation, Adventure, Comedy",8.2,Lee Unkrich,Tom Hanks,Tim Allen,Joan Cusack,Ned Beatty,415004880
+V for Vendetta,2005,132,"Action, Drama, Sci-Fi",8.2,James McTeigue,Hugo Weaving,Natalie Portman,Rupert Graves,Stephen Rea,70511035
+Rang De Basanti,2006,167,"Comedy, Crime, Drama",8.2,Rakeysh Omprakash Mehra,Aamir Khan,Soha Ali Khan,Siddharth,Sharman Joshi,2197331
+Black,2005,122,Drama,8.2,Sanjay Leela Bhansali,Amitabh Bachchan,Rani Mukerji,Shernaz Patel,Ayesha Kapoor,733094
+Batman Begins,2005,140,"Action, Adventure",8.2,Christopher Nolan,Christian Bale,Michael Caine,Ken Watanabe,Liam Neeson,206852432
+"Swades: We, the People",2004,210,Drama,8.2,Ashutosh Gowariker,Shah Rukh Khan,Gayatri Joshi,Kishori Ballal,Smit Sheth,1223240
+Der Untergang,2004,156,"Biography, Drama, History",8.2,Oliver Hirschbiegel,Bruno Ganz,Alexandra Maria Lara,Ulrich Matthes,Juliane Köhler,5509040
+Hauru no ugoku shiro,2004,119,"Animation, Adventure, Family",8.2,Hayao Miyazaki,Chieko Baishô,Takuya Kimura,Tatsuya Gashûin,Akihiro Miwa,4711096
+A Beautiful Mind,2001,135,"Biography, Drama",8.2,Ron Howard,Russell Crowe,Ed Harris,Jennifer Connelly,Christopher Plummer,170742341
+"Lock, Stock and Two Smoking Barrels",1998,107,"Action, Comedy, Crime",8.2,Guy Ritchie,Jason Flemyng,Dexter Fletcher,Nick Moran,Jason Statham,3897569
+L.A. Confidential,1997,138,"Crime, Drama, Mystery",8.2,Curtis Hanson,Kevin Spacey,Russell Crowe,Guy Pearce,Kim Basinger,64616940
+Heat,1995,170,"Crime, Drama, Thriller",8.2,Michael Mann,Al Pacino,Robert De Niro,Val Kilmer,Jon Voight,67436818
+Casino,1995,178,"Crime, Drama",8.2,Martin Scorsese,Robert De Niro,Sharon Stone,Joe Pesci,James Woods,42438300
+Unforgiven,1992,130,"Drama, Western",8.2,Clint Eastwood,Clint Eastwood,Gene Hackman,Morgan Freeman,Richard Harris,101157447
+Indiana Jones and the Last Crusade,1989,127,"Action, Adventure",8.2,Steven Spielberg,Harrison Ford,Sean Connery,Alison Doody,Denholm Elliott,197171806
+Dom za vesanje,1988,142,"Comedy, Crime, Drama",8.2,Emir Kusturica,Davor Dujmovic,Bora Todorovic,Ljubica Adzovic,Husnija Hasimovic,280015
+Tonari no Totoro,1988,86,"Animation, Family, Fantasy",8.2,Hayao Miyazaki,Hitoshi Takagi,Noriko Hidaka,Chika Sakamoto,Shigesato Itoi,1105564
+Die Hard,1988,132,"Action, Thriller",8.2,John McTiernan,Bruce Willis,Alan Rickman,Bonnie Bedelia,Reginald VelJohnson,83008852
+Ran,1985,162,"Action, Drama, War",8.2,Akira Kurosawa,Tatsuya Nakadai,Akira Terao,Jinpachi Nezu,Daisuke Ryû,4135750
+Raging Bull,1980,129,"Biography, Drama, Sport",8.2,Martin Scorsese,Robert De Niro,Cathy Moriarty,Joe Pesci,Frank Vincent,23383987
+Stalker,1979,162,"Drama, Sci-Fi",8.2,Andrei Tarkovsky,Alisa Freyndlikh,Aleksandr Kaydanovskiy,Anatoliy Solonitsyn,Nikolay Grinko,234723
+Monty Python and the Holy Grail,1975,91,"Adventure, Comedy, Fantasy",8.2,Terry Gilliam,Terry Jones,Graham Chapman,John Cleese,Eric Idle,1229197
+Portrait de la jeune fille en feu,2019,122,"Drama, Romance",8.1,Céline Sciamma,Noémie Merlant,Adèle Haenel,Luàna Bajrami,Valeria Golino,3759854
+Pink,2016,136,"Drama, Thriller",8.1,Aniruddha Roy Chowdhury,Taapsee Pannu,Amitabh Bachchan,Kirti Kulhari,Andrea Tariang,1241223
+Ah-ga-ssi,2016,145,"Drama, Romance, Thriller",8.1,Chan-wook Park,Kim Min-hee,Jung-woo Ha,Cho Jin-woong,Moon So-Ri,2006788
+Mommy,2014,139,Drama,8.1,Xavier Dolan,Anne Dorval,Antoine Olivier Pilon,Suzanne Clément,Patrick Huard,3492754
+Haider,2014,160,"Action, Crime, Drama",8.1,Vishal Bhardwaj,Shahid Kapoor,Tabu,Shraddha Kapoor,Kay Kay Menon,901610
+Logan,2017,137,"Action, Drama, Sci-Fi",8.1,James Mangold,Hugh Jackman,Patrick Stewart,Dafne Keen,Boyd Holbrook,226277068
+Room,2015,118,"Drama, Thriller",8.1,Lenny Abrahamson,Brie Larson,Jacob Tremblay,Sean Bridgers,Wendy Crewson,14677674
+Relatos salvajes,2014,122,"Comedy, Drama, Thriller",8.1,Damián Szifron,Darío Grandinetti,María Marull,Mónica Villa,Diego Starosta,3107072
+Kis Uykusu,2014,196,Drama,8.1,Nuri Bilge Ceylan,Haluk Bilginer,Melisa Sözen,Demet Akbag,Ayberk Pekcan,165520
+PK,2014,153,"Comedy, Drama, Musical",8.1,Rajkumar Hirani,Aamir Khan,Anushka Sharma,Sanjay Dutt,Boman Irani,10616104
+OMG: Oh My God!,2012,125,"Comedy, Drama, Fantasy",8.1,Umesh Shukla,Paresh Rawal,Akshay Kumar,Mithun Chakraborty,Mahesh Manjrekar,923221
+The Grand Budapest Hotel,2014,99,"Adventure, Comedy, Crime",8.1,Wes Anderson,Ralph Fiennes,F. Murray Abraham,Mathieu Amalric,Adrien Brody,59100318
+Gone Girl,2014,149,"Drama, Mystery, Thriller",8.1,David Fincher,Ben Affleck,Rosamund Pike,Neil Patrick Harris,Tyler Perry,167767189
+Hacksaw Ridge,2016,139,"Biography, Drama, History",8.1,Mel Gibson,Andrew Garfield,Sam Worthington,Luke Bracey,Teresa Palmer,67209615
+Inside Out,2015,95,"Animation, Adventure, Comedy",8.1,Pete Docter,Ronnie Del Carmen,Amy Poehler,Bill Hader,Lewis Black,356461711
+Barfi!,2012,151,"Comedy, Drama, Romance",8.1,Anurag Basu,Ranbir Kapoor,Priyanka Chopra,Ileana D'Cruz,Saurabh Shukla,2804874
+12 Years a Slave,2013,134,"Biography, Drama, History",8.1,Steve McQueen,Chiwetel Ejiofor,Michael Kenneth Williams,Michael Fassbender,Brad Pitt,56671993
+Rush,2013,123,"Action, Biography, Drama",8.1,Ron Howard,Daniel Brühl,Chris Hemsworth,Olivia Wilde,Alexandra Maria Lara,26947624
+Ford v Ferrari,2019,152,"Action, Biography, Drama",8.1,James Mangold,Matt Damon,Christian Bale,Jon Bernthal,Caitriona Balfe,117624028
+Spotlight,2015,129,"Biography, Crime, Drama",8.1,Tom McCarthy,Mark Ruffalo,Michael Keaton,Rachel McAdams,Liev Schreiber,45055776
+Song of the Sea,2014,93,"Animation, Adventure, Drama",8.1,Tomm Moore,David Rawle,Brendan Gleeson,Lisa Hannigan,Fionnula Flanagan,857524
+Kahaani,2012,122,"Mystery, Thriller",8.1,Sujoy Ghosh,Vidya Balan,Parambrata Chattopadhyay,Indraneil Sengupta,Nawazuddin Siddiqui,1035953
+Zindagi Na Milegi Dobara,2011,155,"Comedy, Drama",8.1,Zoya Akhtar,Hrithik Roshan,Farhan Akhtar,Abhay Deol,Katrina Kaif,3108485
+Prisoners,2013,153,"Crime, Drama, Mystery",8.1,Denis Villeneuve,Hugh Jackman,Jake Gyllenhaal,Viola Davis,Melissa Leo,61002302
+Mad Max: Fury Road,2015,120,"Action, Adventure, Sci-Fi",8.1,George Miller,Tom Hardy,Charlize Theron,Nicholas Hoult,Zoë Kravitz,154058340
+Gran Torino,2008,116,Drama,8.1,Clint Eastwood,Clint Eastwood,Bee Vang,Christopher Carley,Ahney Her,148095302
+Harry Potter and the Deathly Hallows: Part 2,2011,130,"Adventure, Drama, Fantasy",8.1,David Yates,Daniel Radcliffe,Emma Watson,Rupert Grint,Michael Gambon,381011219
+Okuribito,2008,130,"Drama, Music",8.1,Yôjirô Takita,Masahiro Motoki,Ryôko Hirosue,Tsutomu Yamazaki,Kazuko Yoshiyuki,1498210
+How to Train Your Dragon,2010,98,"Animation, Action, Adventure",8.1,Dean DeBlois,Chris Sanders,Jay Baruchel,Gerard Butler,Christopher Mintz-Plasse,217581231
+Into the Wild,2007,148,"Adventure, Biography, Drama",8.1,Sean Penn,Emile Hirsch,Vince Vaughn,Catherine Keener,Marcia Gay Harden,18354356
+No Country for Old Men,2007,122,"Crime, Drama, Thriller",8.1,Ethan Coen,Joel Coen,Tommy Lee Jones,Javier Bardem,Josh Brolin,74283625
+Lage Raho Munna Bhai,2006,144,"Comedy, Drama, Romance",8.1,Rajkumar Hirani,Sanjay Dutt,Arshad Warsi,Vidya Balan,Boman Irani,2217561
+Million Dollar Baby,2004,132,"Drama, Sport",8.1,Clint Eastwood,Hilary Swank,Clint Eastwood,Morgan Freeman,Jay Baruchel,100492203
+Hotel Rwanda,2004,121,"Biography, Drama, History",8.1,Terry George,Don Cheadle,Sophie Okonedo,Joaquin Phoenix,Xolani Mali,23530892
+Taegukgi hwinalrimyeo,2004,140,"Action, Drama, War",8.1,Je-kyu Kang,Jang Dong-Gun,Won Bin,Eun-ju Lee,Hyeong-jin Kong,1111061
+Before Sunset,2004,80,"Drama, Romance",8.1,Richard Linklater,Ethan Hawke,Julie Delpy,Vernon Dobtcheff,Louise Lemoine Torrès,5820649
+Salinui chueok,2003,131,"Crime, Drama, Mystery",8.1,Bong Joon Ho,Kang-ho Song,Kim Sang-kyung,Roe-ha Kim,Jae-ho Song,14131
+Dil Chahta Hai,2001,183,"Comedy, Drama, Romance",8.1,Farhan Akhtar,Aamir Khan,Saif Ali Khan,Akshaye Khanna,Preity Zinta,300000
+Kill Bill: Vol. 1,2003,111,"Action, Crime, Drama",8.1,Quentin Tarantino,Uma Thurman,David Carradine,Daryl Hannah,Michael Madsen,70099045
+Finding Nemo,2003,100,"Animation, Adventure, Comedy",8.1,Andrew Stanton,Lee Unkrich,Albert Brooks,Ellen DeGeneres,Alexander Gould,380843261
+Catch Me If You Can,2002,141,"Biography, Crime, Drama",8.1,Steven Spielberg,Leonardo DiCaprio,Tom Hanks,Christopher Walken,Martin Sheen,164615351
+Amores perros,2000,154,"Drama, Thriller",8.1,Alejandro G. Iñárritu,Emilio Echevarría,Gael García Bernal,Goya Toledo,Álvaro Guerrero,5383834
+"Monsters, Inc.",2001,92,"Animation, Adventure, Comedy",8.1,Pete Docter,David Silverman,Lee Unkrich,Billy Crystal,John Goodman,289916256
+The Sixth Sense,1999,107,"Drama, Mystery, Thriller",8.1,M. Night Shyamalan,Bruce Willis,Haley Joel Osment,Toni Collette,Olivia Williams,293506292
+La leggenda del pianista sull'oceano,1998,169,"Drama, Music, Romance",8.1,Giuseppe Tornatore,Tim Roth,Pruitt Taylor Vince,Mélanie Thierry,Bill Nunn,259127
+The Truman Show,1998,103,"Comedy, Drama",8.1,Peter Weir,Jim Carrey,Ed Harris,Laura Linney,Noah Emmerich,125618201
+"Crna macka, beli macor",1998,127,"Comedy, Crime, Romance",8.1,Emir Kusturica,Bajram Severdzan,Srdjan 'Zika' Todorovic,Branka Katic,Florijan Ajdini,348660
+The Big Lebowski,1998,117,"Comedy, Crime, Sport",8.1,Joel Coen,Ethan Coen,Jeff Bridges,John Goodman,Julianne Moore,17498804
+Fa yeung nin wah,2000,98,"Drama, Romance",8.1,Kar-Wai Wong,Tony Chiu-Wai Leung,Maggie Cheung,Ping Lam Siu,Tung Cho 'Joe' Cheung,2734044
+Trainspotting,1996,93,Drama,8.1,Danny Boyle,Ewan McGregor,Ewen Bremner,Jonny Lee Miller,Kevin McKidd,16501785
+Fargo,1996,98,"Crime, Drama, Thriller",8.1,Joel Coen,Ethan Coen,William H. Macy,Frances McDormand,Steve Buscemi,24611975
+Underground,1995,170,"Comedy, Drama, War",8.1,Emir Kusturica,Predrag 'Miki' Manojlovic,Lazar Ristovski,Mirjana Jokovic,Slavko Stimac,171082
+La haine,1995,98,"Crime, Drama",8.1,Mathieu Kassovitz,Vincent Cassel,Hubert Koundé,Saïd Taghmaoui,Abdel Ahmed Ghili,309811
+Before Sunrise,1995,101,"Drama, Romance",8.1,Richard Linklater,Ethan Hawke,Julie Delpy,Andrea Eckert,Hanno Pöschl,5535405
+Trois couleurs: Rouge,1994,99,"Drama, Mystery, Romance",8.1,Krzysztof Kieslowski,Irène Jacob,Jean-Louis Trintignant,Frédérique Feder,Jean-Pierre Lorit,4043686
+Chung Hing sam lam,1994,102,"Comedy, Crime, Drama",8.1,Kar-Wai Wong,Brigitte Lin,Takeshi Kaneshiro,Tony Chiu-Wai Leung,Faye Wong,600200
+Jurassic Park,1993,127,"Action, Adventure, Sci-Fi",8.1,Steven Spielberg,Sam Neill,Laura Dern,Jeff Goldblum,Richard Attenborough,402453882
+In the Name of the Father,1993,133,"Biography, Crime, Drama",8.1,Jim Sheridan,Daniel Day-Lewis,Pete Postlethwaite,Alison Crosbie,Philip King,25010410
+Ba wang bie ji,1993,171,"Drama, Music, Romance",8.1,Kaige Chen,Leslie Cheung,Fengyi Zhang,Gong Li,You Ge,5216888
+Dà hóng denglong gaogao guà,1991,125,"Drama, History, Romance",8.1,Yimou Zhang,Gong Li,Jingwu Ma,Saifei He,Cuifen Cao,2603061
+Dead Poets Society,1989,128,"Comedy, Drama",8.1,Peter Weir,Robin Williams,Robert Sean Leonard,Ethan Hawke,Josh Charles,95860116
+Stand by Me,1986,89,"Adventure, Drama",8.1,Rob Reiner,Wil Wheaton,River Phoenix,Corey Feldman,Jerry O'Connell,52287414
+Platoon,1986,120,"Drama, War",8.1,Oliver Stone,Charlie Sheen,Tom Berenger,Willem Dafoe,Keith David,138530565
+"Paris, Texas",1984,145,Drama,8.1,Wim Wenders,Harry Dean Stanton,Nastassja Kinski,Dean Stockwell,Aurore Clément,2181987
+Kaze no tani no Naushika,1984,117,"Animation, Adventure, Fantasy",8.1,Hayao Miyazaki,Sumi Shimamoto,Mahito Tsujimura,Hisako Kyôda,Gorô Naya,495770
+The Thing,1982,109,"Horror, Mystery, Sci-Fi",8.1,John Carpenter,Kurt Russell,Wilford Brimley,Keith David,Richard Masur,13782838
+Pink Floyd: The Wall,1982,95,"Drama, Fantasy, Music",8.1,Alan Parker,Bob Geldof,Christine Hargreaves,James Laurenson,Eleanor David,22244207
+Fanny och Alexander,1982,188,Drama,8.1,Ingmar Bergman,Bertil Guve,Pernilla Allwin,Kristina Adolphson,Börje Ahlstedt,4971340
+Blade Runner,1982,117,"Action, Sci-Fi, Thriller",8.1,Ridley Scott,Harrison Ford,Rutger Hauer,Sean Young,Edward James Olmos,32868943
+Life of Brian,1979,94,Comedy,8.1,Terry Jones,Graham Chapman,John Cleese,Michael Palin,Terry Gilliam,20045115
+The Deer Hunter,1978,183,"Drama, War",8.1,Michael Cimino,Robert De Niro,Christopher Walken,John Cazale,John Savage,48979328
+Rocky,1976,120,"Drama, Sport",8.1,John G. Avildsen,Sylvester Stallone,Talia Shire,Burt Young,Carl Weathers,117235247
+Zerkalo,1975,107,"Biography, Drama",8.1,Andrei Tarkovsky,Margarita Terekhova,Filipp Yankovskiy,Ignat Daniltsev,Oleg Yankovskiy,177345
+Chinatown,1974,130,"Drama, Mystery, Thriller",8.1,Roman Polanski,Jack Nicholson,Faye Dunaway,John Huston,Perry Lopez,29000000
+Paper Moon,1973,102,"Comedy, Crime, Drama",8.1,Peter Bogdanovich,Ryan O'Neal,Tatum O'Neal,Madeline Kahn,John Hillerman,30933743
+Viskningar och rop,1972,91,Drama,8.1,Ingmar Bergman,Harriet Andersson,Liv Ullmann,Kari Sylwan,Ingrid Thulin,1742348
+Bajrangi Bhaijaan,2015,163,"Action, Adventure, Comedy",8.0,Kabir Khan,Salman Khan,Harshaali Malhotra,Nawazuddin Siddiqui,Kareena Kapoor,8178001
+La La Land,2016,128,"Comedy, Drama, Music",8.0,Damien Chazelle,Ryan Gosling,Emma Stone,Rosemarie DeWitt,J.K. Simmons,151101803
+Lion,2016,118,"Biography, Drama",8.0,Garth Davis,Dev Patel,Nicole Kidman,Rooney Mara,Sunny Pawar,51739495
+The Martian,2015,144,"Adventure, Drama, Sci-Fi",8.0,Ridley Scott,Matt Damon,Jessica Chastain,Kristen Wiig,Kate Mara,228433663
+Zootopia,2016,108,"Animation, Adventure, Comedy",8.0,Byron Howard,Rich Moore,Jared Bush,Ginnifer Goodwin,Jason Bateman,341268248
+Bãhubali: The Beginning,2015,159,"Action, Drama",8.0,S.S. Rajamouli,Prabhas,Rana Daggubati,Ramya Krishnan,Sathyaraj,6738000
+Kaguyahime no monogatari,2013,137,"Animation, Adventure, Drama",8.0,Isao Takahata,Chloë Grace Moretz,James Caan,Mary Steenburgen,James Marsden,1506975
+Wonder,2017,113,"Drama, Family",8.0,Stephen Chbosky,Jacob Tremblay,Owen Wilson,Izabela Vidovic,Julia Roberts,132422809
+Gully Boy,2019,154,"Drama, Music, Romance",8.0,Zoya Akhtar,Vijay Varma,Nakul Roshan Sahdev,Ranveer Singh,Vijay Raaz,5566534
+Special Chabbis,2013,144,"Crime, Drama, Thriller",8.0,Neeraj Pandey,Akshay Kumar,Anupam Kher,Manoj Bajpayee,Jimmy Sheirgill,1079369
+Short Term 12,2013,96,Drama,8.0,Destin Daniel Cretton,Brie Larson,Frantz Turner,John Gallagher Jr.,Kaitlyn Dever,1010414
+Serbuan maut 2: Berandal,2014,150,"Action, Crime, Thriller",8.0,Gareth Evans,Iko Uwais,Yayan Ruhian,Arifin Putra,Oka Antara,2625803
+The Imitation Game,2014,114,"Biography, Drama, Thriller",8.0,Morten Tyldum,Benedict Cumberbatch,Keira Knightley,Matthew Goode,Allen Leech,91125683
+Guardians of the Galaxy,2014,121,"Action, Adventure, Comedy",8.0,James Gunn,Chris Pratt,Vin Diesel,Bradley Cooper,Zoe Saldana,333176600
+Blade Runner 2049,2017,164,"Action, Drama, Mystery",8.0,Denis Villeneuve,Harrison Ford,Ryan Gosling,Ana de Armas,Dave Bautista,92054159
+Her,2013,126,"Drama, Romance, Sci-Fi",8.0,Spike Jonze,Joaquin Phoenix,Amy Adams,Scarlett Johansson,Rooney Mara,25568251
+Bohemian Rhapsody,2018,134,"Biography, Drama, Music",8.0,Bryan Singer,Rami Malek,Lucy Boynton,Gwilym Lee,Ben Hardy,216428042
+The Revenant,2015,156,"Action, Adventure, Drama",8.0,Alejandro G. Iñárritu,Leonardo DiCaprio,Tom Hardy,Will Poulter,Domhnall Gleeson,183637894
+The Perks of Being a Wallflower,2012,103,"Drama, Romance",8.0,Stephen Chbosky,Logan Lerman,Emma Watson,Ezra Miller,Paul Rudd,17738570
+Tropa de Elite 2: O Inimigo Agora é Outro,2010,115,"Action, Crime, Drama",8.0,José Padilha,Wagner Moura,Irandhir Santos,André Ramiro,Milhem Cortaz,100119
+The King's Speech,2010,118,"Biography, Drama, History",8.0,Tom Hooper,Colin Firth,Geoffrey Rush,Helena Bonham Carter,Derek Jacobi,138797449
+The Help,2011,146,Drama,8.0,Tate Taylor,Emma Stone,Viola Davis,Octavia Spencer,Bryce Dallas Howard,169708112
+Deadpool,2016,108,"Action, Adventure, Comedy",8.0,Tim Miller,Ryan Reynolds,Morena Baccarin,T.J. Miller,Ed Skrein,363070709
+Darbareye Elly,2009,119,"Drama, Mystery",8.0,Asghar Farhadi,Golshifteh Farahani,Shahab Hosseini,Taraneh Alidoosti,Merila Zare'i,106662
+Dev.D,2009,144,"Drama, Romance",8.0,Anurag Kashyap,Abhay Deol,Mahie Gill,Kalki Koechlin,Dibyendu Bhattacharya,10950
+My Name Is Khan,2010,165,Drama,8.0,Karan Johar,Shah Rukh Khan,Kajol,Sheetal Menon,Katie A. Keane,4018695
+Slumdog Millionaire,2008,120,"Drama, Romance",8.0,Danny Boyle,Loveleen Tandan,Dev Patel,Freida Pinto,Saurabh Shukla,141319928
+Black Swan,2010,108,"Drama, Thriller",8.0,Darren Aronofsky,Natalie Portman,Mila Kunis,Vincent Cassel,Winona Ryder,106954678
+Tropa de Elite,2007,115,"Action, Crime, Drama",8.0,José Padilha,Wagner Moura,André Ramiro,Caio Junqueira,Milhem Cortaz,8060
+The Avengers,2012,143,"Action, Adventure, Sci-Fi",8.0,Joss Whedon,Robert Downey Jr.,Chris Evans,Scarlett Johansson,Jeremy Renner,623279547
+Persepolis,2007,96,"Animation, Biography, Drama",8.0,Vincent Paronnaud,Marjane Satrapi,Chiara Mastroianni,Catherine Deneuve,Gena Rowlands,4445756
+Dallas Buyers Club,2013,117,"Biography, Drama",8.0,Jean-Marc Vallée,Matthew McConaughey,Jennifer Garner,Jared Leto,Steve Zahn,27298285
+The Pursuit of Happyness,2006,117,"Biography, Drama",8.0,Gabriele Muccino,Will Smith,Thandie Newton,Jaden Smith,Brian Howe,163566459
+Blood Diamond,2006,143,"Adventure, Drama, Thriller",8.0,Edward Zwick,Leonardo DiCaprio,Djimon Hounsou,Jennifer Connelly,Kagiso Kuypers,57366262
+The Bourne Ultimatum,2007,115,"Action, Mystery, Thriller",8.0,Paul Greengrass,Matt Damon,Edgar Ramírez,Joan Allen,Julia Stiles,227471070
+Bin-jip,2004,88,"Crime, Drama, Romance",8.0,Ki-duk Kim,Seung-Yun Lee,Hee Jae,Hyuk-ho Kwon,Jin-mo Joo,238507
+Sin City,2005,124,"Crime, Thriller",8.0,Frank Miller,Quentin Tarantino,Robert Rodriguez,Mickey Rourke,Clive Owen,74103820
+Le scaphandre et le papillon,2007,112,"Biography, Drama",8.0,Julian Schnabel,Laura Obiols,Mathieu Amalric,Emmanuelle Seigner,Marie-Josée Croze,5990075
+Ratatouille,2007,111,"Animation, Adventure, Comedy",8.0,Brad Bird,Jan Pinkava,Brad Garrett,Lou Romano,Patton Oswalt,206445654
+Casino Royale,2006,144,"Action, Adventure, Thriller",8.0,Martin Campbell,Daniel Craig,Eva Green,Judi Dench,Jeffrey Wright,167445960
+Kill Bill: Vol. 2,2004,137,"Action, Crime, Thriller",8.0,Quentin Tarantino,Uma Thurman,David Carradine,Michael Madsen,Daryl Hannah,66208183
+Vozvrashchenie,2003,110,Drama,8.0,Andrey Zvyagintsev,Vladimir Garin,Ivan Dobronravov,Konstantin Lavronenko,Nataliya Vdovina,502028
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,2003,103,"Drama, Romance",8.0,Ki-duk Kim,Ki-duk Kim,Yeong-su Oh,Jong-ho Kim,Kim Young-Min,2380788
+Mar adentro,2014,126,"Biography, Drama",8.0,Alejandro Amenábar,Javier Bardem,Belén Rueda,Lola Dueñas,Mabel Rivera,2086345
+Cinderella Man,2005,144,"Biography, Drama, History",8.0,Ron Howard,Russell Crowe,Renée Zellweger,Craig Bierko,Paul Giamatti,61649911
+Kal Ho Naa Ho,2003,186,"Comedy, Drama, Musical",8.0,Nikkhil Advani,Preity Zinta,Shah Rukh Khan,Saif Ali Khan,Jaya Bachchan,1787378
+Mou gaan dou,2002,101,"Action, Crime, Drama",8.0,Andrew Lau,Alan Mak,Andy Lau,Tony Chiu-Wai Leung,Anthony Chau-Sang Wong,169659
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,"Action, Adventure, Fantasy",8.0,Gore Verbinski,Johnny Depp,Geoffrey Rush,Orlando Bloom,Keira Knightley,305413918
+Big Fish,2003,125,"Adventure, Drama, Fantasy",8.0,Tim Burton,Ewan McGregor,Albert Finney,Billy Crudup,Jessica Lange,66257002
+The Incredibles,2004,115,"Animation, Action, Adventure",8.0,Brad Bird,Craig T. Nelson,Samuel L. Jackson,Holly Hunter,Jason Lee,261441092
+Dogville,2003,178,"Crime, Drama",8.0,Lars von Trier,Nicole Kidman,Paul Bettany,Lauren Bacall,Harriet Andersson,1530386
+Donnie Darko,2001,113,"Drama, Mystery, Sci-Fi",8.0,Richard Kelly,Jake Gyllenhaal,Jena Malone,Mary McDonnell,Holmes Osborne,1480006
+Magnolia,1999,188,Drama,8.0,Paul Thomas Anderson,Tom Cruise,Jason Robards,Julianne Moore,Philip Seymour Hoffman,22455976
+Dancer in the Dark,2000,140,"Crime, Drama, Musical",8.0,Lars von Trier,Björk,Catherine Deneuve,David Morse,Peter Stormare,4184036
+The Straight Story,1999,112,"Biography, Drama",8.0,David Lynch,Richard Farnsworth,Sissy Spacek,Jane Galloway Heitz,Joseph A. Carpenter,6203044
+Pâfekuto burû,1997,81,"Animation, Crime, Mystery",8.0,Satoshi Kon,Junko Iwao,Rica Matsumoto,Shinpachi Tsuji,Masaaki Ôkura,776665
+Festen,1998,105,Drama,8.0,Thomas Vinterberg,Ulrich Thomsen,Henning Moritzen,Thomas Bo Larsen,Paprika Steen,1647780
+Central do Brasil,1998,110,Drama,8.0,Walter Salles,Fernanda Montenegro,Vinícius de Oliveira,Marília Pêra,Soia Lira,5595428
+The Iron Giant,1999,86,"Animation, Action, Adventure",8.0,Brad Bird,Eli Marienthal,Harry Connick Jr.,Jennifer Aniston,Vin Diesel,23159305
+Knockin' on Heaven's Door,1997,87,"Action, Crime, Comedy",8.0,Thomas Jahn,Til Schweiger,Jan Josef Liefers,Thierry van Werveke,Moritz Bleibtreu,3296
+Sling Blade,1996,135,Drama,8.0,Billy Bob Thornton,Billy Bob Thornton,Dwight Yoakam,J.T. Walsh,John Ritter,24475416
+Secrets & Lies,1996,136,"Comedy, Drama",8.0,Mike Leigh,Timothy Spall,Brenda Blethyn,Phyllis Logan,Claire Rushbrook,13417292
+Twelve Monkeys,1995,129,"Mystery, Sci-Fi, Thriller",8.0,Terry Gilliam,Bruce Willis,Madeleine Stowe,Brad Pitt,Joseph Melito,57141459
+Kôkaku Kidôtai,1995,83,"Animation, Action, Crime",8.0,Mamoru Oshii,Atsuko Tanaka,Iemasa Kayumi,Akio Ôtsuka,Kôichi Yamadera,515905
+The Nightmare Before Christmas,1993,76,"Animation, Family, Fantasy",8.0,Henry Selick,Danny Elfman,Chris Sarandon,Catherine O'Hara,William Hickey,75082668
+Groundhog Day,1993,101,"Comedy, Fantasy, Romance",8.0,Harold Ramis,Bill Murray,Andie MacDowell,Chris Elliott,Stephen Tobolowsky,70906973
+Bound by Honor,1993,180,"Crime, Drama",8.0,Taylor Hackford,Damian Chapa,Jesse Borrego,Benjamin Bratt,Enrique Castillo,4496583
+Scent of a Woman,1992,156,Drama,8.0,Martin Brest,Al Pacino,Chris O'Donnell,James Rebhorn,Gabrielle Anwar,63895607
+Aladdin,1992,90,"Animation, Adventure, Comedy",8.0,Ron Clements,John Musker,Scott Weinger,Robin Williams,Linda Larkin,217350219
+JFK,1991,189,"Drama, History, Thriller",8.0,Oliver Stone,Kevin Costner,Gary Oldman,Jack Lemmon,Walter Matthau,70405498
+Beauty and the Beast,1991,84,"Animation, Family, Fantasy",8.0,Gary Trousdale,Kirk Wise,Paige O'Hara,Robby Benson,Jesse Corti,218967620
+Dances with Wolves,1990,181,"Adventure, Drama, Western",8.0,Kevin Costner,Kevin Costner,Mary McDonnell,Graham Greene,Rodney A. Grant,184208848
+Do the Right Thing,1989,120,"Comedy, Drama",8.0,Spike Lee,Danny Aiello,Ossie Davis,Ruby Dee,Richard Edson,27545445
+Rain Man,1988,133,Drama,8.0,Barry Levinson,Dustin Hoffman,Tom Cruise,Valeria Golino,Gerald R. Molen,178800000
+Akira,1988,124,"Animation, Action, Sci-Fi",8.0,Katsuhiro Ôtomo,Mitsuo Iwata,Nozomu Sasaki,Mami Koyama,Tesshô Genda,553171
+The Princess Bride,1987,98,"Adventure, Family, Fantasy",8.0,Rob Reiner,Cary Elwes,Mandy Patinkin,Robin Wright,Chris Sarandon,30857814
+Der Himmel über Berlin,1987,128,"Drama, Fantasy, Romance",8.0,Wim Wenders,Bruno Ganz,Solveig Dommartin,Otto Sander,Curt Bois,3333969
+Au revoir les enfants,1987,104,"Drama, War",8.0,Louis Malle,Gaspard Manesse,Raphael Fejtö,Francine Racette,Stanislas Carré de Malberg,4542825
+The Terminator,1984,107,"Action, Sci-Fi",8.0,James Cameron,Arnold Schwarzenegger,Linda Hamilton,Michael Biehn,Paul Winfield,38400000
+Gandhi,1982,191,"Biography, Drama, History",8.0,Richard Attenborough,Ben Kingsley,John Gielgud,Rohini Hattangadi,Roshan Seth,52767889
+Being There,1979,130,"Comedy, Drama",8.0,Hal Ashby,Peter Sellers,Shirley MacLaine,Melvyn Douglas,Jack Warden,30177511
+Annie Hall,1977,93,"Comedy, Romance",8.0,Woody Allen,Woody Allen,Diane Keaton,Tony Roberts,Carol Kane,39200000
+Jaws,1975,124,"Adventure, Thriller",8.0,Steven Spielberg,Roy Scheider,Robert Shaw,Richard Dreyfuss,Lorraine Gary,260000000
+Dog Day Afternoon,1975,125,"Biography, Crime, Drama",8.0,Sidney Lumet,Al Pacino,John Cazale,Penelope Allen,Sully Boyar,50000000
+Young Frankenstein,1974,106,Comedy,8.0,Mel Brooks,Gene Wilder,Madeline Kahn,Marty Feldman,Peter Boyle,86300000
+Papillon,1973,151,"Biography, Crime, Drama",8.0,Franklin J. Schaffner,Steve McQueen,Dustin Hoffman,Victor Jory,Don Gordon,53267000
+The Exorcist,1973,122,Horror,8.0,William Friedkin,Ellen Burstyn,Max von Sydow,Linda Blair,Lee J. Cobb,232906145
+Sleuth,1972,138,"Mystery, Thriller",8.0,Joseph L. Mankiewicz,Laurence Olivier,Michael Caine,Alec Cawthorne,John Matthews,4081254
+The Last Picture Show,1971,118,"Drama, Romance",8.0,Peter Bogdanovich,Timothy Bottoms,Jeff Bridges,Cybill Shepherd,Ben Johnson,29133000
+Fiddler on the Roof,1971,181,"Drama, Family, Musical",8.0,Norman Jewison,Topol,Norma Crane,Leonard Frey,Molly Picon,80500000
+Il conformista,1970,113,Drama,8.0,Bernardo Bertolucci,Jean-Louis Trintignant,Stefania Sandrelli,Gastone Moschin,Enzo Tarascio,541940
+Knives Out,2019,130,"Comedy, Crime, Drama",7.9,Rian Johnson,Daniel Craig,Chris Evans,Ana de Armas,Jamie Lee Curtis,165359751
+Manbiki kazoku,2018,121,"Crime, Drama",7.9,Hirokazu Koreeda,Lily Franky,Sakura Andô,Kirin Kiki,Mayu Matsuoka,3313513
+Marriage Story,2019,137,"Comedy, Drama, Romance",7.9,Noah Baumbach,Adam Driver,Scarlett Johansson,Julia Greer,Azhy Robertson,2000000
+Call Me by Your Name,2017,132,"Drama, Romance",7.9,Luca Guadagnino,Armie Hammer,Timothée Chalamet,Michael Stuhlbarg,Amira Casar,18095701
+"I, Daniel Blake",2016,100,Drama,7.9,Ken Loach,Laura Obiols,Dave Johns,Hayley Squires,Sharon Percy,258168
+Isle of Dogs,2018,101,"Animation, Adventure, Comedy",7.9,Wes Anderson,Bryan Cranston,Koyu Rankin,Edward Norton,Bob Balaban,32015231
+Hunt for the Wilderpeople,2016,101,"Adventure, Comedy, Drama",7.9,Taika Waititi,Sam Neill,Julian Dennison,Rima Te Wiata,Rachel House,5202582
+Captain Fantastic,2016,118,"Comedy, Drama",7.9,Matt Ross,Viggo Mortensen,George MacKay,Samantha Isler,Annalise Basso,5875006
+Sing Street,2016,106,"Comedy, Drama, Music",7.9,John Carney,Ferdia Walsh-Peelo,Aidan Gillen,Maria Doyle Kennedy,Jack Reynor,3237118
+Thor: Ragnarok,2017,130,"Action, Adventure, Comedy",7.9,Taika Waititi,Chris Hemsworth,Tom Hiddleston,Cate Blanchett,Mark Ruffalo,315058289
+Nightcrawler,2014,117,"Crime, Drama, Thriller",7.9,Dan Gilroy,Jake Gyllenhaal,Rene Russo,Bill Paxton,Riz Ahmed,32381218
+Jojo Rabbit,2019,108,"Comedy, Drama, War",7.9,Taika Waititi,Roman Griffin Davis,Thomasin McKenzie,Scarlett Johansson,Taika Waititi,349555
+Arrival,2016,116,"Drama, Sci-Fi",7.9,Denis Villeneuve,Amy Adams,Jeremy Renner,Forest Whitaker,Michael Stuhlbarg,100546139
+Star Wars: Episode VII - The Force Awakens,2015,138,"Action, Adventure, Sci-Fi",7.9,J.J. Abrams,Daisy Ridley,John Boyega,Oscar Isaac,Domhnall Gleeson,936662225
+Before Midnight,2013,109,"Drama, Romance",7.9,Richard Linklater,Ethan Hawke,Julie Delpy,Seamus Davey-Fitzpatrick,Ariane Labed,8114627
+X-Men: Days of Future Past,2014,132,"Action, Adventure, Sci-Fi",7.9,Bryan Singer,Patrick Stewart,Ian McKellen,Hugh Jackman,James McAvoy,233921534
+Bir Zamanlar Anadolu'da,2011,157,"Crime, Drama",7.9,Nuri Bilge Ceylan,Muhammet Uzuner,Yilmaz Erdogan,Taner Birsel,Ahmet Mümtaz Taylan,138730
+The Artist,2011,100,"Comedy, Drama, Romance",7.9,Michel Hazanavicius,Jean Dujardin,Bérénice Bejo,John Goodman,James Cromwell,44671682
+Edge of Tomorrow,2014,113,"Action, Adventure, Sci-Fi",7.9,Doug Liman,Tom Cruise,Emily Blunt,Bill Paxton,Brendan Gleeson,100206256
+Amour,2012,127,"Drama, Romance",7.9,Michael Haneke,Jean-Louis Trintignant,Emmanuelle Riva,Isabelle Huppert,Alexandre Tharaud,6739492
+The Irishman,2019,209,"Biography, Crime, Drama",7.9,Martin Scorsese,Robert De Niro,Al Pacino,Joe Pesci,Harvey Keitel,7000000
+Un prophète,2009,155,"Crime, Drama",7.9,Jacques Audiard,Tahar Rahim,Niels Arestrup,Adel Bencherif,Reda Kateb,2084637
+Moon,2009,97,"Drama, Mystery, Sci-Fi",7.9,Duncan Jones,Sam Rockwell,Kevin Spacey,Dominique McElligott,Rosie Shaw,5009677
+Låt den rätte komma in,2008,114,"Crime, Drama, Fantasy",7.9,Tomas Alfredson,Kåre Hedebrant,Lina Leandersson,Per Ragnar,Henrik Dahl,2122065
+District 9,2009,112,"Action, Sci-Fi, Thriller",7.9,Neill Blomkamp,Sharlto Copley,David James,Jason Cope,Nathalie Boltt,115646235
+The Wrestler,2008,109,"Drama, Sport",7.9,Darren Aronofsky,Mickey Rourke,Marisa Tomei,Evan Rachel Wood,Mark Margolis,26236603
+Jab We Met,2007,138,"Comedy, Drama, Romance",7.9,Imtiaz Ali,Shahid Kapoor,Kareena Kapoor,Tarun Arora,Dara Singh,410800
+Boyhood,2014,165,Drama,7.9,Richard Linklater,Ellar Coltrane,Patricia Arquette,Ethan Hawke,Elijah Smith,25379975
+"4 luni, 3 saptamâni si 2 zile",2007,113,Drama,7.9,Cristian Mungiu,Anamaria Marinca,Laura Vasiliu,Vlad Ivanov,Alexandru Potocean,1185783
+Star Trek,2009,127,"Action, Adventure, Sci-Fi",7.9,J.J. Abrams,Chris Pine,Zachary Quinto,Simon Pegg,Leonard Nimoy,257730019
+In Bruges,2008,107,"Comedy, Crime, Drama",7.9,Martin McDonagh,Colin Farrell,Brendan Gleeson,Ciarán Hinds,Elizabeth Berrington,7757130
+Letters from Iwo Jima,2006,141,"Action, Adventure, Drama",7.9,Clint Eastwood,Ken Watanabe,Kazunari Ninomiya,Tsuyoshi Ihara,Ryô Kase,13756082
+The Fall,2006,117,"Adventure, Drama, Fantasy",7.9,Tarsem Singh,Lee Pace,Catinca Untaru,Justine Waddell,Kim Uylenbroek,2280348
+Life of Pi,2012,127,"Adventure, Drama, Fantasy",7.9,Ang Lee,Suraj Sharma,Irrfan Khan,Adil Hussain,Tabu,124987023
+Fantastic Mr. Fox,2009,87,"Animation, Adventure, Comedy",7.9,Wes Anderson,George Clooney,Meryl Streep,Bill Murray,Jason Schwartzman,21002919
+Les choristes,2004,97,"Drama, Music",7.9,Christophe Barratier,Gérard Jugnot,François Berléand,Jean-Baptiste Maunier,Kad Merad,3635164
+Iron Man,2008,126,"Action, Adventure, Sci-Fi",7.9,Jon Favreau,Robert Downey Jr.,Gwyneth Paltrow,Terrence Howard,Jeff Bridges,318412101
+Shaun of the Dead,2004,99,"Comedy, Horror",7.9,Edgar Wright,Simon Pegg,Nick Frost,Kate Ashfield,Lucy Davis,13542874
+Mystic River,2003,138,"Crime, Drama, Mystery",7.9,Clint Eastwood,Sean Penn,Tim Robbins,Kevin Bacon,Emmy Rossum,90135191
+Harry Potter and the Prisoner of Azkaban,2004,142,"Adventure, Family, Fantasy",7.9,Alfonso Cuarón,Daniel Radcliffe,Emma Watson,Rupert Grint,Richard Griffiths,249358727
+Ying xiong,2002,120,"Action, Adventure, History",7.9,Yimou Zhang,Jet Li,Tony Chiu-Wai Leung,Maggie Cheung,Ziyi Zhang,53710019
+Hable con ella,2002,112,"Drama, Mystery, Romance",7.9,Pedro Almodóvar,Rosario Flores,Javier Cámara,Darío Grandinetti,Leonor Watling,9284265
+No Man's Land,2001,98,"Comedy, Drama, War",7.9,Danis Tanovic,Branko Djuric,Rene Bitorajac,Filip Sovagovic,Georges Siatidis,1059830
+Cowboy Bebop: Tengoku no tobira,2001,115,"Animation, Action, Crime",7.9,Shin'ichirô Watanabe,Tensai Okamura,Hiroyuki Okiura,Yoshiyuki Takei,Beau Billingslea,1000045
+The Bourne Identity,2002,119,"Action, Mystery, Thriller",7.9,Doug Liman,Franka Potente,Matt Damon,Chris Cooper,Clive Owen,121661683
+Nueve reinas,2000,114,"Crime, Drama, Thriller",7.9,Fabián Bielinsky,Ricardo Darín,Gastón Pauls,Graciela Tenenbaum,María Mercedes Villagra,1221261
+Children of Men,2006,109,"Adventure, Drama, Sci-Fi",7.9,Alfonso Cuarón,Julianne Moore,Clive Owen,Chiwetel Ejiofor,Michael Caine,35552383
+Almost Famous,2000,122,"Adventure, Comedy, Drama",7.9,Cameron Crowe,Billy Crudup,Patrick Fugit,Kate Hudson,Frances McDormand,32534850
+Mulholland Dr.,2001,147,"Drama, Mystery, Thriller",7.9,David Lynch,Naomi Watts,Laura Harring,Justin Theroux,Jeanne Bates,7220243
+Toy Story 2,1999,92,"Animation, Adventure, Comedy",7.9,John Lasseter,Ash Brannon,Lee Unkrich,Tom Hanks,Tim Allen,245852179
+Boogie Nights,1997,155,Drama,7.9,Paul Thomas Anderson,Mark Wahlberg,Julianne Moore,Burt Reynolds,Luis Guzmán,26400640
+Once Were Warriors,1994,102,"Crime, Drama",7.9,Lee Tamahori,Rena Owen,Temuera Morrison,Mamaengaroa Kerr-Bell,Julian Arahanga,2201126
+True Romance,1993,119,"Crime, Drama, Romance",7.9,Tony Scott,Christian Slater,Patricia Arquette,Dennis Hopper,Val Kilmer,12281500
+Trois couleurs: Bleu,1993,94,"Drama, Music, Mystery",7.9,Krzysztof Kieslowski,Juliette Binoche,Zbigniew Zamachowski,Julie Delpy,Benoît Régent,1324974
+Carlito's Way,1993,144,"Crime, Drama, Thriller",7.9,Brian De Palma,Al Pacino,Sean Penn,Penelope Ann Miller,John Leguizamo,36948322
+Edward Scissorhands,1990,105,"Drama, Fantasy, Romance",7.9,Tim Burton,Johnny Depp,Winona Ryder,Dianne Wiest,Anthony Michael Hall,56362352
+My Left Foot: The Story of Christy Brown,1989,103,"Biography, Drama",7.9,Jim Sheridan,Daniel Day-Lewis,Brenda Fricker,Alison Whelan,Kirsten Sheridan,14743391
+Crimes and Misdemeanors,1989,104,"Comedy, Drama",7.9,Woody Allen,Martin Landau,Woody Allen,Bill Bernstein,Claire Bloom,18254702
+The Untouchables,1987,119,"Crime, Drama, Thriller",7.9,Brian De Palma,Kevin Costner,Sean Connery,Robert De Niro,Charles Martin Smith,76270454
+Hannah and Her Sisters,1986,107,"Comedy, Drama",7.9,Woody Allen,Mia Farrow,Dianne Wiest,Michael Caine,Barbara Hershey,40084041
+Brazil,1985,132,"Drama, Sci-Fi",7.9,Terry Gilliam,Jonathan Pryce,Kim Greist,Robert De Niro,Katherine Helmond,9929135
+This Is Spinal Tap,1984,82,"Comedy, Music",7.9,Rob Reiner,Rob Reiner,Michael McKean,Christopher Guest,Kimberly Stringer,188751
+A Christmas Story,1983,93,"Comedy, Family",7.9,Bob Clark,Peter Billingsley,Melinda Dillon,Darren McGavin,Scott Schwartz,20605209
+The Blues Brothers,1980,133,"Action, Adventure, Comedy",7.9,John Landis,John Belushi,Dan Aykroyd,Cab Calloway,John Candy,57229890
+Manhattan,1979,96,"Comedy, Drama, Romance",7.9,Woody Allen,Woody Allen,Diane Keaton,Mariel Hemingway,Michael Murphy,45700000
+All That Jazz,1979,123,"Drama, Music, Musical",7.9,Bob Fosse,Roy Scheider,Jessica Lange,Ann Reinking,Leland Palmer,37823676
+Dawn of the Dead,1978,127,"Action, Adventure, Horror",7.9,George A. Romero,David Emge,Ken Foree,Scott H. Reiniger,Gaylen Ross,5100000
+All the President's Men,1976,138,"Biography, Drama, History",7.9,Alan J. Pakula,Dustin Hoffman,Robert Redford,Jack Warden,Martin Balsam,70600000
+La montaña sagrada,1973,114,"Adventure, Drama, Fantasy",7.9,Alejandro Jodorowsky,Alejandro Jodorowsky,Horacio Salinas,Zamira Saunders,Juan Ferrara,61001
+Le charme discret de la bourgeoisie,1972,102,Comedy,7.9,Luis Buñuel,Fernando Rey,Delphine Seyrig,Paul Frankeur,Bulle Ogier,198809
+Patton,1970,172,"Biography, Drama, War",7.9,Franklin J. Schaffner,George C. Scott,Karl Malden,Stephen Young,Michael Strong,61700000
+Forushande,2016,124,Drama,7.8,Asghar Farhadi,Shahab Hosseini,Taraneh Alidoosti,Babak Karimi,Mina Sadati,2402067
+Dunkirk,2017,106,"Action, Drama, History",7.8,Christopher Nolan,Fionn Whitehead,Barry Keoghan,Mark Rylance,Tom Hardy,188373161
+Hidden Figures,2016,127,"Biography, Drama, History",7.8,Theodore Melfi,Taraji P. Henson,Octavia Spencer,Janelle Monáe,Kevin Costner,169607287
+Paddington 2,2017,103,"Adventure, Comedy, Family",7.8,Paul King,Ben Whishaw,Hugh Grant,Hugh Bonneville,Sally Hawkins,40442052
+Kubo and the Two Strings,2016,101,"Animation, Action, Adventure",7.8,Travis Knight,Charlize Theron,Art Parkinson,Matthew McConaughey,Ralph Fiennes,48023088
+M.S. Dhoni: The Untold Story,2016,184,"Biography, Drama, Sport",7.8,Neeraj Pandey,Sushant Singh Rajput,Kiara Advani,Anupam Kher,Disha Patani,1782795
+Manchester by the Sea,2016,137,Drama,7.8,Kenneth Lonergan,Casey Affleck,Michelle Williams,Kyle Chandler,Lucas Hedges,47695120
+Under sandet,2015,100,"Drama, History, War",7.8,Martin Zandvliet,Roland Møller,Louis Hofmann,Joel Basman,Mikkel Boe Følsgaard,435266
+Rogue One,2016,133,"Action, Adventure, Sci-Fi",7.8,Gareth Edwards,Felicity Jones,Diego Luna,Alan Tudyk,Donnie Yen,532177324
+Captain America: Civil War,2016,147,"Action, Adventure, Sci-Fi",7.8,Anthony Russo,Joe Russo,Chris Evans,Robert Downey Jr.,Scarlett Johansson,408084349
+The Hateful Eight,2015,168,"Crime, Drama, Mystery",7.8,Quentin Tarantino,Samuel L. Jackson,Kurt Russell,Jennifer Jason Leigh,Walton Goggins,54117416
+Little Women,2019,135,"Drama, Romance",7.8,Greta Gerwig,Saoirse Ronan,Emma Watson,Florence Pugh,Eliza Scanlen,108101214
+Loving Vincent,2017,94,"Animation, Biography, Crime",7.8,Dorota Kobiela,Hugh Welchman,Douglas Booth,Jerome Flynn,Robert Gulaczyk,6735118
+Le passé,2013,130,"Drama, Mystery",7.8,Asghar Farhadi,Bérénice Bejo,Tahar Rahim,Ali Mosaffa,Pauline Burlet,1330596
+La grande bellezza,2013,141,Drama,7.8,Paolo Sorrentino,Toni Servillo,Carlo Verdone,Sabrina Ferilli,Carlo Buccirosso,2852400
+The Lunchbox,2013,104,"Drama, Romance",7.8,Ritesh Batra,Irrfan Khan,Nimrat Kaur,Nawazuddin Siddiqui,Lillete Dubey,4231500
+Vicky Donor,2012,126,"Comedy, Romance",7.8,Shoojit Sircar,Ayushmann Khurrana,Yami Gautam,Annu Kapoor,Dolly Ahluwalia,169209
+Big Hero 6,2014,102,"Animation, Action, Adventure",7.8,Don Hall,Chris Williams,Ryan Potter,Scott Adsit,Jamie Chung,222527828
+About Time,2013,123,"Comedy, Drama, Fantasy",7.8,Richard Curtis,Domhnall Gleeson,Rachel McAdams,Bill Nighy,Lydia Wilson,15322921
+English Vinglish,2012,134,"Comedy, Drama, Family",7.8,Gauri Shinde,Sridevi,Adil Hussain,Mehdi Nebbou,Priya Anand,1670773
+Kaze tachinu,2013,126,"Animation, Biography, Drama",7.8,Hayao Miyazaki,Hideaki Anno,Hidetoshi Nishijima,Miori Takimoto,Masahiko Nishimura,5209580
+Toy Story 4,2019,100,"Animation, Adventure, Comedy",7.8,Josh Cooley,Tom Hanks,Tim Allen,Annie Potts,Tony Hale,434038008
+La migliore offerta,2013,131,"Crime, Drama, Mystery",7.8,Giuseppe Tornatore,Geoffrey Rush,Jim Sturgess,Sylvia Hoeks,Donald Sutherland,85433
+Moonrise Kingdom,2012,94,"Comedy, Drama, Romance",7.8,Wes Anderson,Jared Gilman,Kara Hayward,Bruce Willis,Bill Murray,45512466
+How to Train Your Dragon 2,2014,102,"Animation, Action, Adventure",7.8,Dean DeBlois,Jay Baruchel,Cate Blanchett,Gerard Butler,Craig Ferguson,177002924
+The Big Short,2015,130,"Biography, Comedy, Drama",7.8,Adam McKay,Christian Bale,Steve Carell,Ryan Gosling,Brad Pitt,70259870
+Ang-ma-reul bo-at-da,2010,144,"Action, Crime, Drama",7.8,Jee-woon Kim,Lee Byung-Hun,Choi Min-sik,Jeon Gook-Hwan,Ho-jin Chun,128392
+The Girl with the Dragon Tattoo,2011,158,"Crime, Drama, Mystery",7.8,David Fincher,Daniel Craig,Rooney Mara,Christopher Plummer,Stellan Skarsgård,102515793
+Captain Phillips,2013,134,"Adventure, Biography, Crime",7.8,Paul Greengrass,Tom Hanks,Barkhad Abdi,Barkhad Abdirahman,Catherine Keener,107100855
+Ajeossi,2010,119,"Action, Crime, Drama",7.8,Jeong-beom Lee,Won Bin,Sae-ron Kim,Tae-hoon Kim,Hee-won Kim,6460
+Straight Outta Compton,2015,147,"Biography, Drama, History",7.8,F. Gary Gray,O'Shea Jackson Jr.,Corey Hawkins,Jason Mitchell,Neil Brown Jr.,161197785
+Madeo,2009,129,"Crime, Drama, Mystery",7.8,Bong Joon Ho,Hye-ja Kim,Won Bin,Jin Goo,Je-mun Yun,547292
+The Hobbit: The Desolation of Smaug,2013,161,"Adventure, Fantasy",7.8,Peter Jackson,Ian McKellen,Martin Freeman,Richard Armitage,Ken Stott,258366855
+Das weiße Band - Eine deutsche Kindergeschichte,2009,144,"Drama, History, Mystery",7.8,Michael Haneke,Christian Friedel,Ernst Jacobi,Leonie Benesch,Ulrich Tukur,2222647
+Män som hatar kvinnor,2009,152,"Crime, Drama, Mystery",7.8,Niels Arden Oplev,Michael Nyqvist,Noomi Rapace,Ewa Fröling,Lena Endre,10095170
+The Fighter,2010,116,"Biography, Drama, Sport",7.8,David O. Russell,Mark Wahlberg,Christian Bale,Amy Adams,Melissa Leo,93617009
+Taken,2008,90,"Action, Thriller",7.8,Pierre Morel,Liam Neeson,Maggie Grace,Famke Janssen,Leland Orser,145000989
+The Boy in the Striped Pyjamas,2008,94,"Drama, History, War",7.8,Mark Herman,Asa Butterfield,David Thewlis,Rupert Friend,Zac Mattoon O'Brien,9030581
+Once,2007,86,"Drama, Music, Romance",7.8,John Carney,Glen Hansard,Markéta Irglová,Hugh Walsh,Gerard Hendrick,9439923
+The Hobbit: An Unexpected Journey,2012,169,"Adventure, Fantasy",7.8,Peter Jackson,Martin Freeman,Ian McKellen,Richard Armitage,Andy Serkis,303003568
+Auf der anderen Seite,2007,122,Drama,7.8,Fatih Akin,Baki Davrak,Nurgül Yesilçay,Tuncel Kurtiz,Nursel Köse,741283
+Atonement,2007,123,"Drama, Mystery, Romance",7.8,Joe Wright,Keira Knightley,James McAvoy,Brenda Blethyn,Saoirse Ronan,50927067
+Drive,2011,100,"Crime, Drama",7.8,Nicolas Winding Refn,Ryan Gosling,Carey Mulligan,Bryan Cranston,Albert Brooks,35061555
+American Gangster,2007,157,"Biography, Crime, Drama",7.8,Ridley Scott,Denzel Washington,Russell Crowe,Chiwetel Ejiofor,Josh Brolin,130164645
+Avatar,2009,162,"Action, Adventure, Fantasy",7.8,James Cameron,Sam Worthington,Zoe Saldana,Sigourney Weaver,Michelle Rodriguez,760507625
+Mr. Nobody,2009,141,"Drama, Fantasy, Romance",7.8,Jaco Van Dormael,Jared Leto,Sarah Polley,Diane Kruger,Linh Dan Pham,3600
+Apocalypto,2006,139,"Action, Adventure, Drama",7.8,Mel Gibson,Gerardo Taracena,Raoul Max Trujillo,Dalia Hernández,Rudy Youngblood,50866635
+Little Miss Sunshine,2006,101,"Comedy, Drama",7.8,Jonathan Dayton,Valerie Faris,Steve Carell,Toni Collette,Greg Kinnear,59891098
+Hot Fuzz,2007,121,"Action, Comedy, Mystery",7.8,Edgar Wright,Simon Pegg,Nick Frost,Martin Freeman,Bill Nighy,23637265
+The Curious Case of Benjamin Button,2008,166,"Drama, Fantasy, Romance",7.8,David Fincher,Brad Pitt,Cate Blanchett,Tilda Swinton,Julia Ormond,127509326
+Veer-Zaara,2004,192,"Drama, Family, Musical",7.8,Yash Chopra,Shah Rukh Khan,Preity Zinta,Rani Mukerji,Kirron Kher,2921738
+Adams æbler,2005,94,"Comedy, Crime, Drama",7.8,Anders Thomas Jensen,Ulrich Thomsen,Mads Mikkelsen,Nicolas Bro,Paprika Steen,1305
+Pride & Prejudice,2005,129,"Drama, Romance",7.8,Joe Wright,Keira Knightley,Matthew Macfadyen,Brenda Blethyn,Donald Sutherland,38405088
+The World's Fastest Indian,2005,127,"Biography, Drama, Sport",7.8,Roger Donaldson,Anthony Hopkins,Diane Ladd,Iain Rea,Tessa Mitchell,5128124
+Tôkyô goddofâzâzu,2003,90,"Animation, Adventure, Comedy",7.8,Satoshi Kon,Shôgo Furuya,Tôru Emori,Yoshiaki Umegaki,Aya Okamoto,128985
+Serenity,2005,119,"Action, Adventure, Sci-Fi",7.8,Joss Whedon,Nathan Fillion,Gina Torres,Chiwetel Ejiofor,Alan Tudyk,25514517
+Walk the Line,2005,136,"Biography, Drama, Music",7.8,James Mangold,Joaquin Phoenix,Reese Witherspoon,Ginnifer Goodwin,Robert Patrick,119519402
+Ondskan,2003,113,Drama,7.8,Mikael Håfström,Andreas Wilson,Henrik Lundström,Gustaf Skarsgård,Linda Zilliacus,15280
+The Notebook,2004,123,"Drama, Romance",7.8,Nick Cassavetes,Gena Rowlands,James Garner,Rachel McAdams,Ryan Gosling,81001787
+Diarios de motocicleta,2004,126,"Adventure, Biography, Drama",7.8,Walter Salles,Gael García Bernal,Rodrigo De la Serna,Mía Maestro,Mercedes Morán,16756372
+Lilja 4-ever,2002,109,"Crime, Drama",7.8,Lukas Moodysson,Oksana Akinshina,Artyom Bogucharskiy,Pavel Ponomaryov,Lyubov Agapova,181655
+Les triplettes de Belleville,2003,80,"Animation, Comedy, Drama",7.8,Sylvain Chomet,Michèle Caucheteux,Jean-Claude Donda,Michel Robin,Monica Viegas,7002255
+The Count of Monte Cristo,2002,131,"Action, Adventure, Drama",7.8,Kevin Reynolds,Jim Caviezel,Guy Pearce,Christopher Adamson,JB Blanc,54234062
+Waking Life,2001,99,"Animation, Drama, Fantasy",7.8,Richard Linklater,Ethan Hawke,Trevor Jack Brooks,Lorelei Linklater,Wiley Wiggins,2892011
+Remember the Titans,2000,113,"Biography, Drama, Sport",7.8,Boaz Yakin,Denzel Washington,Will Patton,Wood Harris,Ryan Hurst,115654751
+Wo hu cang long,2000,120,"Action, Adventure, Fantasy",7.8,Ang Lee,Yun-Fat Chow,Michelle Yeoh,Ziyi Zhang,Chen Chang,128078872
+Todo sobre mi madre,1999,101,Drama,7.8,Pedro Almodóvar,Cecilia Roth,Marisa Paredes,Candela Peña,Antonia San Juan,8264530
+Cast Away,2000,143,"Adventure, Drama, Romance",7.8,Robert Zemeckis,Tom Hanks,Helen Hunt,Paul Sanchez,Lari White,233632142
+The Boondock Saints,1999,108,"Action, Crime, Thriller",7.8,Troy Duffy,Willem Dafoe,Sean Patrick Flanery,Norman Reedus,David Della Rocco,25812
+The Insider,1999,157,"Biography, Drama, Thriller",7.8,Michael Mann,Russell Crowe,Al Pacino,Christopher Plummer,Diane Venora,28965197
+October Sky,1999,108,"Biography, Drama, Family",7.8,Joe Johnston,Jake Gyllenhaal,Chris Cooper,Laura Dern,Chris Owen,32481825
+Shrek,2001,90,"Animation, Adventure, Comedy",7.8,Andrew Adamson,Vicky Jenson,Mike Myers,Eddie Murphy,Cameron Diaz,267665011
+Titanic,1997,194,"Drama, Romance",7.8,James Cameron,Leonardo DiCaprio,Kate Winslet,Billy Zane,Kathy Bates,659325379
+Hana-bi,1997,103,"Crime, Drama, Romance",7.8,Takeshi Kitano,Takeshi Kitano,Kayoko Kishimoto,Ren Osugi,Susumu Terajima,233986
+Gattaca,1997,106,"Drama, Sci-Fi, Thriller",7.8,Andrew Niccol,Ethan Hawke,Uma Thurman,Jude Law,Gore Vidal,12339633
+The Game,1997,129,"Action, Drama, Mystery",7.8,David Fincher,Michael Douglas,Deborah Kara Unger,Sean Penn,James Rebhorn,48323648
+Breaking the Waves,1996,159,Drama,7.8,Lars von Trier,Emily Watson,Stellan Skarsgård,Katrin Cartlidge,Jean-Marc Barr,4040691
+Ed Wood,1994,127,"Biography, Comedy, Drama",7.8,Tim Burton,Johnny Depp,Martin Landau,Sarah Jessica Parker,Patricia Arquette,5887457
+What's Eating Gilbert Grape,1993,118,Drama,7.8,Lasse Hallström,Johnny Depp,Leonardo DiCaprio,Juliette Lewis,Mary Steenburgen,9170214
+Tombstone,1993,130,"Action, Biography, Drama",7.8,George P. Cosmatos,Kevin Jarre,Kurt Russell,Val Kilmer,Sam Elliott,56505065
+The Sandlot,1993,101,"Comedy, Drama, Family",7.8,David Mickey Evans,Tom Guiry,Mike Vitar,Art LaFleur,Patrick Renna,32416586
+The Remains of the Day,1993,134,"Drama, Romance",7.8,James Ivory,Anthony Hopkins,Emma Thompson,John Haycraft,Christopher Reeve,22954968
+Naked,1993,132,"Comedy, Drama",7.8,Mike Leigh,David Thewlis,Lesley Sharp,Katrin Cartlidge,Greg Cruttwell,1769305
+The Fugitive,1993,130,"Action, Crime, Drama",7.8,Andrew Davis,Harrison Ford,Tommy Lee Jones,Sela Ward,Julianne Moore,183875760
+A Bronx Tale,1993,121,"Crime, Drama, Romance",7.8,Robert De Niro,Robert De Niro,Chazz Palminteri,Lillo Brancato,Francis Capra,17266971
+Batman: Mask of the Phantasm,1993,76,"Animation, Action, Crime",7.8,Kevin Altieri,Boyd Kirkland,Frank Paur,Dan Riba,Eric Radomski,5617391
+Night on Earth,1991,129,"Comedy, Drama",7.8,Jim Jarmusch,Winona Ryder,Gena Rowlands,Lisanne Falk,Alan Randolph Scott,2015810
+La double vie de Véronique,1991,98,"Drama, Fantasy, Music",7.8,Krzysztof Kieslowski,Irène Jacob,Wladyslaw Kowalski,Halina Gryglaszewska,Kalina Jedrusik,1999955
+Boyz n the Hood,1991,112,"Crime, Drama",7.8,John Singleton,Cuba Gooding Jr.,Laurence Fishburne,Hudhail Al-Amir,Lloyd Avery II,57504069
+Misery,1990,107,"Drama, Thriller",7.8,Rob Reiner,James Caan,Kathy Bates,Richard Farnsworth,Frances Sternhagen,61276872
+Awakenings,1990,121,"Biography, Drama",7.8,Penny Marshall,Robert De Niro,Robin Williams,Julie Kavner,Ruth Nelson,52096475
+Glory,1989,122,"Biography, Drama, History",7.8,Edward Zwick,Matthew Broderick,Denzel Washington,Cary Elwes,Morgan Freeman,26830000
+Back to the Future Part II,1989,108,"Adventure, Comedy, Sci-Fi",7.8,Robert Zemeckis,Michael J. Fox,Christopher Lloyd,Lea Thompson,Thomas F. Wilson,118500000
+Mississippi Burning,1988,128,"Crime, Drama, History",7.8,Alan Parker,Gene Hackman,Willem Dafoe,Frances McDormand,Brad Dourif,34603943
+Predator,1987,107,"Action, Adventure, Sci-Fi",7.8,John McTiernan,Arnold Schwarzenegger,Carl Weathers,Kevin Peter Hall,Elpidia Carrillo,59735548
+Evil Dead II,1987,84,"Action, Comedy, Fantasy",7.8,Sam Raimi,Bruce Campbell,Sarah Berry,Dan Hicks,Kassie Wesley DePaiva,5923044
+Ferris Bueller's Day Off,1986,103,Comedy,7.8,John Hughes,Matthew Broderick,Alan Ruck,Mia Sara,Jeffrey Jones,70136369
+Down by Law,1986,107,"Comedy, Crime, Drama",7.8,Jim Jarmusch,Tom Waits,John Lurie,Roberto Benigni,Nicoletta Braschi,1436000
+The Goonies,1985,114,"Adventure, Comedy, Family",7.8,Richard Donner,Sean Astin,Josh Brolin,Jeff Cohen,Corey Feldman,61503218
+The Color Purple,1985,154,Drama,7.8,Steven Spielberg,Danny Glover,Whoopi Goldberg,Oprah Winfrey,Margaret Avery,98467863
+The Breakfast Club,1985,97,"Comedy, Drama",7.8,John Hughes,Emilio Estevez,Judd Nelson,Molly Ringwald,Ally Sheedy,45875171
+The Killing Fields,1984,141,"Biography, Drama, History",7.8,Roland Joffé,Sam Waterston,Haing S. Ngor,John Malkovich,Julian Sands,34700291
+Ghostbusters,1984,105,"Action, Comedy, Fantasy",7.8,Ivan Reitman,Bill Murray,Dan Aykroyd,Sigourney Weaver,Harold Ramis,238632124
+The Right Stuff,1983,193,"Adventure, Biography, Drama",7.8,Philip Kaufman,Sam Shepard,Scott Glenn,Ed Harris,Dennis Quaid,21500000
+The King of Comedy,1982,109,"Comedy, Crime, Drama",7.8,Martin Scorsese,Robert De Niro,Jerry Lewis,Diahnne Abbott,Sandra Bernhard,2500000
+E.T. the Extra-Terrestrial,1982,115,"Family, Sci-Fi",7.8,Steven Spielberg,Henry Thomas,Drew Barrymore,Peter Coyote,Dee Wallace,435110554
+Kramer vs. Kramer,1979,105,Drama,7.8,Robert Benton,Dustin Hoffman,Meryl Streep,Jane Alexander,Justin Henry,106260000
+The Outlaw Josey Wales,1976,135,Western,7.8,Clint Eastwood,Clint Eastwood,Sondra Locke,Chief Dan George,Bill McKinney,31800000
+The Conversation,1974,113,"Drama, Mystery, Thriller",7.8,Francis Ford Coppola,Gene Hackman,John Cazale,Allen Garfield,Frederic Forrest,4420000
+La planète sauvage,1973,72,"Animation, Sci-Fi",7.8,René Laloux,Barry Bostwick,Jennifer Drake,Eric Baugin,Jean Topart,193817
+The Day of the Jackal,1973,143,"Crime, Drama, Thriller",7.8,Fred Zinnemann,Edward Fox,Terence Alexander,Michel Auclair,Alan Badel,16056255
+Cabaret,1972,124,"Drama, Music, Musical",7.8,Bob Fosse,Liza Minnelli,Michael York,Helmut Griem,Joel Grey,42765000
+Willy Wonka & the Chocolate Factory,1971,100,"Family, Fantasy, Musical",7.8,Mel Stuart,Gene Wilder,Jack Albertson,Peter Ostrum,Roy Kinnear,4000000
+God's Own Country,2017,104,"Drama, Romance",7.7,Francis Lee,Josh O'Connor,Alec Secareanu,Gemma Jones,Ian Hart,335609
+Deadpool 2,2018,119,"Action, Adventure, Comedy",7.7,David Leitch,Ryan Reynolds,Josh Brolin,Morena Baccarin,Julian Dennison,324591735
+Wind River,2017,107,"Crime, Drama, Mystery",7.7,Taylor Sheridan,Kelsey Asbille,Jeremy Renner,Julia Jones,Teo Briones,33800859
+Get Out,2017,104,"Horror, Mystery, Thriller",7.7,Jordan Peele,Daniel Kaluuya,Allison Williams,Bradley Whitford,Catherine Keener,176040665
+Mission: Impossible - Fallout,2018,147,"Action, Adventure, Thriller",7.7,Christopher McQuarrie,Tom Cruise,Henry Cavill,Ving Rhames,Simon Pegg,220159104
+En man som heter Ove,2015,116,"Comedy, Drama, Romance",7.7,Hannes Holm,Rolf Lassgård,Bahar Pars,Filip Berg,Ida Engvoll,3358518
+What We Do in the Shadows,2014,86,"Comedy, Horror",7.7,Jemaine Clement,Taika Waititi,Jemaine Clement,Taika Waititi,Cori Gonzalez-Macuer,3333000
+Omoide no Mânî,2014,103,"Animation, Drama, Family",7.7,James Simone,Hiromasa Yonebayashi,Sara Takatsuki,Kasumi Arimura,Nanako Matsushima,765127
+The Theory of Everything,2014,123,"Biography, Drama, Romance",7.7,James Marsh,Eddie Redmayne,Felicity Jones,Tom Prior,Sophie Perry,35893537
+Kingsman: The Secret Service,2014,129,"Action, Adventure, Comedy",7.7,Matthew Vaughn,Colin Firth,Taron Egerton,Samuel L. Jackson,Michael Caine,128261724
+The Fault in Our Stars,2014,126,"Drama, Romance",7.7,Josh Boone,Shailene Woodley,Ansel Elgort,Nat Wolff,Laura Dern,124872350
+Me and Earl and the Dying Girl,2015,105,"Comedy, Drama",7.7,Alfonso Gomez-Rejon,Thomas Mann,RJ Cyler,Olivia Cooke,Nick Offerman,6743776
+Birdman or (The Unexpected Virtue of Ignorance),2014,119,"Comedy, Drama",7.7,Alejandro G. Iñárritu,Michael Keaton,Zach Galifianakis,Edward Norton,Andrea Riseborough,42340598
+La vie d'Adèle,2013,180,"Drama, Romance",7.7,Abdellatif Kechiche,Léa Seydoux,Adèle Exarchopoulos,Salim Kechiouche,Aurélien Recoing,2199675
+Kai po che!,2013,130,"Drama, Sport",7.7,Abhishek Kapoor,Amit Sadh,Sushant Singh Rajput,Rajkummar Rao,Amrita Puri,1122527
+The Broken Circle Breakdown,2012,111,"Drama, Music, Romance",7.7,Felix van Groeningen,Veerle Baetens,Johan Heldenbergh,Nell Cattrysse,Geert Van Rampelberg,175058
+Captain America: The Winter Soldier,2014,136,"Action, Adventure, Sci-Fi",7.7,Anthony Russo,Joe Russo,Chris Evans,Samuel L. Jackson,Scarlett Johansson,259766572
+Rockstar,2011,159,"Drama, Music, Musical",7.7,Imtiaz Ali,Ranbir Kapoor,Nargis Fakhri,Shammi Kapoor,Kumud Mishra,985912
+Nebraska,2013,115,"Adventure, Comedy, Drama",7.7,Alexander Payne,Bruce Dern,Will Forte,June Squibb,Bob Odenkirk,17654912
+Wreck-It Ralph,2012,101,"Animation, Adventure, Comedy",7.7,Rich Moore,John C. Reilly,Jack McBrayer,Jane Lynch,Sarah Silverman,189422889
+Le Petit Prince,2015,108,"Animation, Adventure, Drama",7.7,Mark Osborne,Jeff Bridges,Mackenzie Foy,Rachel McAdams,Marion Cotillard,1339152
+Detachment,2011,98,Drama,7.7,Tony Kaye,Adrien Brody,Christina Hendricks,Marcia Gay Harden,Lucy Liu,71177
+Midnight in Paris,2011,96,"Comedy, Fantasy, Romance",7.7,Woody Allen,Owen Wilson,Rachel McAdams,Kathy Bates,Kurt Fuller,56816662
+The Lego Movie,2014,100,"Animation, Action, Adventure",7.7,Christopher Miller,Phil Lord,Chris Pratt,Will Ferrell,Elizabeth Banks,257760692
+Gravity,2013,91,"Drama, Sci-Fi, Thriller",7.7,Alfonso Cuarón,Sandra Bullock,George Clooney,Ed Harris,Orto Ignatiussen,274092705
+Star Trek Into Darkness,2013,132,"Action, Adventure, Sci-Fi",7.7,J.J. Abrams,Chris Pine,Zachary Quinto,Zoe Saldana,Benedict Cumberbatch,228778661
+Beasts of No Nation,2015,137,"Drama, War",7.7,Cary Joji Fukunaga,Abraham Attah,Emmanuel Affadzi,Ricky Adelayitor,Andrew Adote,83861
+The Social Network,2010,120,"Biography, Drama",7.7,David Fincher,Jesse Eisenberg,Andrew Garfield,Justin Timberlake,Rooney Mara,96962694
+X: First Class,2011,131,"Action, Adventure, Sci-Fi",7.7,Matthew Vaughn,James McAvoy,Michael Fassbender,Jennifer Lawrence,Kevin Bacon,146408305
+The Hangover,2009,100,Comedy,7.7,Todd Phillips,Zach Galifianakis,Bradley Cooper,Justin Bartha,Ed Helms,277322503
+Skyfall,2012,143,"Action, Adventure, Thriller",7.7,Sam Mendes,Daniel Craig,Javier Bardem,Naomie Harris,Judi Dench,304360277
+Silver Linings Playbook,2012,122,"Comedy, Drama, Romance",7.7,David O. Russell,Bradley Cooper,Jennifer Lawrence,Robert De Niro,Jacki Weaver,132092958
+Argo,2012,120,"Biography, Drama, Thriller",7.7,Ben Affleck,Ben Affleck,Bryan Cranston,John Goodman,Alan Arkin,136025503
+(500) Days of Summer,2009,95,"Comedy, Drama, Romance",7.7,Marc Webb,Zooey Deschanel,Joseph Gordon-Levitt,Geoffrey Arend,Chloë Grace Moretz,32391374
+Harry Potter and the Deathly Hallows: Part 1,2010,146,"Adventure, Family, Fantasy",7.7,David Yates,Daniel Radcliffe,Emma Watson,Rupert Grint,Bill Nighy,295983305
+Gake no ue no Ponyo,2008,101,"Animation, Adventure, Comedy",7.7,Hayao Miyazaki,Cate Blanchett,Matt Damon,Liam Neeson,Tomoko Yamaguchi,15090400
+Frost/Nixon,2008,122,"Biography, Drama, History",7.7,Ron Howard,Frank Langella,Michael Sheen,Kevin Bacon,Sam Rockwell,18593156
+Papurika,2006,90,"Animation, Drama, Fantasy",7.7,Satoshi Kon,Megumi Hayashibara,Tôru Emori,Katsunosuke Hori,Tôru Furuya,881302
+Changeling,2008,141,"Biography, Crime, Drama",7.7,Clint Eastwood,Angelina Jolie,Colm Feore,Amy Ryan,Gattlin Griffith,35739802
+Flipped,2010,90,"Comedy, Drama, Romance",7.7,Rob Reiner,Madeline Carroll,Callan McAuliffe,Rebecca De Mornay,Anthony Edwards,1752214
+This Is England,2006,101,"Crime, Drama",7.7,Shane Meadows,Thomas Turgoose,Stephen Graham,Jo Hartley,Andrew Shim,327919
+Ex Machina,2014,108,"Drama, Sci-Fi, Thriller",7.7,Alex Garland,Alicia Vikander,Domhnall Gleeson,Oscar Isaac,Sonoya Mizuno,25442958
+Efter brylluppet,2006,120,Drama,7.7,Susanne Bier,Mads Mikkelsen,Sidse Babett Knudsen,Rolf Lassgård,Neeral Mulchandani,412544
+The Last King of Scotland,2006,123,"Biography, Drama, History",7.7,Kevin Macdonald,James McAvoy,Forest Whitaker,Gillian Anderson,Kerry Washington,17605861
+Zodiac,2007,157,"Crime, Drama, Mystery",7.7,David Fincher,Jake Gyllenhaal,Robert Downey Jr.,Mark Ruffalo,Anthony Edwards,33080084
+Lucky Number Slevin,2006,110,"Action, Crime, Drama",7.7,Paul McGuigan,Josh Hartnett,Ben Kingsley,Morgan Freeman,Lucy Liu,22494487
+Joyeux Noël,2005,116,"Drama, History, Music",7.7,Christian Carion,Diane Kruger,Benno Fürmann,Guillaume Canet,Natalie Dessay,1054361
+Control,2007,122,"Biography, Drama, Music",7.7,Anton Corbijn,Sam Riley,Samantha Morton,Craig Parkinson,Alexandra Maria Lara,871577
+Tangled,2010,100,"Animation, Adventure, Comedy",7.7,Nathan Greno,Byron Howard,Mandy Moore,Zachary Levi,Donna Murphy,200821936
+Zwartboek,2006,145,"Drama, Thriller, War",7.7,Paul Verhoeven,Carice van Houten,Sebastian Koch,Thom Hoffman,Halina Reijn,4398392
+Brokeback Mountain,2005,134,"Drama, Romance",7.7,Ang Lee,Jake Gyllenhaal,Heath Ledger,Michelle Williams,Randy Quaid,83043761
+3:10 to Yuma,2007,122,"Action, Crime, Drama",7.7,James Mangold,Russell Crowe,Christian Bale,Ben Foster,Logan Lerman,53606916
+Crash,2004,112,"Crime, Drama, Thriller",7.7,Paul Haggis,Don Cheadle,Sandra Bullock,Thandie Newton,Karina Arroyave,54580300
+Kung fu,2004,99,"Action, Comedy, Fantasy",7.7,Stephen Chow,Stephen Chow,Wah Yuen,Qiu Yuen,Siu-Lung Leung,17108591
+The Bourne Supremacy,2004,108,"Action, Mystery, Thriller",7.7,Paul Greengrass,Matt Damon,Franka Potente,Joan Allen,Brian Cox,176241941
+The Machinist,2004,101,"Drama, Thriller",7.7,Brad Anderson,Christian Bale,Jennifer Jason Leigh,Aitana Sánchez-Gijón,John Sharian,1082715
+Ray,2004,152,"Biography, Drama, Music",7.7,Taylor Hackford,Jamie Foxx,Regina King,Kerry Washington,Clifton Powell,75331600
+Lost in Translation,2003,102,"Comedy, Drama",7.7,Sofia Coppola,Bill Murray,Scarlett Johansson,Giovanni Ribisi,Anna Faris,44585453
+Harry Potter and the Goblet of Fire,2005,157,"Adventure, Family, Fantasy",7.7,Mike Newell,Daniel Radcliffe,Emma Watson,Rupert Grint,Eric Sykes,290013036
+Man on Fire,2004,146,"Action, Crime, Drama",7.7,Tony Scott,Denzel Washington,Christopher Walken,Dakota Fanning,Radha Mitchell,77911774
+Coraline,2009,100,"Animation, Drama, Family",7.7,Henry Selick,Dakota Fanning,Teri Hatcher,John Hodgman,Jennifer Saunders,75286229
+The Last Samurai,2003,154,"Action, Drama",7.7,Edward Zwick,Tom Cruise,Ken Watanabe,Billy Connolly,William Atherton,111110575
+The Magdalene Sisters,2002,114,Drama,7.7,Peter Mullan,Eileen Walsh,Dorothy Duffy,Nora-Jane Noone,Anne-Marie Duff,4890878
+Good Bye Lenin!,2003,121,"Comedy, Drama, Romance",7.7,Wolfgang Becker,Daniel Brühl,Katrin Saß,Chulpan Khamatova,Florian Lukas,4064200
+In America,2002,105,Drama,7.7,Jim Sheridan,Paddy Considine,Samantha Morton,Djimon Hounsou,Sarah Bolger,15539266
+I Am Sam,2001,132,Drama,7.7,Jessie Nelson,Sean Penn,Michelle Pfeiffer,Dakota Fanning,Dianne Wiest,40311852
+Adaptation.,2002,115,"Comedy, Drama",7.7,Spike Jonze,Nicolas Cage,Meryl Streep,Chris Cooper,Tilda Swinton,22245861
+Black Hawk Down,2001,144,"Drama, History, War",7.7,Ridley Scott,Josh Hartnett,Ewan McGregor,Tom Sizemore,Eric Bana,108638745
+Road to Perdition,2002,117,"Crime, Drama, Thriller",7.7,Sam Mendes,Tom Hanks,Tyler Hoechlin,Rob Maxey,Liam Aiken,104454762
+Das Experiment,2001,120,"Drama, Thriller",7.7,Oliver Hirschbiegel,Moritz Bleibtreu,Christian Berkel,Oliver Stokowski,Wotan Wilke Möhring,141072
+Billy Elliot,2000,110,"Drama, Music",7.7,Stephen Daldry,Jamie Bell,Julie Walters,Jean Heywood,Jamie Draven,21995263
+Hedwig and the Angry Inch,2001,95,"Comedy, Drama, Music",7.7,John Cameron Mitchell,John Cameron Mitchell,Miriam Shor,Stephen Trask,Theodore Liscinski,3029081
+Ocean's Eleven,2001,116,"Crime, Thriller",7.7,Steven Soderbergh,George Clooney,Brad Pitt,Julia Roberts,Matt Damon,183417150
+Vampire Hunter D: Bloodlust,2000,103,"Animation, Action, Fantasy",7.7,Yoshiaki Kawajiri,Andrew Philpot,John Rafter Lee,Pamela Adlon,Wendee Lee,151086
+"O Brother, Where Art Thou?",2000,107,"Adventure, Comedy, Crime",7.7,Joel Coen,Ethan Coen,George Clooney,John Turturro,Tim Blake Nelson,45512588
+"South Park: Bigger, Longer & Uncut",1999,81,"Animation, Comedy, Fantasy",7.7,Trey Parker,Trey Parker,Matt Stone,Mary Kay Bergman,Isaac Hayes,52037603
+Office Space,1999,89,Comedy,7.7,Mike Judge,Ron Livingston,Jennifer Aniston,David Herman,Ajay Naidu,10824921
+Happiness,1998,134,"Comedy, Drama",7.7,Todd Solondz,Jane Adams,Jon Lovitz,Philip Seymour Hoffman,Dylan Baker,2807390
+Training Day,2001,122,"Crime, Drama, Thriller",7.7,Antoine Fuqua,Denzel Washington,Ethan Hawke,Scott Glenn,Tom Berenger,76631907
+Rushmore,1998,93,"Comedy, Drama, Romance",7.7,Wes Anderson,Jason Schwartzman,Bill Murray,Olivia Williams,Seymour Cassel,17105219
+Abre los ojos,1997,119,"Drama, Mystery, Sci-Fi",7.7,Alejandro Amenábar,Eduardo Noriega,Penélope Cruz,Chete Lera,Fele Martínez,368234
+Being John Malkovich,1999,113,"Comedy, Drama, Fantasy",7.7,Spike Jonze,John Cusack,Cameron Diaz,Catherine Keener,John Malkovich,22858926
+As Good as It Gets,1997,139,"Comedy, Drama, Romance",7.7,James L. Brooks,Jack Nicholson,Helen Hunt,Greg Kinnear,Cuba Gooding Jr.,148478011
+The Fifth Element,1997,126,"Action, Adventure, Sci-Fi",7.7,Luc Besson,Bruce Willis,Milla Jovovich,Gary Oldman,Ian Holm,63540020
+Le dîner de cons,1998,80,Comedy,7.7,Francis Veber,Thierry Lhermitte,Jacques Villeret,Francis Huster,Daniel Prévost,4065116
+Donnie Brasco,1997,127,"Biography, Crime, Drama",7.7,Mike Newell,Al Pacino,Johnny Depp,Michael Madsen,Bruno Kirby,41909762
+Shine,1996,105,"Biography, Drama, Music",7.7,Scott Hicks,Geoffrey Rush,Armin Mueller-Stahl,Justin Braine,Sonia Todd,35811509
+Primal Fear,1996,129,"Crime, Drama, Mystery",7.7,Gregory Hoblit,Richard Gere,Laura Linney,Edward Norton,John Mahoney,56116183
+A Little Princess,1995,97,"Drama, Family, Fantasy",7.7,Alfonso Cuarón,Liesel Matthews,Eleanor Bron,Liam Cunningham,Rusty Schwimmer,10019307
+Il postino,1994,108,"Biography, Comedy, Drama",7.7,Michael Radford,Massimo Troisi,Massimo Troisi,Philippe Noiret,Maria Grazia Cucinotta,21848932
+Clerks,1994,92,Comedy,7.7,Kevin Smith,Brian O'Halloran,Jeff Anderson,Marilyn Ghigliotti,Lisa Spoonauer,3151130
+Short Cuts,1993,188,"Comedy, Drama",7.7,Robert Altman,Andie MacDowell,Julianne Moore,Tim Robbins,Bruce Davison,6110979
+Philadelphia,1993,125,Drama,7.7,Jonathan Demme,Tom Hanks,Denzel Washington,Roberta Maxwell,Buzz Kilman,77324422
+The Muppet Christmas Carol,1992,85,"Comedy, Drama, Family",7.7,Brian Henson,Michael Caine,Kermit the Frog,Dave Goelz,Miss Piggy,27281507
+Malcolm X,1992,202,"Biography, Drama, History",7.7,Spike Lee,Denzel Washington,Angela Bassett,Delroy Lindo,Spike Lee,48169908
+The Last of the Mohicans,1992,112,"Action, Adventure, Drama",7.7,Michael Mann,Daniel Day-Lewis,Madeleine Stowe,Russell Means,Eric Schweig,75505856
+Glengarry Glen Ross,1992,100,"Crime, Drama, Mystery",7.7,James Foley,Al Pacino,Jack Lemmon,Alec Baldwin,Alan Arkin,10725228
+A Few Good Men,1992,138,"Drama, Thriller",7.7,Rob Reiner,Tom Cruise,Jack Nicholson,Demi Moore,Kevin Bacon,141340178
+Fried Green Tomatoes,1991,130,Drama,7.7,Jon Avnet,Kathy Bates,Jessica Tandy,Mary Stuart Masterson,Mary-Louise Parker,82418501
+Barton Fink,1991,116,"Comedy, Drama, Thriller",7.7,Joel Coen,Ethan Coen,John Turturro,John Goodman,Judy Davis,6153939
+Miller's Crossing,1990,115,"Crime, Drama, Thriller",7.7,Joel Coen,Ethan Coen,Gabriel Byrne,Albert Finney,John Turturro,5080409
+Who Framed Roger Rabbit,1988,104,"Animation, Adventure, Comedy",7.7,Robert Zemeckis,Bob Hoskins,Christopher Lloyd,Joanna Cassidy,Charles Fleischer,156452370
+Withnail & I,1987,107,"Comedy, Drama",7.7,Bruce Robinson,Richard E. Grant,Paul McGann,Richard Griffiths,Ralph Brown,1544889
+The Last Emperor,1987,163,"Biography, Drama, History",7.7,Bernardo Bertolucci,John Lone,Joan Chen,Peter O'Toole,Ruocheng Ying,43984230
+Empire of the Sun,1987,153,"Action, Drama, History",7.7,Steven Spielberg,Christian Bale,John Malkovich,Miranda Richardson,Nigel Havers,22238696
+Der Name der Rose,1986,130,"Crime, Drama, Mystery",7.7,Jean-Jacques Annaud,Sean Connery,Christian Slater,Helmut Qualtinger,Elya Baskin,7153487
+Blue Velvet,1986,120,"Drama, Mystery, Thriller",7.7,David Lynch,Isabella Rossellini,Kyle MacLachlan,Dennis Hopper,Laura Dern,8551228
+The Purple Rose of Cairo,1985,82,"Comedy, Fantasy, Romance",7.7,Woody Allen,Mia Farrow,Jeff Daniels,Danny Aiello,Irving Metzman,10631333
+After Hours,1985,97,"Comedy, Crime, Drama",7.7,Martin Scorsese,Griffin Dunne,Rosanna Arquette,Verna Bloom,Tommy Chong,10600000
+Zelig,1983,79,Comedy,7.7,Woody Allen,Woody Allen,Mia Farrow,Patrick Horgan,John Buckwalter,11798616
+The Verdict,1982,129,Drama,7.7,Sidney Lumet,Paul Newman,Charlotte Rampling,Jack Warden,James Mason,54000000
+Star Trek II: The Wrath of Khan,1982,113,"Action, Adventure, Sci-Fi",7.7,Nicholas Meyer,William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan,78912963
+First Blood,1982,93,"Action, Adventure",7.7,Ted Kotcheff,Sylvester Stallone,Brian Dennehy,Richard Crenna,Bill McKinney,47212904
+Ordinary People,1980,124,Drama,7.7,Robert Redford,Donald Sutherland,Mary Tyler Moore,Judd Hirsch,Timothy Hutton,54800000
+Airplane!,1980,88,Comedy,7.7,Jim Abrahams,David Zucker,Jerry Zucker,Robert Hays,Julie Hagerty,83400000
+Halloween,1978,91,"Horror, Thriller",7.7,John Carpenter,Donald Pleasence,Jamie Lee Curtis,Tony Moran,Nancy Kyes,47000000
+Le locataire,1976,126,"Drama, Thriller",7.7,Roman Polanski,Roman Polanski,Isabelle Adjani,Melvyn Douglas,Jo Van Fleet,1924733
+Blazing Saddles,1974,93,"Comedy, Western",7.7,Mel Brooks,Cleavon Little,Gene Wilder,Slim Pickens,Harvey Korman,119500000
+Serpico,1973,130,"Biography, Crime, Drama",7.7,Sidney Lumet,Al Pacino,John Randolph,Jack Kehoe,Biff McGuire,29800000
+Enter the Dragon,1973,102,"Action, Crime, Drama",7.7,Robert Clouse,Bruce Lee,John Saxon,Jim Kelly,Ahna Capri,25000000
+Deliverance,1972,109,"Adventure, Drama, Thriller",7.7,John Boorman,Jon Voight,Burt Reynolds,Ned Beatty,Ronny Cox,7056013
+The French Connection,1971,104,"Action, Crime, Drama",7.7,William Friedkin,Gene Hackman,Roy Scheider,Fernando Rey,Tony Lo Bianco,15630710
+Dirty Harry,1971,102,"Action, Crime, Thriller",7.7,Don Siegel,Clint Eastwood,Andrew Robinson,Harry Guardino,Reni Santoni,35900000
+Searching,2018,102,"Drama, Mystery, Thriller",7.6,Aneesh Chaganty,John Cho,Debra Messing,Joseph Lee,Michelle La,26020957
+Once Upon a Time... in Hollywood,2019,161,"Comedy, Drama",7.6,Quentin Tarantino,Leonardo DiCaprio,Brad Pitt,Margot Robbie,Emile Hirsch,142502728
+Nelyubov,2017,127,Drama,7.6,Andrey Zvyagintsev,Maryana Spivak,Aleksey Rozin,Matvey Novikov,Marina Vasileva,566356
+The Florida Project,2017,111,Drama,7.6,Sean Baker,Brooklynn Prince,Bria Vinaite,Willem Dafoe,Christopher Rivera,5904366
+Gifted,2017,101,Drama,7.6,Marc Webb,Chris Evans,Mckenna Grace,Lindsay Duncan,Octavia Spencer,24801212
+The Peanut Butter Falcon,2019,97,"Adventure, Comedy, Drama",7.6,Tyler Nilson,Michael Schwartz,Zack Gottsagen,Ann Owens,Dakota Johnson,13122642
+Mustang,2015,97,Drama,7.6,Deniz Gamze Ergüven,Günes Sensoy,Doga Zeynep Doguslu,Tugba Sunguroglu,Elit Iscan,845464
+Guardians of the Galaxy Vol. 2,2017,136,"Action, Adventure, Comedy",7.6,James Gunn,Chris Pratt,Zoe Saldana,Dave Bautista,Vin Diesel,389813101
+Baby Driver,2017,113,"Action, Crime, Drama",7.6,Edgar Wright,Ansel Elgort,Jon Bernthal,Jon Hamm,Eiza González,107825862
+Only the Brave,2017,134,"Action, Biography, Drama",7.6,Joseph Kosinski,Josh Brolin,Miles Teller,Jeff Bridges,Jennifer Connelly,18340051
+Bridge of Spies,2015,142,"Drama, History, Thriller",7.6,Steven Spielberg,Tom Hanks,Mark Rylance,Alan Alda,Amy Ryan,72313754
+Incredibles 2,2018,118,"Animation, Action, Adventure",7.6,Brad Bird,Craig T. Nelson,Holly Hunter,Sarah Vowell,Huck Milner,608581744
+Moana,2016,107,"Animation, Adventure, Comedy",7.6,Ron Clements,John Musker,Don Hall,Chris Williams,Auli'i Cravalho,248757044
+Sicario,2015,121,"Action, Crime, Drama",7.6,Denis Villeneuve,Emily Blunt,Josh Brolin,Benicio Del Toro,Jon Bernthal,46889293
+Creed,2015,133,"Drama, Sport",7.6,Ryan Coogler,Michael B. Jordan,Sylvester Stallone,Tessa Thompson,Phylicia Rashad,109767581
+Leviafan,2014,140,"Crime, Drama",7.6,Andrey Zvyagintsev,Aleksey Serebryakov,Elena Lyadova,Roman Madyanov,Vladimir Vdovichenkov,1092800
+Hell or High Water,2016,102,"Action, Crime, Drama",7.6,David Mackenzie,Chris Pine,Ben Foster,Jeff Bridges,Gil Birmingham,26862450
+Philomena,2013,98,"Biography, Comedy, Drama",7.6,Stephen Frears,Judi Dench,Steve Coogan,Sophie Kennedy Clark,Mare Winningham,37707719
+Dawn of the Planet of the Apes,2014,130,"Action, Adventure, Drama",7.6,Matt Reeves,Gary Oldman,Keri Russell,Andy Serkis,Kodi Smit-McPhee,208545589
+Serbuan maut,2011,101,"Action, Thriller",7.6,Gareth Evans,Iko Uwais,Ananda George,Ray Sahetapy,Donny Alamsyah,4105123
+End of Watch,2012,109,"Action, Crime, Drama",7.6,David Ayer,Jake Gyllenhaal,Michael Peña,Anna Kendrick,America Ferrera,41003371
+Kari-gurashi no Arietti,2010,94,"Animation, Adventure, Family",7.6,Hiromasa Yonebayashi,Amy Poehler,Mirai Shida,Ryûnosuke Kamiki,Tatsuya Fujiwara,19202743
+A Star Is Born,2018,136,"Drama, Music, Romance",7.6,Bradley Cooper,Lady Gaga,Bradley Cooper,Sam Elliott,Greg Grunberg,215288866
+True Grit,2010,110,"Drama, Western",7.6,Ethan Coen,Joel Coen,Jeff Bridges,Matt Damon,Hailee Steinfeld,171243005
+Hævnen,2010,118,"Drama, Romance",7.6,Susanne Bier,Mikael Persbrandt,Trine Dyrholm,Markus Rygaard,Wil Johnson,1008098
+Despicable Me,2010,95,"Animation, Comedy, Crime",7.6,Pierre Coffin,Chris Renaud,Steve Carell,Jason Segel,Russell Brand,251513985
+50/50,2011,100,"Comedy, Drama, Romance",7.6,Jonathan Levine,Joseph Gordon-Levitt,Seth Rogen,Anna Kendrick,Bryce Dallas Howard,35014192
+Kick-Ass,2010,117,"Action, Comedy, Crime",7.6,Matthew Vaughn,Aaron Taylor-Johnson,Nicolas Cage,Chloë Grace Moretz,Garrett M. Brown,48071303
+Moneyball,2011,133,"Biography, Drama, Sport",7.6,Bennett Miller,Brad Pitt,Robin Wright,Jonah Hill,Philip Seymour Hoffman,75605492
+La piel que habito,2011,120,"Drama, Horror, Thriller",7.6,Pedro Almodóvar,Antonio Banderas,Elena Anaya,Jan Cornet,Marisa Paredes,3185812
+Zombieland,2009,88,"Adventure, Comedy, Fantasy",7.6,Ruben Fleischer,Jesse Eisenberg,Emma Stone,Woody Harrelson,Abigail Breslin,75590286
+Sherlock Holmes,2009,128,"Action, Adventure, Mystery",7.6,Guy Ritchie,Robert Downey Jr.,Jude Law,Rachel McAdams,Mark Strong,209028679
+The Blind Side,2009,129,"Biography, Drama, Sport",7.6,John Lee Hancock,Quinton Aaron,Sandra Bullock,Tim McGraw,Jae Head,255959475
+The Visitor,2007,104,Drama,7.6,Tom McCarthy,Richard Jenkins,Haaz Sleiman,Danai Gurira,Hiam Abbass,9422422
+Seven Pounds,2008,123,Drama,7.6,Gabriele Muccino,Will Smith,Rosario Dawson,Woody Harrelson,Michael Ealy,69951824
+Eastern Promises,2007,100,"Action, Crime, Drama",7.6,David Cronenberg,Naomi Watts,Viggo Mortensen,Armin Mueller-Stahl,Josef Altin,17114882
+Stardust,2007,127,"Adventure, Family, Fantasy",7.6,Matthew Vaughn,Charlie Cox,Claire Danes,Sienna Miller,Ian McKellen,38634938
+The Secret of Kells,2009,71,"Animation, Adventure, Family",7.6,Tomm Moore,Nora Twomey,Evan McGuire,Brendan Gleeson,Mick Lally,686383
+Inside Man,2006,129,"Crime, Drama, Mystery",7.6,Spike Lee,Denzel Washington,Clive Owen,Jodie Foster,Christopher Plummer,88513495
+Gone Baby Gone,2007,114,"Crime, Drama, Mystery",7.6,Ben Affleck,Morgan Freeman,Ed Harris,Casey Affleck,Michelle Monaghan,20300218
+La Vie En Rose,2007,140,"Biography, Drama, Music",7.6,Olivier Dahan,Marion Cotillard,Sylvie Testud,Pascal Greggory,Emmanuelle Seigner,10301706
+Huo Yuan Jia,2006,104,"Action, Biography, Drama",7.6,Ronny Yu,Jet Li,Li Sun,Yong Dong,Yun Qu,24633730
+The Illusionist,2006,110,"Drama, Fantasy, Mystery",7.6,Neil Burger,Edward Norton,Jessica Biel,Paul Giamatti,Rufus Sewell,39868642
+Dead Man's Shoes,2004,90,"Crime, Drama, Thriller",7.6,Shane Meadows,Paddy Considine,Gary Stretch,Toby Kebbell,Stuart Wolfenden,6013
+Harry Potter and the Half-Blood Prince,2009,153,"Action, Adventure, Family",7.6,David Yates,Daniel Radcliffe,Emma Watson,Rupert Grint,Michael Gambon,301959197
+300,2006,117,"Action, Drama",7.6,Zack Snyder,Gerard Butler,Lena Headey,David Wenham,Dominic West,210614939
+Match Point,2005,124,"Drama, Romance, Thriller",7.6,Woody Allen,Scarlett Johansson,Jonathan Rhys Meyers,Emily Mortimer,Matthew Goode,23089926
+Watchmen,2009,162,"Action, Drama, Mystery",7.6,Zack Snyder,Jackie Earle Haley,Patrick Wilson,Carla Gugino,Malin Akerman,107509799
+Lord of War,2005,122,"Action, Crime, Drama",7.6,Andrew Niccol,Nicolas Cage,Ethan Hawke,Jared Leto,Bridget Moynahan,24149632
+Saw,2004,103,"Horror, Mystery, Thriller",7.6,James Wan,Cary Elwes,Leigh Whannell,Danny Glover,Ken Leung,56000369
+"Synecdoche, New York",2008,124,Drama,7.6,Charlie Kaufman,Philip Seymour Hoffman,Samantha Morton,Michelle Williams,Catherine Keener,3081925
+Mysterious Skin,2004,105,Drama,7.6,Gregg Araki,Brady Corbet,Joseph Gordon-Levitt,Elisabeth Shue,Chase Ellison,697181
+Jeux d'enfants,2003,93,"Comedy, Drama, Romance",7.6,Yann Samuell,Guillaume Canet,Marion Cotillard,Thibault Verhaeghe,Joséphine Lebas-Joly,548707
+Un long dimanche de fiançailles,2004,133,"Drama, Mystery, Romance",7.6,Jean-Pierre Jeunet,Audrey Tautou,Gaspard Ulliel,Jodie Foster,Dominique Pinon,6167817
+The Station Agent,2003,89,"Comedy, Drama",7.6,Tom McCarthy,Peter Dinklage,Patricia Clarkson,Bobby Cannavale,Paul Benjamin,5739376
+21 Grams,2003,124,"Crime, Drama, Thriller",7.6,Alejandro G. Iñárritu,Sean Penn,Benicio Del Toro,Naomi Watts,Danny Huston,16290476
+Boksuneun naui geot,2002,129,"Crime, Drama, Thriller",7.6,Chan-wook Park,Kang-ho Song,Shin Ha-kyun,Bae Doona,Ji-Eun Lim,45289
+Finding Neverland,2004,106,"Biography, Drama, Family",7.6,Marc Forster,Johnny Depp,Kate Winslet,Julie Christie,Radha Mitchell,51680613
+25th Hour,2002,135,Drama,7.6,Spike Lee,Edward Norton,Barry Pepper,Philip Seymour Hoffman,Rosario Dawson,13060843
+The Butterfly Effect,2004,113,"Drama, Sci-Fi, Thriller",7.6,Eric Bress,J. Mackye Gruber,Ashton Kutcher,Amy Smart,Melora Walters,57938693
+28 Days Later...,2002,113,"Drama, Horror, Sci-Fi",7.6,Danny Boyle,Cillian Murphy,Naomie Harris,Christopher Eccleston,Alex Palmer,45064915
+The Royal Tenenbaums,2001,110,"Comedy, Drama",7.6,Wes Anderson,Gene Hackman,Gwyneth Paltrow,Anjelica Huston,Ben Stiller,52364010
+Y tu mamá también,2001,106,Drama,7.6,Alfonso Cuarón,Maribel Verdú,Gael García Bernal,Daniel Giménez Cacho,Ana López Mercado,13622333
+Harry Potter and the Sorcerer's Stone,2001,152,"Adventure, Family, Fantasy",7.6,Chris Columbus,Daniel Radcliffe,Rupert Grint,Richard Harris,Maggie Smith,317575550
+The Others,2001,101,"Horror, Mystery, Thriller",7.6,Alejandro Amenábar,Nicole Kidman,Christopher Eccleston,Fionnula Flanagan,Alakina Mann,96522687
+Blow,2001,124,"Biography, Crime, Drama",7.6,Ted Demme,Johnny Depp,Penélope Cruz,Franka Potente,Rachel Griffiths,52990775
+Enemy at the Gates,2001,131,"Drama, History, War",7.6,Jean-Jacques Annaud,Jude Law,Ed Harris,Joseph Fiennes,Rachel Weisz,51401758
+Minority Report,2002,145,"Action, Crime, Mystery",7.6,Steven Spielberg,Tom Cruise,Colin Farrell,Samantha Morton,Max von Sydow,132072926
+The Hurricane,1999,146,"Biography, Drama, Sport",7.6,Norman Jewison,Denzel Washington,Vicellous Shannon,Deborah Kara Unger,Liev Schreiber,50668906
+American Psycho,2000,101,"Comedy, Crime, Drama",7.6,Mary Harron,Christian Bale,Justin Theroux,Josh Lucas,Bill Sage,15070285
+Lola rennt,1998,81,"Crime, Drama, Thriller",7.6,Tom Tykwer,Franka Potente,Moritz Bleibtreu,Herbert Knaup,Nina Petri,7267585
+The Thin Red Line,1998,170,"Drama, War",7.6,Terrence Malick,Jim Caviezel,Sean Penn,Nick Nolte,Kirk Acevedo,36400491
+Mulan,1998,88,"Animation, Adventure, Family",7.6,Tony Bancroft,Barry Cook,Ming-Na Wen,Eddie Murphy,BD Wong,120620254
+Fear and Loathing in Las Vegas,1998,118,"Adventure, Comedy, Drama",7.6,Terry Gilliam,Johnny Depp,Benicio Del Toro,Tobey Maguire,Michael Lee Gogin,10680275
+Dark City,1998,100,"Mystery, Sci-Fi, Thriller",7.6,Alex Proyas,Rufus Sewell,Kiefer Sutherland,Jennifer Connelly,William Hurt,14378331
+Sleepers,1996,147,"Crime, Drama, Thriller",7.6,Barry Levinson,Robert De Niro,Kevin Bacon,Brad Pitt,Jason Patric,49100000
+Lost Highway,1997,134,"Mystery, Thriller",7.6,David Lynch,Bill Pullman,Patricia Arquette,John Roselius,Louis Eppolito,3796699
+Sense and Sensibility,1995,136,"Drama, Romance",7.6,Ang Lee,Emma Thompson,Kate Winslet,James Fleet,Tom Wilkinson,43182776
+Die Hard: With a Vengeance,1995,128,"Action, Adventure, Thriller",7.6,John McTiernan,Bruce Willis,Jeremy Irons,Samuel L. Jackson,Graham Greene,100012499
+Dead Man,1995,121,"Adventure, Drama, Fantasy",7.6,Jim Jarmusch,Johnny Depp,Gary Farmer,Crispin Glover,Lance Henriksen,1037847
+The Bridges of Madison County,1995,135,"Drama, Romance",7.6,Clint Eastwood,Clint Eastwood,Meryl Streep,Annie Corley,Victor Slezak,71516617
+Trois couleurs: Blanc,1994,92,"Comedy, Drama, Romance",7.6,Krzysztof Kieslowski,Zbigniew Zamachowski,Julie Delpy,Janusz Gajos,Jerzy Stuhr,1464625
+Falling Down,1993,113,"Action, Crime, Drama",7.6,Joel Schumacher,Michael Douglas,Robert Duvall,Barbara Hershey,Rachel Ticotin,40903593
+Dazed and Confused,1993,102,Comedy,7.6,Richard Linklater,Jason London,Wiley Wiggins,Matthew McConaughey,Rory Cochrane,7993039
+My Cousin Vinny,1992,120,"Comedy, Crime",7.6,Jonathan Lynn,Joe Pesci,Marisa Tomei,Ralph Macchio,Mitchell Whitfield,52929168
+Omohide poro poro,1991,118,"Animation, Drama, Romance",7.6,Isao Takahata,Miki Imai,Toshirô Yanagiba,Yoko Honna,Mayumi Izuka,453243
+Delicatessen,1991,99,"Comedy, Crime",7.6,Marc Caro,Jean-Pierre Jeunet,Marie-Laure Dougnac,Dominique Pinon,Pascal Benezech,1794187
+Home Alone,1990,103,"Comedy, Family",7.6,Chris Columbus,Macaulay Culkin,Joe Pesci,Daniel Stern,John Heard,285761243
+The Godfather: Part III,1990,162,"Crime, Drama",7.6,Francis Ford Coppola,Al Pacino,Diane Keaton,Andy Garcia,Talia Shire,66666062
+When Harry Met Sally...,1989,95,"Comedy, Drama, Romance",7.6,Rob Reiner,Billy Crystal,Meg Ryan,Carrie Fisher,Bruno Kirby,92823600
+The Little Mermaid,1989,83,"Animation, Family, Fantasy",7.6,Ron Clements,John Musker,Jodi Benson,Samuel E. Wright,Rene Auberjonois,111543479
+The Naked Gun: From the Files of Police Squad!,1988,85,"Comedy, Crime",7.6,David Zucker,Leslie Nielsen,Priscilla Presley,O.J. Simpson,Ricardo Montalban,78756177
+"Planes, Trains & Automobiles",1987,93,"Comedy, Drama",7.6,John Hughes,Steve Martin,John Candy,Laila Robins,Michael McKean,49530280
+Lethal Weapon,1987,109,"Action, Crime, Thriller",7.6,Richard Donner,Mel Gibson,Danny Glover,Gary Busey,Mitchell Ryan,65207127
+Blood Simple,1984,99,"Crime, Drama, Thriller",7.6,Joel Coen,Ethan Coen,John Getz,Frances McDormand,Dan Hedaya,2150000
+On Golden Pond,1981,109,Drama,7.6,Mark Rydell,Katharine Hepburn,Henry Fonda,Jane Fonda,Doug McKeon,119285432
+Mad Max 2,1981,96,"Action, Adventure, Sci-Fi",7.6,George Miller,Mel Gibson,Bruce Spence,Michael Preston,Max Phipps,12465371
+The Warriors,1979,92,"Action, Crime, Thriller",7.6,Walter Hill,Michael Beck,James Remar,Dorsey Wright,Brian Tyler,22490039
+The Muppet Movie,1979,95,"Adventure, Comedy, Family",7.6,James Frawley,Jim Henson,Frank Oz,Jerry Nelson,Richard Hunt,76657000
+Escape from Alcatraz,1979,112,"Action, Biography, Crime",7.6,Don Siegel,Clint Eastwood,Patrick McGoohan,Roberts Blossom,Jack Thibeau,43000000
+Midnight Express,1978,121,"Biography, Crime, Drama",7.6,Alan Parker,Brad Davis,Irene Miracle,Bo Hopkins,Paolo Bonacelli,35000000
+Close Encounters of the Third Kind,1977,138,"Drama, Sci-Fi",7.6,Steven Spielberg,Richard Dreyfuss,François Truffaut,Teri Garr,Melinda Dillon,132088635
+The Long Goodbye,1973,112,"Comedy, Crime, Drama",7.6,Robert Altman,Elliott Gould,Nina van Pallandt,Sterling Hayden,Mark Rydell,959000
+Giù la testa,1971,157,"Drama, War, Western",7.6,Sergio Leone,Rod Steiger,James Coburn,Romolo Valli,Maria Monti,696690
+Kelly's Heroes,1970,144,"Adventure, Comedy, War",7.6,Brian G. Hutton,Clint Eastwood,Telly Savalas,Don Rickles,Carroll O'Connor,1378435
