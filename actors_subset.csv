@@ -1,0 +1,2825 @@
+Movie_Title,IMDB_Rating,Cast
+The Shawshank Redemption,9.3,Tim Robbins
+The Shawshank Redemption,9.3,Morgan Freeman
+The Shawshank Redemption,9.3,Bob Gunton
+The Shawshank Redemption,9.3,William Sadler
+The Godfather,9.2,Marlon Brando
+The Godfather,9.2,Al Pacino
+The Godfather,9.2,James Caan
+The Godfather,9.2,Diane Keaton
+The Dark Knight,9.0,Christian Bale
+The Dark Knight,9.0,Heath Ledger
+The Dark Knight,9.0,Aaron Eckhart
+The Dark Knight,9.0,Michael Caine
+The Godfather: Part II,9.0,Al Pacino
+The Godfather: Part II,9.0,Robert De Niro
+The Godfather: Part II,9.0,Robert Duvall
+The Godfather: Part II,9.0,Diane Keaton
+The Lord of the Rings: The Return of the King,8.9,Elijah Wood
+The Lord of the Rings: The Return of the King,8.9,Viggo Mortensen
+The Lord of the Rings: The Return of the King,8.9,Ian McKellen
+The Lord of the Rings: The Return of the King,8.9,Orlando Bloom
+Pulp Fiction,8.9,John Travolta
+Pulp Fiction,8.9,Uma Thurman
+Pulp Fiction,8.9,Samuel L. Jackson
+Pulp Fiction,8.9,Bruce Willis
+Schindler's List,8.9,Liam Neeson
+Schindler's List,8.9,Ralph Fiennes
+Schindler's List,8.9,Ben Kingsley
+Schindler's List,8.9,Caroline Goodall
+Inception,8.8,Leonardo DiCaprio
+Inception,8.8,Joseph Gordon-Levitt
+Inception,8.8,Elliot Page
+Inception,8.8,Ken Watanabe
+Fight Club,8.8,Brad Pitt
+Fight Club,8.8,Edward Norton
+Fight Club,8.8,Meat Loaf
+Fight Club,8.8,Zach Grenier
+The Lord of the Rings: The Fellowship of the Ring,8.8,Elijah Wood
+The Lord of the Rings: The Fellowship of the Ring,8.8,Ian McKellen
+The Lord of the Rings: The Fellowship of the Ring,8.8,Orlando Bloom
+The Lord of the Rings: The Fellowship of the Ring,8.8,Sean Bean
+Forrest Gump,8.8,Tom Hanks
+Forrest Gump,8.8,Robin Wright
+Forrest Gump,8.8,Gary Sinise
+Forrest Gump,8.8,Sally Field
+The Lord of the Rings: The Two Towers,8.7,Elijah Wood
+The Lord of the Rings: The Two Towers,8.7,Ian McKellen
+The Lord of the Rings: The Two Towers,8.7,Viggo Mortensen
+The Lord of the Rings: The Two Towers,8.7,Orlando Bloom
+The Matrix,8.7,Lilly Wachowski
+The Matrix,8.7,Keanu Reeves
+The Matrix,8.7,Laurence Fishburne
+The Matrix,8.7,Carrie-Anne Moss
+Goodfellas,8.7,Robert De Niro
+Goodfellas,8.7,Ray Liotta
+Goodfellas,8.7,Joe Pesci
+Goodfellas,8.7,Lorraine Bracco
+Star Wars: Episode V - The Empire Strikes Back,8.7,Mark Hamill
+Star Wars: Episode V - The Empire Strikes Back,8.7,Harrison Ford
+Star Wars: Episode V - The Empire Strikes Back,8.7,Carrie Fisher
+Star Wars: Episode V - The Empire Strikes Back,8.7,Billy Dee Williams
+One Flew Over the Cuckoo's Nest,8.7,Jack Nicholson
+One Flew Over the Cuckoo's Nest,8.7,Louise Fletcher
+One Flew Over the Cuckoo's Nest,8.7,Michael Berryman
+One Flew Over the Cuckoo's Nest,8.7,Peter Brocco
+Gisaengchung,8.6,Kang-ho Song
+Gisaengchung,8.6,Lee Sun-kyun
+Gisaengchung,8.6,Cho Yeo-jeong
+Gisaengchung,8.6,Choi Woo-sik
+Interstellar,8.6,Matthew McConaughey
+Interstellar,8.6,Anne Hathaway
+Interstellar,8.6,Jessica Chastain
+Interstellar,8.6,Mackenzie Foy
+Cidade de Deus,8.6,Kátia Lund
+Cidade de Deus,8.6,Alexandre Rodrigues
+Cidade de Deus,8.6,Leandro Firmino
+Cidade de Deus,8.6,Matheus Nachtergaele
+Sen to Chihiro no kamikakushi,8.6,Daveigh Chase
+Sen to Chihiro no kamikakushi,8.6,Suzanne Pleshette
+Sen to Chihiro no kamikakushi,8.6,Miyu Irino
+Sen to Chihiro no kamikakushi,8.6,Rumi Hiiragi
+Saving Private Ryan,8.6,Tom Hanks
+Saving Private Ryan,8.6,Matt Damon
+Saving Private Ryan,8.6,Tom Sizemore
+Saving Private Ryan,8.6,Edward Burns
+The Green Mile,8.6,Tom Hanks
+The Green Mile,8.6,Michael Clarke Duncan
+The Green Mile,8.6,David Morse
+The Green Mile,8.6,Bonnie Hunt
+La vita è bella,8.6,Roberto Benigni
+La vita è bella,8.6,Nicoletta Braschi
+La vita è bella,8.6,Giorgio Cantarini
+La vita è bella,8.6,Giustino Durano
+Se7en,8.6,Morgan Freeman
+Se7en,8.6,Brad Pitt
+Se7en,8.6,Kevin Spacey
+Se7en,8.6,Andrew Kevin Walker
+The Silence of the Lambs,8.6,Jodie Foster
+The Silence of the Lambs,8.6,Anthony Hopkins
+The Silence of the Lambs,8.6,Lawrence A. Bonney
+The Silence of the Lambs,8.6,Kasi Lemmons
+Star Wars,8.6,Mark Hamill
+Star Wars,8.6,Harrison Ford
+Star Wars,8.6,Carrie Fisher
+Star Wars,8.6,Alec Guinness
+Joker,8.5,Joaquin Phoenix
+Joker,8.5,Robert De Niro
+Joker,8.5,Zazie Beetz
+Joker,8.5,Frances Conroy
+Whiplash,8.5,Miles Teller
+Whiplash,8.5,J.K. Simmons
+Whiplash,8.5,Melissa Benoist
+Whiplash,8.5,Paul Reiser
+The Intouchables,8.5,Éric Toledano
+The Intouchables,8.5,François Cluzet
+The Intouchables,8.5,Omar Sy
+The Intouchables,8.5,Anne Le Ny
+The Prestige,8.5,Christian Bale
+The Prestige,8.5,Hugh Jackman
+The Prestige,8.5,Scarlett Johansson
+The Prestige,8.5,Michael Caine
+The Departed,8.5,Leonardo DiCaprio
+The Departed,8.5,Matt Damon
+The Departed,8.5,Jack Nicholson
+The Departed,8.5,Mark Wahlberg
+The Pianist,8.5,Adrien Brody
+The Pianist,8.5,Thomas Kretschmann
+The Pianist,8.5,Frank Finlay
+The Pianist,8.5,Emilia Fox
+Gladiator,8.5,Russell Crowe
+Gladiator,8.5,Joaquin Phoenix
+Gladiator,8.5,Connie Nielsen
+Gladiator,8.5,Oliver Reed
+American History X,8.5,Edward Norton
+American History X,8.5,Edward Furlong
+American History X,8.5,Beverly D'Angelo
+American History X,8.5,Jennifer Lien
+The Usual Suspects,8.5,Kevin Spacey
+The Usual Suspects,8.5,Gabriel Byrne
+The Usual Suspects,8.5,Chazz Palminteri
+The Usual Suspects,8.5,Stephen Baldwin
+Léon,8.5,Jean Reno
+Léon,8.5,Gary Oldman
+Léon,8.5,Natalie Portman
+Léon,8.5,Danny Aiello
+The Lion King,8.5,Rob Minkoff
+The Lion King,8.5,Matthew Broderick
+The Lion King,8.5,Jeremy Irons
+The Lion King,8.5,James Earl Jones
+Terminator 2: Judgment Day,8.5,Arnold Schwarzenegger
+Terminator 2: Judgment Day,8.5,Linda Hamilton
+Terminator 2: Judgment Day,8.5,Edward Furlong
+Terminator 2: Judgment Day,8.5,Robert Patrick
+Nuovo Cinema Paradiso,8.5,Philippe Noiret
+Nuovo Cinema Paradiso,8.5,Enzo Cannavale
+Nuovo Cinema Paradiso,8.5,Antonella Attili
+Nuovo Cinema Paradiso,8.5,Isa Danieli
+Back to the Future,8.5,Michael J. Fox
+Back to the Future,8.5,Christopher Lloyd
+Back to the Future,8.5,Lea Thompson
+Back to the Future,8.5,Crispin Glover
+Capharnaüm,8.4,Zain Al Rafeea
+Capharnaüm,8.4,Yordanos Shiferaw
+Capharnaüm,8.4,Boluwatife Treasure Bankole
+Capharnaüm,8.4,Kawsar Al Haddad
+Kimi no na wa.,8.4,Ryûnosuke Kamiki
+Kimi no na wa.,8.4,Mone Kamishiraishi
+Kimi no na wa.,8.4,Ryô Narita
+Kimi no na wa.,8.4,Aoi Yûki
+Dangal,8.4,Aamir Khan
+Dangal,8.4,Sakshi Tanwar
+Dangal,8.4,Fatima Sana Shaikh
+Dangal,8.4,Sanya Malhotra
+Spider-Man: Into the Spider-Verse,8.4,Peter Ramsey
+Spider-Man: Into the Spider-Verse,8.4,Rodney Rothman
+Spider-Man: Into the Spider-Verse,8.4,Shameik Moore
+Spider-Man: Into the Spider-Verse,8.4,Jake Johnson
+Avengers: Endgame,8.4,Joe Russo
+Avengers: Endgame,8.4,Robert Downey Jr.
+Avengers: Endgame,8.4,Chris Evans
+Avengers: Endgame,8.4,Mark Ruffalo
+Avengers: Infinity War,8.4,Joe Russo
+Avengers: Infinity War,8.4,Robert Downey Jr.
+Avengers: Infinity War,8.4,Chris Hemsworth
+Avengers: Infinity War,8.4,Mark Ruffalo
+Coco,8.4,Adrian Molina
+Coco,8.4,Anthony Gonzalez
+Coco,8.4,Gael García Bernal
+Coco,8.4,Benjamin Bratt
+Django Unchained,8.4,Jamie Foxx
+Django Unchained,8.4,Christoph Waltz
+Django Unchained,8.4,Leonardo DiCaprio
+Django Unchained,8.4,Kerry Washington
+The Dark Knight Rises,8.4,Christian Bale
+The Dark Knight Rises,8.4,Tom Hardy
+The Dark Knight Rises,8.4,Anne Hathaway
+The Dark Knight Rises,8.4,Gary Oldman
+3 Idiots,8.4,Aamir Khan
+3 Idiots,8.4,Madhavan
+3 Idiots,8.4,Mona Singh
+3 Idiots,8.4,Sharman Joshi
+Taare Zameen Par,8.4,Amole Gupte
+Taare Zameen Par,8.4,Darsheel Safary
+Taare Zameen Par,8.4,Aamir Khan
+Taare Zameen Par,8.4,Tisca Chopra
+WALL·E,8.4,Ben Burtt
+WALL·E,8.4,Elissa Knight
+WALL·E,8.4,Jeff Garlin
+WALL·E,8.4,Fred Willard
+The Lives of Others,8.4,Ulrich Mühe
+The Lives of Others,8.4,Martina Gedeck
+The Lives of Others,8.4,Sebastian Koch
+The Lives of Others,8.4,Ulrich Tukur
+Oldeuboi,8.4,Choi Min-sik
+Oldeuboi,8.4,Yoo Ji-Tae
+Oldeuboi,8.4,Kang Hye-jeong
+Oldeuboi,8.4,Kim Byeong-Ok
+Memento,8.4,Guy Pearce
+Memento,8.4,Carrie-Anne Moss
+Memento,8.4,Joe Pantoliano
+Memento,8.4,Mark Boone Junior
+Mononoke-hime,8.4,Yôji Matsuda
+Mononoke-hime,8.4,Yuriko Ishida
+Mononoke-hime,8.4,Yûko Tanaka
+Mononoke-hime,8.4,Billy Crudup
+Raiders of the Lost Ark,8.4,Harrison Ford
+Raiders of the Lost Ark,8.4,Karen Allen
+Raiders of the Lost Ark,8.4,Paul Freeman
+Raiders of the Lost Ark,8.4,John Rhys-Davies
+The Shining,8.4,Jack Nicholson
+The Shining,8.4,Shelley Duvall
+The Shining,8.4,Danny Lloyd
+The Shining,8.4,Scatman Crothers
+Apocalypse Now,8.4,Martin Sheen
+Apocalypse Now,8.4,Marlon Brando
+Apocalypse Now,8.4,Robert Duvall
+Apocalypse Now,8.4,Frederic Forrest
+Alien,8.4,Sigourney Weaver
+Alien,8.4,Tom Skerritt
+Alien,8.4,John Hurt
+Alien,8.4,Veronica Cartwright
+1917,8.3,Dean-Charles Chapman
+1917,8.3,George MacKay
+1917,8.3,Daniel Mays
+1917,8.3,Colin Firth
+Andhadhun,8.3,Ayushmann Khurrana
+Andhadhun,8.3,Tabu
+Andhadhun,8.3,Radhika Apte
+Andhadhun,8.3,Anil Dhawan
+Jagten,8.3,Mads Mikkelsen
+Jagten,8.3,Thomas Bo Larsen
+Jagten,8.3,Annika Wedderkopp
+Jagten,8.3,Lasse Fogelstrøm
+Jodaeiye Nader az Simin,8.3,Payman Maadi
+Jodaeiye Nader az Simin,8.3,Leila Hatami
+Jodaeiye Nader az Simin,8.3,Sareh Bayat
+Jodaeiye Nader az Simin,8.3,Shahab Hosseini
+Incendies,8.3,Lubna Azabal
+Incendies,8.3,Mélissa Désormeaux-Poulin
+Incendies,8.3,Maxim Gaudette
+Incendies,8.3,Mustafa Kamel
+Inglourious Basterds,8.3,Brad Pitt
+Inglourious Basterds,8.3,Diane Kruger
+Inglourious Basterds,8.3,Eli Roth
+Inglourious Basterds,8.3,Mélanie Laurent
+Eternal Sunshine of the Spotless Mind,8.3,Jim Carrey
+Eternal Sunshine of the Spotless Mind,8.3,Kate Winslet
+Eternal Sunshine of the Spotless Mind,8.3,Tom Wilkinson
+Eternal Sunshine of the Spotless Mind,8.3,Gerry Robert Byrne
+Amélie,8.3,Audrey Tautou
+Amélie,8.3,Mathieu Kassovitz
+Amélie,8.3,Rufus
+Amélie,8.3,Lorella Cravotta
+Snatch,8.3,Jason Statham
+Snatch,8.3,Brad Pitt
+Snatch,8.3,Benicio Del Toro
+Snatch,8.3,Dennis Farina
+Requiem for a Dream,8.3,Ellen Burstyn
+Requiem for a Dream,8.3,Jared Leto
+Requiem for a Dream,8.3,Jennifer Connelly
+Requiem for a Dream,8.3,Marlon Wayans
+American Beauty,8.3,Kevin Spacey
+American Beauty,8.3,Annette Bening
+American Beauty,8.3,Thora Birch
+American Beauty,8.3,Wes Bentley
+Good Will Hunting,8.3,Robin Williams
+Good Will Hunting,8.3,Matt Damon
+Good Will Hunting,8.3,Ben Affleck
+Good Will Hunting,8.3,Stellan Skarsgård
+Bacheha-Ye aseman,8.3,Mohammad Amir Naji
+Bacheha-Ye aseman,8.3,Amir Farrokh Hashemian
+Bacheha-Ye aseman,8.3,Bahare Seddiqi
+Bacheha-Ye aseman,8.3,Nafise Jafar-Mohammadi
+Toy Story,8.3,Tom Hanks
+Toy Story,8.3,Tim Allen
+Toy Story,8.3,Don Rickles
+Toy Story,8.3,Jim Varney
+Braveheart,8.3,Mel Gibson
+Braveheart,8.3,Sophie Marceau
+Braveheart,8.3,Patrick McGoohan
+Braveheart,8.3,Angus Macfadyen
+Reservoir Dogs,8.3,Harvey Keitel
+Reservoir Dogs,8.3,Tim Roth
+Reservoir Dogs,8.3,Michael Madsen
+Reservoir Dogs,8.3,Chris Penn
+Full Metal Jacket,8.3,Matthew Modine
+Full Metal Jacket,8.3,R. Lee Ermey
+Full Metal Jacket,8.3,Vincent D'Onofrio
+Full Metal Jacket,8.3,Adam Baldwin
+Aliens,8.3,Sigourney Weaver
+Aliens,8.3,Michael Biehn
+Aliens,8.3,Carrie Henn
+Aliens,8.3,Paul Reiser
+Amadeus,8.3,F. Murray Abraham
+Amadeus,8.3,Tom Hulce
+Amadeus,8.3,Elizabeth Berridge
+Amadeus,8.3,Roy Dotrice
+Scarface,8.3,Al Pacino
+Scarface,8.3,Michelle Pfeiffer
+Scarface,8.3,Steven Bauer
+Scarface,8.3,Mary Elizabeth Mastrantonio
+Star Wars: Episode VI - Return of the Jedi,8.3,Mark Hamill
+Star Wars: Episode VI - Return of the Jedi,8.3,Harrison Ford
+Star Wars: Episode VI - Return of the Jedi,8.3,Carrie Fisher
+Star Wars: Episode VI - Return of the Jedi,8.3,Billy Dee Williams
+Das Boot,8.3,Jürgen Prochnow
+Das Boot,8.3,Herbert Grönemeyer
+Das Boot,8.3,Klaus Wennemann
+Das Boot,8.3,Hubertus Bengsch
+Taxi Driver,8.3,Robert De Niro
+Taxi Driver,8.3,Jodie Foster
+Taxi Driver,8.3,Cybill Shepherd
+Taxi Driver,8.3,Albert Brooks
+The Sting,8.3,Paul Newman
+The Sting,8.3,Robert Redford
+The Sting,8.3,Robert Shaw
+The Sting,8.3,Charles Durning
+A Clockwork Orange,8.3,Malcolm McDowell
+A Clockwork Orange,8.3,Patrick Magee
+A Clockwork Orange,8.3,Michael Bates
+A Clockwork Orange,8.3,Warren Clarke
+Chhichhore,8.2,Sushant Singh Rajput
+Chhichhore,8.2,Shraddha Kapoor
+Chhichhore,8.2,Varun Sharma
+Chhichhore,8.2,Prateik
+Uri: The Surgical Strike,8.2,Vicky Kaushal
+Uri: The Surgical Strike,8.2,Paresh Rawal
+Uri: The Surgical Strike,8.2,Mohit Raina
+Uri: The Surgical Strike,8.2,Yami Gautam
+Green Book,8.2,Viggo Mortensen
+Green Book,8.2,Mahershala Ali
+Green Book,8.2,Linda Cardellini
+Green Book,8.2,Sebastian Maniscalco
+"Three Billboards Outside Ebbing, Missouri",8.2,Frances McDormand
+"Three Billboards Outside Ebbing, Missouri",8.2,Woody Harrelson
+"Three Billboards Outside Ebbing, Missouri",8.2,Sam Rockwell
+"Three Billboards Outside Ebbing, Missouri",8.2,Caleb Landry Jones
+Talvar,8.2,Irrfan Khan
+Talvar,8.2,Konkona Sen Sharma
+Talvar,8.2,Neeraj Kabi
+Talvar,8.2,Sohum Shah
+Baahubali 2: The Conclusion,8.2,Prabhas
+Baahubali 2: The Conclusion,8.2,Rana Daggubati
+Baahubali 2: The Conclusion,8.2,Anushka Shetty
+Baahubali 2: The Conclusion,8.2,Tamannaah Bhatia
+Drishyam,8.2,Ajay Devgn
+Drishyam,8.2,Shriya Saran
+Drishyam,8.2,Tabu
+Drishyam,8.2,Rajat Kapoor
+Queen,8.2,Kangana Ranaut
+Queen,8.2,Rajkummar Rao
+Queen,8.2,Lisa Haydon
+Queen,8.2,Jeffrey Ho
+Mandariinid,8.2,Lembit Ulfsak
+Mandariinid,8.2,Elmo Nüganen
+Mandariinid,8.2,Giorgi Nakashidze
+Mandariinid,8.2,Misha Meskhi
+Bhaag Milkha Bhaag,8.2,Farhan Akhtar
+Bhaag Milkha Bhaag,8.2,Sonam Kapoor
+Bhaag Milkha Bhaag,8.2,Pawan Malhotra
+Bhaag Milkha Bhaag,8.2,Art Malik
+Udaan,8.2,Rajat Barmecha
+Udaan,8.2,Ronit Roy
+Udaan,8.2,Manjot Singh
+Udaan,8.2,Ram Kapoor
+Paan Singh Tomar,8.2,Irrfan Khan
+Paan Singh Tomar,8.2,Mahie Gill
+Paan Singh Tomar,8.2,Rajesh Abhay
+Paan Singh Tomar,8.2,Hemendra Dandotiya
+El secreto de sus ojos,8.2,Ricardo Darín
+El secreto de sus ojos,8.2,Soledad Villamil
+El secreto de sus ojos,8.2,Pablo Rago
+El secreto de sus ojos,8.2,Carla Quevedo
+Warrior,8.2,Tom Hardy
+Warrior,8.2,Nick Nolte
+Warrior,8.2,Joel Edgerton
+Warrior,8.2,Jennifer Morrison
+Shutter Island,8.2,Leonardo DiCaprio
+Shutter Island,8.2,Emily Mortimer
+Shutter Island,8.2,Mark Ruffalo
+Shutter Island,8.2,Ben Kingsley
+Up,8.2,Bob Peterson
+Up,8.2,Edward Asner
+Up,8.2,Jordan Nagai
+Up,8.2,John Ratzenberger
+The Wolf of Wall Street,8.2,Leonardo DiCaprio
+The Wolf of Wall Street,8.2,Jonah Hill
+The Wolf of Wall Street,8.2,Margot Robbie
+The Wolf of Wall Street,8.2,Matthew McConaughey
+Chak De! India,8.2,Shah Rukh Khan
+Chak De! India,8.2,Vidya Malvade
+Chak De! India,8.2,Sagarika Ghatge
+Chak De! India,8.2,Shilpa Shukla
+There Will Be Blood,8.2,Daniel Day-Lewis
+There Will Be Blood,8.2,Paul Dano
+There Will Be Blood,8.2,Ciarán Hinds
+There Will Be Blood,8.2,Martin Stringer
+Pan's Labyrinth,8.2,Ivana Baquero
+Pan's Labyrinth,8.2,Ariadna Gil
+Pan's Labyrinth,8.2,Sergi López
+Pan's Labyrinth,8.2,Maribel Verdú
+Toy Story 3,8.2,Tom Hanks
+Toy Story 3,8.2,Tim Allen
+Toy Story 3,8.2,Joan Cusack
+Toy Story 3,8.2,Ned Beatty
+V for Vendetta,8.2,Hugo Weaving
+V for Vendetta,8.2,Natalie Portman
+V for Vendetta,8.2,Rupert Graves
+V for Vendetta,8.2,Stephen Rea
+Rang De Basanti,8.2,Aamir Khan
+Rang De Basanti,8.2,Soha Ali Khan
+Rang De Basanti,8.2,Siddharth
+Rang De Basanti,8.2,Sharman Joshi
+Black,8.2,Amitabh Bachchan
+Black,8.2,Rani Mukerji
+Black,8.2,Shernaz Patel
+Black,8.2,Ayesha Kapoor
+Batman Begins,8.2,Christian Bale
+Batman Begins,8.2,Michael Caine
+Batman Begins,8.2,Ken Watanabe
+Batman Begins,8.2,Liam Neeson
+"Swades: We, the People",8.2,Shah Rukh Khan
+"Swades: We, the People",8.2,Gayatri Joshi
+"Swades: We, the People",8.2,Kishori Ballal
+"Swades: We, the People",8.2,Smit Sheth
+Der Untergang,8.2,Bruno Ganz
+Der Untergang,8.2,Alexandra Maria Lara
+Der Untergang,8.2,Ulrich Matthes
+Der Untergang,8.2,Juliane Köhler
+Hauru no ugoku shiro,8.2,Chieko Baishô
+Hauru no ugoku shiro,8.2,Takuya Kimura
+Hauru no ugoku shiro,8.2,Tatsuya Gashûin
+Hauru no ugoku shiro,8.2,Akihiro Miwa
+A Beautiful Mind,8.2,Russell Crowe
+A Beautiful Mind,8.2,Ed Harris
+A Beautiful Mind,8.2,Jennifer Connelly
+A Beautiful Mind,8.2,Christopher Plummer
+"Lock, Stock and Two Smoking Barrels",8.2,Jason Flemyng
+"Lock, Stock and Two Smoking Barrels",8.2,Dexter Fletcher
+"Lock, Stock and Two Smoking Barrels",8.2,Nick Moran
+"Lock, Stock and Two Smoking Barrels",8.2,Jason Statham
+L.A. Confidential,8.2,Kevin Spacey
+L.A. Confidential,8.2,Russell Crowe
+L.A. Confidential,8.2,Guy Pearce
+L.A. Confidential,8.2,Kim Basinger
+Heat,8.2,Al Pacino
+Heat,8.2,Robert De Niro
+Heat,8.2,Val Kilmer
+Heat,8.2,Jon Voight
+Casino,8.2,Robert De Niro
+Casino,8.2,Sharon Stone
+Casino,8.2,Joe Pesci
+Casino,8.2,James Woods
+Unforgiven,8.2,Clint Eastwood
+Unforgiven,8.2,Gene Hackman
+Unforgiven,8.2,Morgan Freeman
+Unforgiven,8.2,Richard Harris
+Indiana Jones and the Last Crusade,8.2,Harrison Ford
+Indiana Jones and the Last Crusade,8.2,Sean Connery
+Indiana Jones and the Last Crusade,8.2,Alison Doody
+Indiana Jones and the Last Crusade,8.2,Denholm Elliott
+Dom za vesanje,8.2,Davor Dujmovic
+Dom za vesanje,8.2,Bora Todorovic
+Dom za vesanje,8.2,Ljubica Adzovic
+Dom za vesanje,8.2,Husnija Hasimovic
+Tonari no Totoro,8.2,Hitoshi Takagi
+Tonari no Totoro,8.2,Noriko Hidaka
+Tonari no Totoro,8.2,Chika Sakamoto
+Tonari no Totoro,8.2,Shigesato Itoi
+Die Hard,8.2,Bruce Willis
+Die Hard,8.2,Alan Rickman
+Die Hard,8.2,Bonnie Bedelia
+Die Hard,8.2,Reginald VelJohnson
+Ran,8.2,Tatsuya Nakadai
+Ran,8.2,Akira Terao
+Ran,8.2,Jinpachi Nezu
+Ran,8.2,Daisuke Ryû
+Raging Bull,8.2,Robert De Niro
+Raging Bull,8.2,Cathy Moriarty
+Raging Bull,8.2,Joe Pesci
+Raging Bull,8.2,Frank Vincent
+Stalker,8.2,Alisa Freyndlikh
+Stalker,8.2,Aleksandr Kaydanovskiy
+Stalker,8.2,Anatoliy Solonitsyn
+Stalker,8.2,Nikolay Grinko
+Monty Python and the Holy Grail,8.2,Terry Jones
+Monty Python and the Holy Grail,8.2,Graham Chapman
+Monty Python and the Holy Grail,8.2,John Cleese
+Monty Python and the Holy Grail,8.2,Eric Idle
+Portrait de la jeune fille en feu,8.1,Noémie Merlant
+Portrait de la jeune fille en feu,8.1,Adèle Haenel
+Portrait de la jeune fille en feu,8.1,Luàna Bajrami
+Portrait de la jeune fille en feu,8.1,Valeria Golino
+Pink,8.1,Taapsee Pannu
+Pink,8.1,Amitabh Bachchan
+Pink,8.1,Kirti Kulhari
+Pink,8.1,Andrea Tariang
+Ah-ga-ssi,8.1,Kim Min-hee
+Ah-ga-ssi,8.1,Jung-woo Ha
+Ah-ga-ssi,8.1,Cho Jin-woong
+Ah-ga-ssi,8.1,Moon So-Ri
+Mommy,8.1,Anne Dorval
+Mommy,8.1,Antoine Olivier Pilon
+Mommy,8.1,Suzanne Clément
+Mommy,8.1,Patrick Huard
+Haider,8.1,Shahid Kapoor
+Haider,8.1,Tabu
+Haider,8.1,Shraddha Kapoor
+Haider,8.1,Kay Kay Menon
+Logan,8.1,Hugh Jackman
+Logan,8.1,Patrick Stewart
+Logan,8.1,Dafne Keen
+Logan,8.1,Boyd Holbrook
+Room,8.1,Brie Larson
+Room,8.1,Jacob Tremblay
+Room,8.1,Sean Bridgers
+Room,8.1,Wendy Crewson
+Relatos salvajes,8.1,Darío Grandinetti
+Relatos salvajes,8.1,María Marull
+Relatos salvajes,8.1,Mónica Villa
+Relatos salvajes,8.1,Diego Starosta
+Kis Uykusu,8.1,Haluk Bilginer
+Kis Uykusu,8.1,Melisa Sözen
+Kis Uykusu,8.1,Demet Akbag
+Kis Uykusu,8.1,Ayberk Pekcan
+PK,8.1,Aamir Khan
+PK,8.1,Anushka Sharma
+PK,8.1,Sanjay Dutt
+PK,8.1,Boman Irani
+OMG: Oh My God!,8.1,Paresh Rawal
+OMG: Oh My God!,8.1,Akshay Kumar
+OMG: Oh My God!,8.1,Mithun Chakraborty
+OMG: Oh My God!,8.1,Mahesh Manjrekar
+The Grand Budapest Hotel,8.1,Ralph Fiennes
+The Grand Budapest Hotel,8.1,F. Murray Abraham
+The Grand Budapest Hotel,8.1,Mathieu Amalric
+The Grand Budapest Hotel,8.1,Adrien Brody
+Gone Girl,8.1,Ben Affleck
+Gone Girl,8.1,Rosamund Pike
+Gone Girl,8.1,Neil Patrick Harris
+Gone Girl,8.1,Tyler Perry
+Hacksaw Ridge,8.1,Andrew Garfield
+Hacksaw Ridge,8.1,Sam Worthington
+Hacksaw Ridge,8.1,Luke Bracey
+Hacksaw Ridge,8.1,Teresa Palmer
+Inside Out,8.1,Ronnie Del Carmen
+Inside Out,8.1,Amy Poehler
+Inside Out,8.1,Bill Hader
+Inside Out,8.1,Lewis Black
+Barfi!,8.1,Ranbir Kapoor
+Barfi!,8.1,Priyanka Chopra
+Barfi!,8.1,Ileana D'Cruz
+Barfi!,8.1,Saurabh Shukla
+12 Years a Slave,8.1,Chiwetel Ejiofor
+12 Years a Slave,8.1,Michael Kenneth Williams
+12 Years a Slave,8.1,Michael Fassbender
+12 Years a Slave,8.1,Brad Pitt
+Rush,8.1,Daniel Brühl
+Rush,8.1,Chris Hemsworth
+Rush,8.1,Olivia Wilde
+Rush,8.1,Alexandra Maria Lara
+Ford v Ferrari,8.1,Matt Damon
+Ford v Ferrari,8.1,Christian Bale
+Ford v Ferrari,8.1,Jon Bernthal
+Ford v Ferrari,8.1,Caitriona Balfe
+Spotlight,8.1,Mark Ruffalo
+Spotlight,8.1,Michael Keaton
+Spotlight,8.1,Rachel McAdams
+Spotlight,8.1,Liev Schreiber
+Song of the Sea,8.1,David Rawle
+Song of the Sea,8.1,Brendan Gleeson
+Song of the Sea,8.1,Lisa Hannigan
+Song of the Sea,8.1,Fionnula Flanagan
+Kahaani,8.1,Vidya Balan
+Kahaani,8.1,Parambrata Chattopadhyay
+Kahaani,8.1,Indraneil Sengupta
+Kahaani,8.1,Nawazuddin Siddiqui
+Zindagi Na Milegi Dobara,8.1,Hrithik Roshan
+Zindagi Na Milegi Dobara,8.1,Farhan Akhtar
+Zindagi Na Milegi Dobara,8.1,Abhay Deol
+Zindagi Na Milegi Dobara,8.1,Katrina Kaif
+Prisoners,8.1,Hugh Jackman
+Prisoners,8.1,Jake Gyllenhaal
+Prisoners,8.1,Viola Davis
+Prisoners,8.1,Melissa Leo
+Mad Max: Fury Road,8.1,Tom Hardy
+Mad Max: Fury Road,8.1,Charlize Theron
+Mad Max: Fury Road,8.1,Nicholas Hoult
+Mad Max: Fury Road,8.1,Zoë Kravitz
+Gran Torino,8.1,Clint Eastwood
+Gran Torino,8.1,Bee Vang
+Gran Torino,8.1,Christopher Carley
+Gran Torino,8.1,Ahney Her
+Harry Potter and the Deathly Hallows: Part 2,8.1,Daniel Radcliffe
+Harry Potter and the Deathly Hallows: Part 2,8.1,Emma Watson
+Harry Potter and the Deathly Hallows: Part 2,8.1,Rupert Grint
+Harry Potter and the Deathly Hallows: Part 2,8.1,Michael Gambon
+Okuribito,8.1,Masahiro Motoki
+Okuribito,8.1,Ryôko Hirosue
+Okuribito,8.1,Tsutomu Yamazaki
+Okuribito,8.1,Kazuko Yoshiyuki
+How to Train Your Dragon,8.1,Chris Sanders
+How to Train Your Dragon,8.1,Jay Baruchel
+How to Train Your Dragon,8.1,Gerard Butler
+How to Train Your Dragon,8.1,Christopher Mintz-Plasse
+Into the Wild,8.1,Emile Hirsch
+Into the Wild,8.1,Vince Vaughn
+Into the Wild,8.1,Catherine Keener
+Into the Wild,8.1,Marcia Gay Harden
+No Country for Old Men,8.1,Joel Coen
+No Country for Old Men,8.1,Tommy Lee Jones
+No Country for Old Men,8.1,Javier Bardem
+No Country for Old Men,8.1,Josh Brolin
+Lage Raho Munna Bhai,8.1,Sanjay Dutt
+Lage Raho Munna Bhai,8.1,Arshad Warsi
+Lage Raho Munna Bhai,8.1,Vidya Balan
+Lage Raho Munna Bhai,8.1,Boman Irani
+Million Dollar Baby,8.1,Hilary Swank
+Million Dollar Baby,8.1,Clint Eastwood
+Million Dollar Baby,8.1,Morgan Freeman
+Million Dollar Baby,8.1,Jay Baruchel
+Hotel Rwanda,8.1,Don Cheadle
+Hotel Rwanda,8.1,Sophie Okonedo
+Hotel Rwanda,8.1,Joaquin Phoenix
+Hotel Rwanda,8.1,Xolani Mali
+Taegukgi hwinalrimyeo,8.1,Jang Dong-Gun
+Taegukgi hwinalrimyeo,8.1,Won Bin
+Taegukgi hwinalrimyeo,8.1,Eun-ju Lee
+Taegukgi hwinalrimyeo,8.1,Hyeong-jin Kong
+Before Sunset,8.1,Ethan Hawke
+Before Sunset,8.1,Julie Delpy
+Before Sunset,8.1,Vernon Dobtcheff
+Before Sunset,8.1,Louise Lemoine Torrès
+Salinui chueok,8.1,Kang-ho Song
+Salinui chueok,8.1,Kim Sang-kyung
+Salinui chueok,8.1,Roe-ha Kim
+Salinui chueok,8.1,Jae-ho Song
+Dil Chahta Hai,8.1,Aamir Khan
+Dil Chahta Hai,8.1,Saif Ali Khan
+Dil Chahta Hai,8.1,Akshaye Khanna
+Dil Chahta Hai,8.1,Preity Zinta
+Kill Bill: Vol. 1,8.1,Uma Thurman
+Kill Bill: Vol. 1,8.1,David Carradine
+Kill Bill: Vol. 1,8.1,Daryl Hannah
+Kill Bill: Vol. 1,8.1,Michael Madsen
+Finding Nemo,8.1,Lee Unkrich
+Finding Nemo,8.1,Albert Brooks
+Finding Nemo,8.1,Ellen DeGeneres
+Finding Nemo,8.1,Alexander Gould
+Catch Me If You Can,8.1,Leonardo DiCaprio
+Catch Me If You Can,8.1,Tom Hanks
+Catch Me If You Can,8.1,Christopher Walken
+Catch Me If You Can,8.1,Martin Sheen
+Amores perros,8.1,Emilio Echevarría
+Amores perros,8.1,Gael García Bernal
+Amores perros,8.1,Goya Toledo
+Amores perros,8.1,Álvaro Guerrero
+"Monsters, Inc.",8.1,David Silverman
+"Monsters, Inc.",8.1,Lee Unkrich
+"Monsters, Inc.",8.1,Billy Crystal
+"Monsters, Inc.",8.1,John Goodman
+The Sixth Sense,8.1,Bruce Willis
+The Sixth Sense,8.1,Haley Joel Osment
+The Sixth Sense,8.1,Toni Collette
+The Sixth Sense,8.1,Olivia Williams
+La leggenda del pianista sull'oceano,8.1,Tim Roth
+La leggenda del pianista sull'oceano,8.1,Pruitt Taylor Vince
+La leggenda del pianista sull'oceano,8.1,Mélanie Thierry
+La leggenda del pianista sull'oceano,8.1,Bill Nunn
+The Truman Show,8.1,Jim Carrey
+The Truman Show,8.1,Ed Harris
+The Truman Show,8.1,Laura Linney
+The Truman Show,8.1,Noah Emmerich
+"Crna macka, beli macor",8.1,Bajram Severdzan
+"Crna macka, beli macor",8.1,Srdjan 'Zika' Todorovic
+"Crna macka, beli macor",8.1,Branka Katic
+"Crna macka, beli macor",8.1,Florijan Ajdini
+The Big Lebowski,8.1,Ethan Coen
+The Big Lebowski,8.1,Jeff Bridges
+The Big Lebowski,8.1,John Goodman
+The Big Lebowski,8.1,Julianne Moore
+Fa yeung nin wah,8.1,Tony Chiu-Wai Leung
+Fa yeung nin wah,8.1,Maggie Cheung
+Fa yeung nin wah,8.1,Ping Lam Siu
+Fa yeung nin wah,8.1,Tung Cho 'Joe' Cheung
+Trainspotting,8.1,Ewan McGregor
+Trainspotting,8.1,Ewen Bremner
+Trainspotting,8.1,Jonny Lee Miller
+Trainspotting,8.1,Kevin McKidd
+Fargo,8.1,Ethan Coen
+Fargo,8.1,William H. Macy
+Fargo,8.1,Frances McDormand
+Fargo,8.1,Steve Buscemi
+Underground,8.1,Predrag 'Miki' Manojlovic
+Underground,8.1,Lazar Ristovski
+Underground,8.1,Mirjana Jokovic
+Underground,8.1,Slavko Stimac
+La haine,8.1,Vincent Cassel
+La haine,8.1,Hubert Koundé
+La haine,8.1,Saïd Taghmaoui
+La haine,8.1,Abdel Ahmed Ghili
+Before Sunrise,8.1,Ethan Hawke
+Before Sunrise,8.1,Julie Delpy
+Before Sunrise,8.1,Andrea Eckert
+Before Sunrise,8.1,Hanno Pöschl
+Trois couleurs: Rouge,8.1,Irène Jacob
+Trois couleurs: Rouge,8.1,Jean-Louis Trintignant
+Trois couleurs: Rouge,8.1,Frédérique Feder
+Trois couleurs: Rouge,8.1,Jean-Pierre Lorit
+Chung Hing sam lam,8.1,Brigitte Lin
+Chung Hing sam lam,8.1,Takeshi Kaneshiro
+Chung Hing sam lam,8.1,Tony Chiu-Wai Leung
+Chung Hing sam lam,8.1,Faye Wong
+Jurassic Park,8.1,Sam Neill
+Jurassic Park,8.1,Laura Dern
+Jurassic Park,8.1,Jeff Goldblum
+Jurassic Park,8.1,Richard Attenborough
+In the Name of the Father,8.1,Daniel Day-Lewis
+In the Name of the Father,8.1,Pete Postlethwaite
+In the Name of the Father,8.1,Alison Crosbie
+In the Name of the Father,8.1,Philip King
+Ba wang bie ji,8.1,Leslie Cheung
+Ba wang bie ji,8.1,Fengyi Zhang
+Ba wang bie ji,8.1,Gong Li
+Ba wang bie ji,8.1,You Ge
+Dà hóng denglong gaogao guà,8.1,Gong Li
+Dà hóng denglong gaogao guà,8.1,Jingwu Ma
+Dà hóng denglong gaogao guà,8.1,Saifei He
+Dà hóng denglong gaogao guà,8.1,Cuifen Cao
+Dead Poets Society,8.1,Robin Williams
+Dead Poets Society,8.1,Robert Sean Leonard
+Dead Poets Society,8.1,Ethan Hawke
+Dead Poets Society,8.1,Josh Charles
+Stand by Me,8.1,Wil Wheaton
+Stand by Me,8.1,River Phoenix
+Stand by Me,8.1,Corey Feldman
+Stand by Me,8.1,Jerry O'Connell
+Platoon,8.1,Charlie Sheen
+Platoon,8.1,Tom Berenger
+Platoon,8.1,Willem Dafoe
+Platoon,8.1,Keith David
+"Paris, Texas",8.1,Harry Dean Stanton
+"Paris, Texas",8.1,Nastassja Kinski
+"Paris, Texas",8.1,Dean Stockwell
+"Paris, Texas",8.1,Aurore Clément
+Kaze no tani no Naushika,8.1,Sumi Shimamoto
+Kaze no tani no Naushika,8.1,Mahito Tsujimura
+Kaze no tani no Naushika,8.1,Hisako Kyôda
+Kaze no tani no Naushika,8.1,Gorô Naya
+The Thing,8.1,Kurt Russell
+The Thing,8.1,Wilford Brimley
+The Thing,8.1,Keith David
+The Thing,8.1,Richard Masur
+Pink Floyd: The Wall,8.1,Bob Geldof
+Pink Floyd: The Wall,8.1,Christine Hargreaves
+Pink Floyd: The Wall,8.1,James Laurenson
+Pink Floyd: The Wall,8.1,Eleanor David
+Fanny och Alexander,8.1,Bertil Guve
+Fanny och Alexander,8.1,Pernilla Allwin
+Fanny och Alexander,8.1,Kristina Adolphson
+Fanny och Alexander,8.1,Börje Ahlstedt
+Blade Runner,8.1,Harrison Ford
+Blade Runner,8.1,Rutger Hauer
+Blade Runner,8.1,Sean Young
+Blade Runner,8.1,Edward James Olmos
+Life of Brian,8.1,Graham Chapman
+Life of Brian,8.1,John Cleese
+Life of Brian,8.1,Michael Palin
+Life of Brian,8.1,Terry Gilliam
+The Deer Hunter,8.1,Robert De Niro
+The Deer Hunter,8.1,Christopher Walken
+The Deer Hunter,8.1,John Cazale
+The Deer Hunter,8.1,John Savage
+Rocky,8.1,Sylvester Stallone
+Rocky,8.1,Talia Shire
+Rocky,8.1,Burt Young
+Rocky,8.1,Carl Weathers
+Zerkalo,8.1,Margarita Terekhova
+Zerkalo,8.1,Filipp Yankovskiy
+Zerkalo,8.1,Ignat Daniltsev
+Zerkalo,8.1,Oleg Yankovskiy
+Chinatown,8.1,Jack Nicholson
+Chinatown,8.1,Faye Dunaway
+Chinatown,8.1,John Huston
+Chinatown,8.1,Perry Lopez
+Paper Moon,8.1,Ryan O'Neal
+Paper Moon,8.1,Tatum O'Neal
+Paper Moon,8.1,Madeline Kahn
+Paper Moon,8.1,John Hillerman
+Viskningar och rop,8.1,Harriet Andersson
+Viskningar och rop,8.1,Liv Ullmann
+Viskningar och rop,8.1,Kari Sylwan
+Viskningar och rop,8.1,Ingrid Thulin
+Bajrangi Bhaijaan,8.0,Salman Khan
+Bajrangi Bhaijaan,8.0,Harshaali Malhotra
+Bajrangi Bhaijaan,8.0,Nawazuddin Siddiqui
+Bajrangi Bhaijaan,8.0,Kareena Kapoor
+La La Land,8.0,Ryan Gosling
+La La Land,8.0,Emma Stone
+La La Land,8.0,Rosemarie DeWitt
+La La Land,8.0,J.K. Simmons
+Lion,8.0,Dev Patel
+Lion,8.0,Nicole Kidman
+Lion,8.0,Rooney Mara
+Lion,8.0,Sunny Pawar
+The Martian,8.0,Matt Damon
+The Martian,8.0,Jessica Chastain
+The Martian,8.0,Kristen Wiig
+The Martian,8.0,Kate Mara
+Zootopia,8.0,Rich Moore
+Zootopia,8.0,Jared Bush
+Zootopia,8.0,Ginnifer Goodwin
+Zootopia,8.0,Jason Bateman
+Bãhubali: The Beginning,8.0,Prabhas
+Bãhubali: The Beginning,8.0,Rana Daggubati
+Bãhubali: The Beginning,8.0,Ramya Krishnan
+Bãhubali: The Beginning,8.0,Sathyaraj
+Kaguyahime no monogatari,8.0,Chloë Grace Moretz
+Kaguyahime no monogatari,8.0,James Caan
+Kaguyahime no monogatari,8.0,Mary Steenburgen
+Kaguyahime no monogatari,8.0,James Marsden
+Wonder,8.0,Jacob Tremblay
+Wonder,8.0,Owen Wilson
+Wonder,8.0,Izabela Vidovic
+Wonder,8.0,Julia Roberts
+Gully Boy,8.0,Vijay Varma
+Gully Boy,8.0,Nakul Roshan Sahdev
+Gully Boy,8.0,Ranveer Singh
+Gully Boy,8.0,Vijay Raaz
+Special Chabbis,8.0,Akshay Kumar
+Special Chabbis,8.0,Anupam Kher
+Special Chabbis,8.0,Manoj Bajpayee
+Special Chabbis,8.0,Jimmy Sheirgill
+Short Term 12,8.0,Brie Larson
+Short Term 12,8.0,Frantz Turner
+Short Term 12,8.0,John Gallagher Jr.
+Short Term 12,8.0,Kaitlyn Dever
+Serbuan maut 2: Berandal,8.0,Iko Uwais
+Serbuan maut 2: Berandal,8.0,Yayan Ruhian
+Serbuan maut 2: Berandal,8.0,Arifin Putra
+Serbuan maut 2: Berandal,8.0,Oka Antara
+The Imitation Game,8.0,Benedict Cumberbatch
+The Imitation Game,8.0,Keira Knightley
+The Imitation Game,8.0,Matthew Goode
+The Imitation Game,8.0,Allen Leech
+Guardians of the Galaxy,8.0,Chris Pratt
+Guardians of the Galaxy,8.0,Vin Diesel
+Guardians of the Galaxy,8.0,Bradley Cooper
+Guardians of the Galaxy,8.0,Zoe Saldana
+Blade Runner 2049,8.0,Harrison Ford
+Blade Runner 2049,8.0,Ryan Gosling
+Blade Runner 2049,8.0,Ana de Armas
+Blade Runner 2049,8.0,Dave Bautista
+Her,8.0,Joaquin Phoenix
+Her,8.0,Amy Adams
+Her,8.0,Scarlett Johansson
+Her,8.0,Rooney Mara
+Bohemian Rhapsody,8.0,Rami Malek
+Bohemian Rhapsody,8.0,Lucy Boynton
+Bohemian Rhapsody,8.0,Gwilym Lee
+Bohemian Rhapsody,8.0,Ben Hardy
+The Revenant,8.0,Leonardo DiCaprio
+The Revenant,8.0,Tom Hardy
+The Revenant,8.0,Will Poulter
+The Revenant,8.0,Domhnall Gleeson
+The Perks of Being a Wallflower,8.0,Logan Lerman
+The Perks of Being a Wallflower,8.0,Emma Watson
+The Perks of Being a Wallflower,8.0,Ezra Miller
+The Perks of Being a Wallflower,8.0,Paul Rudd
+Tropa de Elite 2: O Inimigo Agora é Outro,8.0,Wagner Moura
+Tropa de Elite 2: O Inimigo Agora é Outro,8.0,Irandhir Santos
+Tropa de Elite 2: O Inimigo Agora é Outro,8.0,André Ramiro
+Tropa de Elite 2: O Inimigo Agora é Outro,8.0,Milhem Cortaz
+The King's Speech,8.0,Colin Firth
+The King's Speech,8.0,Geoffrey Rush
+The King's Speech,8.0,Helena Bonham Carter
+The King's Speech,8.0,Derek Jacobi
+The Help,8.0,Emma Stone
+The Help,8.0,Viola Davis
+The Help,8.0,Octavia Spencer
+The Help,8.0,Bryce Dallas Howard
+Deadpool,8.0,Ryan Reynolds
+Deadpool,8.0,Morena Baccarin
+Deadpool,8.0,T.J. Miller
+Deadpool,8.0,Ed Skrein
+Darbareye Elly,8.0,Golshifteh Farahani
+Darbareye Elly,8.0,Shahab Hosseini
+Darbareye Elly,8.0,Taraneh Alidoosti
+Darbareye Elly,8.0,Merila Zare'i
+Dev.D,8.0,Abhay Deol
+Dev.D,8.0,Mahie Gill
+Dev.D,8.0,Kalki Koechlin
+Dev.D,8.0,Dibyendu Bhattacharya
+My Name Is Khan,8.0,Shah Rukh Khan
+My Name Is Khan,8.0,Kajol
+My Name Is Khan,8.0,Sheetal Menon
+My Name Is Khan,8.0,Katie A. Keane
+Slumdog Millionaire,8.0,Loveleen Tandan
+Slumdog Millionaire,8.0,Dev Patel
+Slumdog Millionaire,8.0,Freida Pinto
+Slumdog Millionaire,8.0,Saurabh Shukla
+Black Swan,8.0,Natalie Portman
+Black Swan,8.0,Mila Kunis
+Black Swan,8.0,Vincent Cassel
+Black Swan,8.0,Winona Ryder
+Tropa de Elite,8.0,Wagner Moura
+Tropa de Elite,8.0,André Ramiro
+Tropa de Elite,8.0,Caio Junqueira
+Tropa de Elite,8.0,Milhem Cortaz
+The Avengers,8.0,Robert Downey Jr.
+The Avengers,8.0,Chris Evans
+The Avengers,8.0,Scarlett Johansson
+The Avengers,8.0,Jeremy Renner
+Persepolis,8.0,Marjane Satrapi
+Persepolis,8.0,Chiara Mastroianni
+Persepolis,8.0,Catherine Deneuve
+Persepolis,8.0,Gena Rowlands
+Dallas Buyers Club,8.0,Matthew McConaughey
+Dallas Buyers Club,8.0,Jennifer Garner
+Dallas Buyers Club,8.0,Jared Leto
+Dallas Buyers Club,8.0,Steve Zahn
+The Pursuit of Happyness,8.0,Will Smith
+The Pursuit of Happyness,8.0,Thandie Newton
+The Pursuit of Happyness,8.0,Jaden Smith
+The Pursuit of Happyness,8.0,Brian Howe
+Blood Diamond,8.0,Leonardo DiCaprio
+Blood Diamond,8.0,Djimon Hounsou
+Blood Diamond,8.0,Jennifer Connelly
+Blood Diamond,8.0,Kagiso Kuypers
+The Bourne Ultimatum,8.0,Matt Damon
+The Bourne Ultimatum,8.0,Edgar Ramírez
+The Bourne Ultimatum,8.0,Joan Allen
+The Bourne Ultimatum,8.0,Julia Stiles
+Bin-jip,8.0,Seung-Yun Lee
+Bin-jip,8.0,Hee Jae
+Bin-jip,8.0,Hyuk-ho Kwon
+Bin-jip,8.0,Jin-mo Joo
+Sin City,8.0,Quentin Tarantino
+Sin City,8.0,Robert Rodriguez
+Sin City,8.0,Mickey Rourke
+Sin City,8.0,Clive Owen
+Le scaphandre et le papillon,8.0,Laura Obiols
+Le scaphandre et le papillon,8.0,Mathieu Amalric
+Le scaphandre et le papillon,8.0,Emmanuelle Seigner
+Le scaphandre et le papillon,8.0,Marie-Josée Croze
+Ratatouille,8.0,Jan Pinkava
+Ratatouille,8.0,Brad Garrett
+Ratatouille,8.0,Lou Romano
+Ratatouille,8.0,Patton Oswalt
+Casino Royale,8.0,Daniel Craig
+Casino Royale,8.0,Eva Green
+Casino Royale,8.0,Judi Dench
+Casino Royale,8.0,Jeffrey Wright
+Kill Bill: Vol. 2,8.0,Uma Thurman
+Kill Bill: Vol. 2,8.0,David Carradine
+Kill Bill: Vol. 2,8.0,Michael Madsen
+Kill Bill: Vol. 2,8.0,Daryl Hannah
+Vozvrashchenie,8.0,Vladimir Garin
+Vozvrashchenie,8.0,Ivan Dobronravov
+Vozvrashchenie,8.0,Konstantin Lavronenko
+Vozvrashchenie,8.0,Nataliya Vdovina
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,8.0,Ki-duk Kim
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,8.0,Yeong-su Oh
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,8.0,Jong-ho Kim
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,8.0,Kim Young-Min
+Mar adentro,8.0,Javier Bardem
+Mar adentro,8.0,Belén Rueda
+Mar adentro,8.0,Lola Dueñas
+Mar adentro,8.0,Mabel Rivera
+Cinderella Man,8.0,Russell Crowe
+Cinderella Man,8.0,Renée Zellweger
+Cinderella Man,8.0,Craig Bierko
+Cinderella Man,8.0,Paul Giamatti
+Kal Ho Naa Ho,8.0,Preity Zinta
+Kal Ho Naa Ho,8.0,Shah Rukh Khan
+Kal Ho Naa Ho,8.0,Saif Ali Khan
+Kal Ho Naa Ho,8.0,Jaya Bachchan
+Mou gaan dou,8.0,Alan Mak
+Mou gaan dou,8.0,Andy Lau
+Mou gaan dou,8.0,Tony Chiu-Wai Leung
+Mou gaan dou,8.0,Anthony Chau-Sang Wong
+Pirates of the Caribbean: The Curse of the Black Pearl,8.0,Johnny Depp
+Pirates of the Caribbean: The Curse of the Black Pearl,8.0,Geoffrey Rush
+Pirates of the Caribbean: The Curse of the Black Pearl,8.0,Orlando Bloom
+Pirates of the Caribbean: The Curse of the Black Pearl,8.0,Keira Knightley
+Big Fish,8.0,Ewan McGregor
+Big Fish,8.0,Albert Finney
+Big Fish,8.0,Billy Crudup
+Big Fish,8.0,Jessica Lange
+The Incredibles,8.0,Craig T. Nelson
+The Incredibles,8.0,Samuel L. Jackson
+The Incredibles,8.0,Holly Hunter
+The Incredibles,8.0,Jason Lee
+Dogville,8.0,Nicole Kidman
+Dogville,8.0,Paul Bettany
+Dogville,8.0,Lauren Bacall
+Dogville,8.0,Harriet Andersson
+Donnie Darko,8.0,Jake Gyllenhaal
+Donnie Darko,8.0,Jena Malone
+Donnie Darko,8.0,Mary McDonnell
+Donnie Darko,8.0,Holmes Osborne
+Magnolia,8.0,Tom Cruise
+Magnolia,8.0,Jason Robards
+Magnolia,8.0,Julianne Moore
+Magnolia,8.0,Philip Seymour Hoffman
+Dancer in the Dark,8.0,Björk
+Dancer in the Dark,8.0,Catherine Deneuve
+Dancer in the Dark,8.0,David Morse
+Dancer in the Dark,8.0,Peter Stormare
+The Straight Story,8.0,Richard Farnsworth
+The Straight Story,8.0,Sissy Spacek
+The Straight Story,8.0,Jane Galloway Heitz
+The Straight Story,8.0,Joseph A. Carpenter
+Pâfekuto burû,8.0,Junko Iwao
+Pâfekuto burû,8.0,Rica Matsumoto
+Pâfekuto burû,8.0,Shinpachi Tsuji
+Pâfekuto burû,8.0,Masaaki Ôkura
+Festen,8.0,Ulrich Thomsen
+Festen,8.0,Henning Moritzen
+Festen,8.0,Thomas Bo Larsen
+Festen,8.0,Paprika Steen
+Central do Brasil,8.0,Fernanda Montenegro
+Central do Brasil,8.0,Vinícius de Oliveira
+Central do Brasil,8.0,Marília Pêra
+Central do Brasil,8.0,Soia Lira
+The Iron Giant,8.0,Eli Marienthal
+The Iron Giant,8.0,Harry Connick Jr.
+The Iron Giant,8.0,Jennifer Aniston
+The Iron Giant,8.0,Vin Diesel
+Knockin' on Heaven's Door,8.0,Til Schweiger
+Knockin' on Heaven's Door,8.0,Jan Josef Liefers
+Knockin' on Heaven's Door,8.0,Thierry van Werveke
+Knockin' on Heaven's Door,8.0,Moritz Bleibtreu
+Sling Blade,8.0,Billy Bob Thornton
+Sling Blade,8.0,Dwight Yoakam
+Sling Blade,8.0,J.T. Walsh
+Sling Blade,8.0,John Ritter
+Secrets & Lies,8.0,Timothy Spall
+Secrets & Lies,8.0,Brenda Blethyn
+Secrets & Lies,8.0,Phyllis Logan
+Secrets & Lies,8.0,Claire Rushbrook
+Twelve Monkeys,8.0,Bruce Willis
+Twelve Monkeys,8.0,Madeleine Stowe
+Twelve Monkeys,8.0,Brad Pitt
+Twelve Monkeys,8.0,Joseph Melito
+Kôkaku Kidôtai,8.0,Atsuko Tanaka
+Kôkaku Kidôtai,8.0,Iemasa Kayumi
+Kôkaku Kidôtai,8.0,Akio Ôtsuka
+Kôkaku Kidôtai,8.0,Kôichi Yamadera
+The Nightmare Before Christmas,8.0,Danny Elfman
+The Nightmare Before Christmas,8.0,Chris Sarandon
+The Nightmare Before Christmas,8.0,Catherine O'Hara
+The Nightmare Before Christmas,8.0,William Hickey
+Groundhog Day,8.0,Bill Murray
+Groundhog Day,8.0,Andie MacDowell
+Groundhog Day,8.0,Chris Elliott
+Groundhog Day,8.0,Stephen Tobolowsky
+Bound by Honor,8.0,Damian Chapa
+Bound by Honor,8.0,Jesse Borrego
+Bound by Honor,8.0,Benjamin Bratt
+Bound by Honor,8.0,Enrique Castillo
+Scent of a Woman,8.0,Al Pacino
+Scent of a Woman,8.0,Chris O'Donnell
+Scent of a Woman,8.0,James Rebhorn
+Scent of a Woman,8.0,Gabrielle Anwar
+Aladdin,8.0,John Musker
+Aladdin,8.0,Scott Weinger
+Aladdin,8.0,Robin Williams
+Aladdin,8.0,Linda Larkin
+JFK,8.0,Kevin Costner
+JFK,8.0,Gary Oldman
+JFK,8.0,Jack Lemmon
+JFK,8.0,Walter Matthau
+Beauty and the Beast,8.0,Kirk Wise
+Beauty and the Beast,8.0,Paige O'Hara
+Beauty and the Beast,8.0,Robby Benson
+Beauty and the Beast,8.0,Jesse Corti
+Dances with Wolves,8.0,Kevin Costner
+Dances with Wolves,8.0,Mary McDonnell
+Dances with Wolves,8.0,Graham Greene
+Dances with Wolves,8.0,Rodney A. Grant
+Do the Right Thing,8.0,Danny Aiello
+Do the Right Thing,8.0,Ossie Davis
+Do the Right Thing,8.0,Ruby Dee
+Do the Right Thing,8.0,Richard Edson
+Rain Man,8.0,Dustin Hoffman
+Rain Man,8.0,Tom Cruise
+Rain Man,8.0,Valeria Golino
+Rain Man,8.0,Gerald R. Molen
+Akira,8.0,Mitsuo Iwata
+Akira,8.0,Nozomu Sasaki
+Akira,8.0,Mami Koyama
+Akira,8.0,Tesshô Genda
+The Princess Bride,8.0,Cary Elwes
+The Princess Bride,8.0,Mandy Patinkin
+The Princess Bride,8.0,Robin Wright
+The Princess Bride,8.0,Chris Sarandon
+Der Himmel über Berlin,8.0,Bruno Ganz
+Der Himmel über Berlin,8.0,Solveig Dommartin
+Der Himmel über Berlin,8.0,Otto Sander
+Der Himmel über Berlin,8.0,Curt Bois
+Au revoir les enfants,8.0,Gaspard Manesse
+Au revoir les enfants,8.0,Raphael Fejtö
+Au revoir les enfants,8.0,Francine Racette
+Au revoir les enfants,8.0,Stanislas Carré de Malberg
+The Terminator,8.0,Arnold Schwarzenegger
+The Terminator,8.0,Linda Hamilton
+The Terminator,8.0,Michael Biehn
+The Terminator,8.0,Paul Winfield
+Gandhi,8.0,Ben Kingsley
+Gandhi,8.0,John Gielgud
+Gandhi,8.0,Rohini Hattangadi
+Gandhi,8.0,Roshan Seth
+Being There,8.0,Peter Sellers
+Being There,8.0,Shirley MacLaine
+Being There,8.0,Melvyn Douglas
+Being There,8.0,Jack Warden
+Annie Hall,8.0,Woody Allen
+Annie Hall,8.0,Diane Keaton
+Annie Hall,8.0,Tony Roberts
+Annie Hall,8.0,Carol Kane
+Jaws,8.0,Roy Scheider
+Jaws,8.0,Robert Shaw
+Jaws,8.0,Richard Dreyfuss
+Jaws,8.0,Lorraine Gary
+Dog Day Afternoon,8.0,Al Pacino
+Dog Day Afternoon,8.0,John Cazale
+Dog Day Afternoon,8.0,Penelope Allen
+Dog Day Afternoon,8.0,Sully Boyar
+Young Frankenstein,8.0,Gene Wilder
+Young Frankenstein,8.0,Madeline Kahn
+Young Frankenstein,8.0,Marty Feldman
+Young Frankenstein,8.0,Peter Boyle
+Papillon,8.0,Steve McQueen
+Papillon,8.0,Dustin Hoffman
+Papillon,8.0,Victor Jory
+Papillon,8.0,Don Gordon
+The Exorcist,8.0,Ellen Burstyn
+The Exorcist,8.0,Max von Sydow
+The Exorcist,8.0,Linda Blair
+The Exorcist,8.0,Lee J. Cobb
+Sleuth,8.0,Laurence Olivier
+Sleuth,8.0,Michael Caine
+Sleuth,8.0,Alec Cawthorne
+Sleuth,8.0,John Matthews
+The Last Picture Show,8.0,Timothy Bottoms
+The Last Picture Show,8.0,Jeff Bridges
+The Last Picture Show,8.0,Cybill Shepherd
+The Last Picture Show,8.0,Ben Johnson
+Fiddler on the Roof,8.0,Topol
+Fiddler on the Roof,8.0,Norma Crane
+Fiddler on the Roof,8.0,Leonard Frey
+Fiddler on the Roof,8.0,Molly Picon
+Il conformista,8.0,Jean-Louis Trintignant
+Il conformista,8.0,Stefania Sandrelli
+Il conformista,8.0,Gastone Moschin
+Il conformista,8.0,Enzo Tarascio
+Knives Out,7.9,Daniel Craig
+Knives Out,7.9,Chris Evans
+Knives Out,7.9,Ana de Armas
+Knives Out,7.9,Jamie Lee Curtis
+Manbiki kazoku,7.9,Lily Franky
+Manbiki kazoku,7.9,Sakura Andô
+Manbiki kazoku,7.9,Kirin Kiki
+Manbiki kazoku,7.9,Mayu Matsuoka
+Marriage Story,7.9,Adam Driver
+Marriage Story,7.9,Scarlett Johansson
+Marriage Story,7.9,Julia Greer
+Marriage Story,7.9,Azhy Robertson
+Call Me by Your Name,7.9,Armie Hammer
+Call Me by Your Name,7.9,Timothée Chalamet
+Call Me by Your Name,7.9,Michael Stuhlbarg
+Call Me by Your Name,7.9,Amira Casar
+"I, Daniel Blake",7.9,Laura Obiols
+"I, Daniel Blake",7.9,Dave Johns
+"I, Daniel Blake",7.9,Hayley Squires
+"I, Daniel Blake",7.9,Sharon Percy
+Isle of Dogs,7.9,Bryan Cranston
+Isle of Dogs,7.9,Koyu Rankin
+Isle of Dogs,7.9,Edward Norton
+Isle of Dogs,7.9,Bob Balaban
+Hunt for the Wilderpeople,7.9,Sam Neill
+Hunt for the Wilderpeople,7.9,Julian Dennison
+Hunt for the Wilderpeople,7.9,Rima Te Wiata
+Hunt for the Wilderpeople,7.9,Rachel House
+Captain Fantastic,7.9,Viggo Mortensen
+Captain Fantastic,7.9,George MacKay
+Captain Fantastic,7.9,Samantha Isler
+Captain Fantastic,7.9,Annalise Basso
+Sing Street,7.9,Ferdia Walsh-Peelo
+Sing Street,7.9,Aidan Gillen
+Sing Street,7.9,Maria Doyle Kennedy
+Sing Street,7.9,Jack Reynor
+Thor: Ragnarok,7.9,Chris Hemsworth
+Thor: Ragnarok,7.9,Tom Hiddleston
+Thor: Ragnarok,7.9,Cate Blanchett
+Thor: Ragnarok,7.9,Mark Ruffalo
+Nightcrawler,7.9,Jake Gyllenhaal
+Nightcrawler,7.9,Rene Russo
+Nightcrawler,7.9,Bill Paxton
+Nightcrawler,7.9,Riz Ahmed
+Jojo Rabbit,7.9,Roman Griffin Davis
+Jojo Rabbit,7.9,Thomasin McKenzie
+Jojo Rabbit,7.9,Scarlett Johansson
+Jojo Rabbit,7.9,Taika Waititi
+Arrival,7.9,Amy Adams
+Arrival,7.9,Jeremy Renner
+Arrival,7.9,Forest Whitaker
+Arrival,7.9,Michael Stuhlbarg
+Star Wars: Episode VII - The Force Awakens,7.9,Daisy Ridley
+Star Wars: Episode VII - The Force Awakens,7.9,John Boyega
+Star Wars: Episode VII - The Force Awakens,7.9,Oscar Isaac
+Star Wars: Episode VII - The Force Awakens,7.9,Domhnall Gleeson
+Before Midnight,7.9,Ethan Hawke
+Before Midnight,7.9,Julie Delpy
+Before Midnight,7.9,Seamus Davey-Fitzpatrick
+Before Midnight,7.9,Ariane Labed
+X-Men: Days of Future Past,7.9,Patrick Stewart
+X-Men: Days of Future Past,7.9,Ian McKellen
+X-Men: Days of Future Past,7.9,Hugh Jackman
+X-Men: Days of Future Past,7.9,James McAvoy
+Bir Zamanlar Anadolu'da,7.9,Muhammet Uzuner
+Bir Zamanlar Anadolu'da,7.9,Yilmaz Erdogan
+Bir Zamanlar Anadolu'da,7.9,Taner Birsel
+Bir Zamanlar Anadolu'da,7.9,Ahmet Mümtaz Taylan
+The Artist,7.9,Jean Dujardin
+The Artist,7.9,Bérénice Bejo
+The Artist,7.9,John Goodman
+The Artist,7.9,James Cromwell
+Edge of Tomorrow,7.9,Tom Cruise
+Edge of Tomorrow,7.9,Emily Blunt
+Edge of Tomorrow,7.9,Bill Paxton
+Edge of Tomorrow,7.9,Brendan Gleeson
+Amour,7.9,Jean-Louis Trintignant
+Amour,7.9,Emmanuelle Riva
+Amour,7.9,Isabelle Huppert
+Amour,7.9,Alexandre Tharaud
+The Irishman,7.9,Robert De Niro
+The Irishman,7.9,Al Pacino
+The Irishman,7.9,Joe Pesci
+The Irishman,7.9,Harvey Keitel
+Un prophète,7.9,Tahar Rahim
+Un prophète,7.9,Niels Arestrup
+Un prophète,7.9,Adel Bencherif
+Un prophète,7.9,Reda Kateb
+Moon,7.9,Sam Rockwell
+Moon,7.9,Kevin Spacey
+Moon,7.9,Dominique McElligott
+Moon,7.9,Rosie Shaw
+Låt den rätte komma in,7.9,Kåre Hedebrant
+Låt den rätte komma in,7.9,Lina Leandersson
+Låt den rätte komma in,7.9,Per Ragnar
+Låt den rätte komma in,7.9,Henrik Dahl
+District 9,7.9,Sharlto Copley
+District 9,7.9,David James
+District 9,7.9,Jason Cope
+District 9,7.9,Nathalie Boltt
+The Wrestler,7.9,Mickey Rourke
+The Wrestler,7.9,Marisa Tomei
+The Wrestler,7.9,Evan Rachel Wood
+The Wrestler,7.9,Mark Margolis
+Jab We Met,7.9,Shahid Kapoor
+Jab We Met,7.9,Kareena Kapoor
+Jab We Met,7.9,Tarun Arora
+Jab We Met,7.9,Dara Singh
+Boyhood,7.9,Ellar Coltrane
+Boyhood,7.9,Patricia Arquette
+Boyhood,7.9,Ethan Hawke
+Boyhood,7.9,Elijah Smith
+"4 luni, 3 saptamâni si 2 zile",7.9,Anamaria Marinca
+"4 luni, 3 saptamâni si 2 zile",7.9,Laura Vasiliu
+"4 luni, 3 saptamâni si 2 zile",7.9,Vlad Ivanov
+"4 luni, 3 saptamâni si 2 zile",7.9,Alexandru Potocean
+Star Trek,7.9,Chris Pine
+Star Trek,7.9,Zachary Quinto
+Star Trek,7.9,Simon Pegg
+Star Trek,7.9,Leonard Nimoy
+In Bruges,7.9,Colin Farrell
+In Bruges,7.9,Brendan Gleeson
+In Bruges,7.9,Ciarán Hinds
+In Bruges,7.9,Elizabeth Berrington
+Letters from Iwo Jima,7.9,Ken Watanabe
+Letters from Iwo Jima,7.9,Kazunari Ninomiya
+Letters from Iwo Jima,7.9,Tsuyoshi Ihara
+Letters from Iwo Jima,7.9,Ryô Kase
+The Fall,7.9,Lee Pace
+The Fall,7.9,Catinca Untaru
+The Fall,7.9,Justine Waddell
+The Fall,7.9,Kim Uylenbroek
+Life of Pi,7.9,Suraj Sharma
+Life of Pi,7.9,Irrfan Khan
+Life of Pi,7.9,Adil Hussain
+Life of Pi,7.9,Tabu
+Fantastic Mr. Fox,7.9,George Clooney
+Fantastic Mr. Fox,7.9,Meryl Streep
+Fantastic Mr. Fox,7.9,Bill Murray
+Fantastic Mr. Fox,7.9,Jason Schwartzman
+Les choristes,7.9,Gérard Jugnot
+Les choristes,7.9,François Berléand
+Les choristes,7.9,Jean-Baptiste Maunier
+Les choristes,7.9,Kad Merad
+Iron Man,7.9,Robert Downey Jr.
+Iron Man,7.9,Gwyneth Paltrow
+Iron Man,7.9,Terrence Howard
+Iron Man,7.9,Jeff Bridges
+Shaun of the Dead,7.9,Simon Pegg
+Shaun of the Dead,7.9,Nick Frost
+Shaun of the Dead,7.9,Kate Ashfield
+Shaun of the Dead,7.9,Lucy Davis
+Mystic River,7.9,Sean Penn
+Mystic River,7.9,Tim Robbins
+Mystic River,7.9,Kevin Bacon
+Mystic River,7.9,Emmy Rossum
+Harry Potter and the Prisoner of Azkaban,7.9,Daniel Radcliffe
+Harry Potter and the Prisoner of Azkaban,7.9,Emma Watson
+Harry Potter and the Prisoner of Azkaban,7.9,Rupert Grint
+Harry Potter and the Prisoner of Azkaban,7.9,Richard Griffiths
+Ying xiong,7.9,Jet Li
+Ying xiong,7.9,Tony Chiu-Wai Leung
+Ying xiong,7.9,Maggie Cheung
+Ying xiong,7.9,Ziyi Zhang
+Hable con ella,7.9,Rosario Flores
+Hable con ella,7.9,Javier Cámara
+Hable con ella,7.9,Darío Grandinetti
+Hable con ella,7.9,Leonor Watling
+No Man's Land,7.9,Branko Djuric
+No Man's Land,7.9,Rene Bitorajac
+No Man's Land,7.9,Filip Sovagovic
+No Man's Land,7.9,Georges Siatidis
+Cowboy Bebop: Tengoku no tobira,7.9,Tensai Okamura
+Cowboy Bebop: Tengoku no tobira,7.9,Hiroyuki Okiura
+Cowboy Bebop: Tengoku no tobira,7.9,Yoshiyuki Takei
+Cowboy Bebop: Tengoku no tobira,7.9,Beau Billingslea
+The Bourne Identity,7.9,Franka Potente
+The Bourne Identity,7.9,Matt Damon
+The Bourne Identity,7.9,Chris Cooper
+The Bourne Identity,7.9,Clive Owen
+Nueve reinas,7.9,Ricardo Darín
+Nueve reinas,7.9,Gastón Pauls
+Nueve reinas,7.9,Graciela Tenenbaum
+Nueve reinas,7.9,María Mercedes Villagra
+Children of Men,7.9,Julianne Moore
+Children of Men,7.9,Clive Owen
+Children of Men,7.9,Chiwetel Ejiofor
+Children of Men,7.9,Michael Caine
+Almost Famous,7.9,Billy Crudup
+Almost Famous,7.9,Patrick Fugit
+Almost Famous,7.9,Kate Hudson
+Almost Famous,7.9,Frances McDormand
+Mulholland Dr.,7.9,Naomi Watts
+Mulholland Dr.,7.9,Laura Harring
+Mulholland Dr.,7.9,Justin Theroux
+Mulholland Dr.,7.9,Jeanne Bates
+Toy Story 2,7.9,Ash Brannon
+Toy Story 2,7.9,Lee Unkrich
+Toy Story 2,7.9,Tom Hanks
+Toy Story 2,7.9,Tim Allen
+Boogie Nights,7.9,Mark Wahlberg
+Boogie Nights,7.9,Julianne Moore
+Boogie Nights,7.9,Burt Reynolds
+Boogie Nights,7.9,Luis Guzmán
+Once Were Warriors,7.9,Rena Owen
+Once Were Warriors,7.9,Temuera Morrison
+Once Were Warriors,7.9,Mamaengaroa Kerr-Bell
+Once Were Warriors,7.9,Julian Arahanga
+True Romance,7.9,Christian Slater
+True Romance,7.9,Patricia Arquette
+True Romance,7.9,Dennis Hopper
+True Romance,7.9,Val Kilmer
+Trois couleurs: Bleu,7.9,Juliette Binoche
+Trois couleurs: Bleu,7.9,Zbigniew Zamachowski
+Trois couleurs: Bleu,7.9,Julie Delpy
+Trois couleurs: Bleu,7.9,Benoît Régent
+Carlito's Way,7.9,Al Pacino
+Carlito's Way,7.9,Sean Penn
+Carlito's Way,7.9,Penelope Ann Miller
+Carlito's Way,7.9,John Leguizamo
+Edward Scissorhands,7.9,Johnny Depp
+Edward Scissorhands,7.9,Winona Ryder
+Edward Scissorhands,7.9,Dianne Wiest
+Edward Scissorhands,7.9,Anthony Michael Hall
+My Left Foot: The Story of Christy Brown,7.9,Daniel Day-Lewis
+My Left Foot: The Story of Christy Brown,7.9,Brenda Fricker
+My Left Foot: The Story of Christy Brown,7.9,Alison Whelan
+My Left Foot: The Story of Christy Brown,7.9,Kirsten Sheridan
+Crimes and Misdemeanors,7.9,Martin Landau
+Crimes and Misdemeanors,7.9,Woody Allen
+Crimes and Misdemeanors,7.9,Bill Bernstein
+Crimes and Misdemeanors,7.9,Claire Bloom
+The Untouchables,7.9,Kevin Costner
+The Untouchables,7.9,Sean Connery
+The Untouchables,7.9,Robert De Niro
+The Untouchables,7.9,Charles Martin Smith
+Hannah and Her Sisters,7.9,Mia Farrow
+Hannah and Her Sisters,7.9,Dianne Wiest
+Hannah and Her Sisters,7.9,Michael Caine
+Hannah and Her Sisters,7.9,Barbara Hershey
+Brazil,7.9,Jonathan Pryce
+Brazil,7.9,Kim Greist
+Brazil,7.9,Robert De Niro
+Brazil,7.9,Katherine Helmond
+This Is Spinal Tap,7.9,Rob Reiner
+This Is Spinal Tap,7.9,Michael McKean
+This Is Spinal Tap,7.9,Christopher Guest
+This Is Spinal Tap,7.9,Kimberly Stringer
+A Christmas Story,7.9,Peter Billingsley
+A Christmas Story,7.9,Melinda Dillon
+A Christmas Story,7.9,Darren McGavin
+A Christmas Story,7.9,Scott Schwartz
+The Blues Brothers,7.9,John Belushi
+The Blues Brothers,7.9,Dan Aykroyd
+The Blues Brothers,7.9,Cab Calloway
+The Blues Brothers,7.9,John Candy
+Manhattan,7.9,Woody Allen
+Manhattan,7.9,Diane Keaton
+Manhattan,7.9,Mariel Hemingway
+Manhattan,7.9,Michael Murphy
+All That Jazz,7.9,Roy Scheider
+All That Jazz,7.9,Jessica Lange
+All That Jazz,7.9,Ann Reinking
+All That Jazz,7.9,Leland Palmer
+Dawn of the Dead,7.9,David Emge
+Dawn of the Dead,7.9,Ken Foree
+Dawn of the Dead,7.9,Scott H. Reiniger
+Dawn of the Dead,7.9,Gaylen Ross
+All the President's Men,7.9,Dustin Hoffman
+All the President's Men,7.9,Robert Redford
+All the President's Men,7.9,Jack Warden
+All the President's Men,7.9,Martin Balsam
+La montaña sagrada,7.9,Alejandro Jodorowsky
+La montaña sagrada,7.9,Horacio Salinas
+La montaña sagrada,7.9,Zamira Saunders
+La montaña sagrada,7.9,Juan Ferrara
+Le charme discret de la bourgeoisie,7.9,Fernando Rey
+Le charme discret de la bourgeoisie,7.9,Delphine Seyrig
+Le charme discret de la bourgeoisie,7.9,Paul Frankeur
+Le charme discret de la bourgeoisie,7.9,Bulle Ogier
+Patton,7.9,George C. Scott
+Patton,7.9,Karl Malden
+Patton,7.9,Stephen Young
+Patton,7.9,Michael Strong
+Forushande,7.8,Shahab Hosseini
+Forushande,7.8,Taraneh Alidoosti
+Forushande,7.8,Babak Karimi
+Forushande,7.8,Mina Sadati
+Dunkirk,7.8,Fionn Whitehead
+Dunkirk,7.8,Barry Keoghan
+Dunkirk,7.8,Mark Rylance
+Dunkirk,7.8,Tom Hardy
+Hidden Figures,7.8,Taraji P. Henson
+Hidden Figures,7.8,Octavia Spencer
+Hidden Figures,7.8,Janelle Monáe
+Hidden Figures,7.8,Kevin Costner
+Paddington 2,7.8,Ben Whishaw
+Paddington 2,7.8,Hugh Grant
+Paddington 2,7.8,Hugh Bonneville
+Paddington 2,7.8,Sally Hawkins
+Kubo and the Two Strings,7.8,Charlize Theron
+Kubo and the Two Strings,7.8,Art Parkinson
+Kubo and the Two Strings,7.8,Matthew McConaughey
+Kubo and the Two Strings,7.8,Ralph Fiennes
+M.S. Dhoni: The Untold Story,7.8,Sushant Singh Rajput
+M.S. Dhoni: The Untold Story,7.8,Kiara Advani
+M.S. Dhoni: The Untold Story,7.8,Anupam Kher
+M.S. Dhoni: The Untold Story,7.8,Disha Patani
+Manchester by the Sea,7.8,Casey Affleck
+Manchester by the Sea,7.8,Michelle Williams
+Manchester by the Sea,7.8,Kyle Chandler
+Manchester by the Sea,7.8,Lucas Hedges
+Under sandet,7.8,Roland Møller
+Under sandet,7.8,Louis Hofmann
+Under sandet,7.8,Joel Basman
+Under sandet,7.8,Mikkel Boe Følsgaard
+Rogue One,7.8,Felicity Jones
+Rogue One,7.8,Diego Luna
+Rogue One,7.8,Alan Tudyk
+Rogue One,7.8,Donnie Yen
+Captain America: Civil War,7.8,Joe Russo
+Captain America: Civil War,7.8,Chris Evans
+Captain America: Civil War,7.8,Robert Downey Jr.
+Captain America: Civil War,7.8,Scarlett Johansson
+The Hateful Eight,7.8,Samuel L. Jackson
+The Hateful Eight,7.8,Kurt Russell
+The Hateful Eight,7.8,Jennifer Jason Leigh
+The Hateful Eight,7.8,Walton Goggins
+Little Women,7.8,Saoirse Ronan
+Little Women,7.8,Emma Watson
+Little Women,7.8,Florence Pugh
+Little Women,7.8,Eliza Scanlen
+Loving Vincent,7.8,Hugh Welchman
+Loving Vincent,7.8,Douglas Booth
+Loving Vincent,7.8,Jerome Flynn
+Loving Vincent,7.8,Robert Gulaczyk
+Le passé,7.8,Bérénice Bejo
+Le passé,7.8,Tahar Rahim
+Le passé,7.8,Ali Mosaffa
+Le passé,7.8,Pauline Burlet
+La grande bellezza,7.8,Toni Servillo
+La grande bellezza,7.8,Carlo Verdone
+La grande bellezza,7.8,Sabrina Ferilli
+La grande bellezza,7.8,Carlo Buccirosso
+The Lunchbox,7.8,Irrfan Khan
+The Lunchbox,7.8,Nimrat Kaur
+The Lunchbox,7.8,Nawazuddin Siddiqui
+The Lunchbox,7.8,Lillete Dubey
+Vicky Donor,7.8,Ayushmann Khurrana
+Vicky Donor,7.8,Yami Gautam
+Vicky Donor,7.8,Annu Kapoor
+Vicky Donor,7.8,Dolly Ahluwalia
+Big Hero 6,7.8,Chris Williams
+Big Hero 6,7.8,Ryan Potter
+Big Hero 6,7.8,Scott Adsit
+Big Hero 6,7.8,Jamie Chung
+About Time,7.8,Domhnall Gleeson
+About Time,7.8,Rachel McAdams
+About Time,7.8,Bill Nighy
+About Time,7.8,Lydia Wilson
+English Vinglish,7.8,Sridevi
+English Vinglish,7.8,Adil Hussain
+English Vinglish,7.8,Mehdi Nebbou
+English Vinglish,7.8,Priya Anand
+Kaze tachinu,7.8,Hideaki Anno
+Kaze tachinu,7.8,Hidetoshi Nishijima
+Kaze tachinu,7.8,Miori Takimoto
+Kaze tachinu,7.8,Masahiko Nishimura
+Toy Story 4,7.8,Tom Hanks
+Toy Story 4,7.8,Tim Allen
+Toy Story 4,7.8,Annie Potts
+Toy Story 4,7.8,Tony Hale
+La migliore offerta,7.8,Geoffrey Rush
+La migliore offerta,7.8,Jim Sturgess
+La migliore offerta,7.8,Sylvia Hoeks
+La migliore offerta,7.8,Donald Sutherland
+Moonrise Kingdom,7.8,Jared Gilman
+Moonrise Kingdom,7.8,Kara Hayward
+Moonrise Kingdom,7.8,Bruce Willis
+Moonrise Kingdom,7.8,Bill Murray
+How to Train Your Dragon 2,7.8,Jay Baruchel
+How to Train Your Dragon 2,7.8,Cate Blanchett
+How to Train Your Dragon 2,7.8,Gerard Butler
+How to Train Your Dragon 2,7.8,Craig Ferguson
+The Big Short,7.8,Christian Bale
+The Big Short,7.8,Steve Carell
+The Big Short,7.8,Ryan Gosling
+The Big Short,7.8,Brad Pitt
+Ang-ma-reul bo-at-da,7.8,Lee Byung-Hun
+Ang-ma-reul bo-at-da,7.8,Choi Min-sik
+Ang-ma-reul bo-at-da,7.8,Jeon Gook-Hwan
+Ang-ma-reul bo-at-da,7.8,Ho-jin Chun
+The Girl with the Dragon Tattoo,7.8,Daniel Craig
+The Girl with the Dragon Tattoo,7.8,Rooney Mara
+The Girl with the Dragon Tattoo,7.8,Christopher Plummer
+The Girl with the Dragon Tattoo,7.8,Stellan Skarsgård
+Captain Phillips,7.8,Tom Hanks
+Captain Phillips,7.8,Barkhad Abdi
+Captain Phillips,7.8,Barkhad Abdirahman
+Captain Phillips,7.8,Catherine Keener
+Ajeossi,7.8,Won Bin
+Ajeossi,7.8,Sae-ron Kim
+Ajeossi,7.8,Tae-hoon Kim
+Ajeossi,7.8,Hee-won Kim
+Straight Outta Compton,7.8,O'Shea Jackson Jr.
+Straight Outta Compton,7.8,Corey Hawkins
+Straight Outta Compton,7.8,Jason Mitchell
+Straight Outta Compton,7.8,Neil Brown Jr.
+Madeo,7.8,Hye-ja Kim
+Madeo,7.8,Won Bin
+Madeo,7.8,Jin Goo
+Madeo,7.8,Je-mun Yun
+The Hobbit: The Desolation of Smaug,7.8,Ian McKellen
+The Hobbit: The Desolation of Smaug,7.8,Martin Freeman
+The Hobbit: The Desolation of Smaug,7.8,Richard Armitage
+The Hobbit: The Desolation of Smaug,7.8,Ken Stott
+Das weiße Band - Eine deutsche Kindergeschichte,7.8,Christian Friedel
+Das weiße Band - Eine deutsche Kindergeschichte,7.8,Ernst Jacobi
+Das weiße Band - Eine deutsche Kindergeschichte,7.8,Leonie Benesch
+Das weiße Band - Eine deutsche Kindergeschichte,7.8,Ulrich Tukur
+Män som hatar kvinnor,7.8,Michael Nyqvist
+Män som hatar kvinnor,7.8,Noomi Rapace
+Män som hatar kvinnor,7.8,Ewa Fröling
+Män som hatar kvinnor,7.8,Lena Endre
+The Fighter,7.8,Mark Wahlberg
+The Fighter,7.8,Christian Bale
+The Fighter,7.8,Amy Adams
+The Fighter,7.8,Melissa Leo
+Taken,7.8,Liam Neeson
+Taken,7.8,Maggie Grace
+Taken,7.8,Famke Janssen
+Taken,7.8,Leland Orser
+The Boy in the Striped Pyjamas,7.8,Asa Butterfield
+The Boy in the Striped Pyjamas,7.8,David Thewlis
+The Boy in the Striped Pyjamas,7.8,Rupert Friend
+The Boy in the Striped Pyjamas,7.8,Zac Mattoon O'Brien
+Once,7.8,Glen Hansard
+Once,7.8,Markéta Irglová
+Once,7.8,Hugh Walsh
+Once,7.8,Gerard Hendrick
+The Hobbit: An Unexpected Journey,7.8,Martin Freeman
+The Hobbit: An Unexpected Journey,7.8,Ian McKellen
+The Hobbit: An Unexpected Journey,7.8,Richard Armitage
+The Hobbit: An Unexpected Journey,7.8,Andy Serkis
+Auf der anderen Seite,7.8,Baki Davrak
+Auf der anderen Seite,7.8,Nurgül Yesilçay
+Auf der anderen Seite,7.8,Tuncel Kurtiz
+Auf der anderen Seite,7.8,Nursel Köse
+Atonement,7.8,Keira Knightley
+Atonement,7.8,James McAvoy
+Atonement,7.8,Brenda Blethyn
+Atonement,7.8,Saoirse Ronan
+Drive,7.8,Ryan Gosling
+Drive,7.8,Carey Mulligan
+Drive,7.8,Bryan Cranston
+Drive,7.8,Albert Brooks
+American Gangster,7.8,Denzel Washington
+American Gangster,7.8,Russell Crowe
+American Gangster,7.8,Chiwetel Ejiofor
+American Gangster,7.8,Josh Brolin
+Avatar,7.8,Sam Worthington
+Avatar,7.8,Zoe Saldana
+Avatar,7.8,Sigourney Weaver
+Avatar,7.8,Michelle Rodriguez
+Mr. Nobody,7.8,Jared Leto
+Mr. Nobody,7.8,Sarah Polley
+Mr. Nobody,7.8,Diane Kruger
+Mr. Nobody,7.8,Linh Dan Pham
+Apocalypto,7.8,Gerardo Taracena
+Apocalypto,7.8,Raoul Max Trujillo
+Apocalypto,7.8,Dalia Hernández
+Apocalypto,7.8,Rudy Youngblood
+Little Miss Sunshine,7.8,Valerie Faris
+Little Miss Sunshine,7.8,Steve Carell
+Little Miss Sunshine,7.8,Toni Collette
+Little Miss Sunshine,7.8,Greg Kinnear
+Hot Fuzz,7.8,Simon Pegg
+Hot Fuzz,7.8,Nick Frost
+Hot Fuzz,7.8,Martin Freeman
+Hot Fuzz,7.8,Bill Nighy
+The Curious Case of Benjamin Button,7.8,Brad Pitt
+The Curious Case of Benjamin Button,7.8,Cate Blanchett
+The Curious Case of Benjamin Button,7.8,Tilda Swinton
+The Curious Case of Benjamin Button,7.8,Julia Ormond
+Veer-Zaara,7.8,Shah Rukh Khan
+Veer-Zaara,7.8,Preity Zinta
+Veer-Zaara,7.8,Rani Mukerji
+Veer-Zaara,7.8,Kirron Kher
+Adams æbler,7.8,Ulrich Thomsen
+Adams æbler,7.8,Mads Mikkelsen
+Adams æbler,7.8,Nicolas Bro
+Adams æbler,7.8,Paprika Steen
+Pride & Prejudice,7.8,Keira Knightley
+Pride & Prejudice,7.8,Matthew Macfadyen
+Pride & Prejudice,7.8,Brenda Blethyn
+Pride & Prejudice,7.8,Donald Sutherland
+The World's Fastest Indian,7.8,Anthony Hopkins
+The World's Fastest Indian,7.8,Diane Ladd
+The World's Fastest Indian,7.8,Iain Rea
+The World's Fastest Indian,7.8,Tessa Mitchell
+Tôkyô goddofâzâzu,7.8,Shôgo Furuya
+Tôkyô goddofâzâzu,7.8,Tôru Emori
+Tôkyô goddofâzâzu,7.8,Yoshiaki Umegaki
+Tôkyô goddofâzâzu,7.8,Aya Okamoto
+Serenity,7.8,Nathan Fillion
+Serenity,7.8,Gina Torres
+Serenity,7.8,Chiwetel Ejiofor
+Serenity,7.8,Alan Tudyk
+Walk the Line,7.8,Joaquin Phoenix
+Walk the Line,7.8,Reese Witherspoon
+Walk the Line,7.8,Ginnifer Goodwin
+Walk the Line,7.8,Robert Patrick
+Ondskan,7.8,Andreas Wilson
+Ondskan,7.8,Henrik Lundström
+Ondskan,7.8,Gustaf Skarsgård
+Ondskan,7.8,Linda Zilliacus
+The Notebook,7.8,Gena Rowlands
+The Notebook,7.8,James Garner
+The Notebook,7.8,Rachel McAdams
+The Notebook,7.8,Ryan Gosling
+Diarios de motocicleta,7.8,Gael García Bernal
+Diarios de motocicleta,7.8,Rodrigo De la Serna
+Diarios de motocicleta,7.8,Mía Maestro
+Diarios de motocicleta,7.8,Mercedes Morán
+Lilja 4-ever,7.8,Oksana Akinshina
+Lilja 4-ever,7.8,Artyom Bogucharskiy
+Lilja 4-ever,7.8,Pavel Ponomaryov
+Lilja 4-ever,7.8,Lyubov Agapova
+Les triplettes de Belleville,7.8,Michèle Caucheteux
+Les triplettes de Belleville,7.8,Jean-Claude Donda
+Les triplettes de Belleville,7.8,Michel Robin
+Les triplettes de Belleville,7.8,Monica Viegas
+The Count of Monte Cristo,7.8,Jim Caviezel
+The Count of Monte Cristo,7.8,Guy Pearce
+The Count of Monte Cristo,7.8,Christopher Adamson
+The Count of Monte Cristo,7.8,JB Blanc
+Waking Life,7.8,Ethan Hawke
+Waking Life,7.8,Trevor Jack Brooks
+Waking Life,7.8,Lorelei Linklater
+Waking Life,7.8,Wiley Wiggins
+Remember the Titans,7.8,Denzel Washington
+Remember the Titans,7.8,Will Patton
+Remember the Titans,7.8,Wood Harris
+Remember the Titans,7.8,Ryan Hurst
+Wo hu cang long,7.8,Yun-Fat Chow
+Wo hu cang long,7.8,Michelle Yeoh
+Wo hu cang long,7.8,Ziyi Zhang
+Wo hu cang long,7.8,Chen Chang
+Todo sobre mi madre,7.8,Cecilia Roth
+Todo sobre mi madre,7.8,Marisa Paredes
+Todo sobre mi madre,7.8,Candela Peña
+Todo sobre mi madre,7.8,Antonia San Juan
+Cast Away,7.8,Tom Hanks
+Cast Away,7.8,Helen Hunt
+Cast Away,7.8,Paul Sanchez
+Cast Away,7.8,Lari White
+The Boondock Saints,7.8,Willem Dafoe
+The Boondock Saints,7.8,Sean Patrick Flanery
+The Boondock Saints,7.8,Norman Reedus
+The Boondock Saints,7.8,David Della Rocco
+The Insider,7.8,Russell Crowe
+The Insider,7.8,Al Pacino
+The Insider,7.8,Christopher Plummer
+The Insider,7.8,Diane Venora
+October Sky,7.8,Jake Gyllenhaal
+October Sky,7.8,Chris Cooper
+October Sky,7.8,Laura Dern
+October Sky,7.8,Chris Owen
+Shrek,7.8,Vicky Jenson
+Shrek,7.8,Mike Myers
+Shrek,7.8,Eddie Murphy
+Shrek,7.8,Cameron Diaz
+Titanic,7.8,Leonardo DiCaprio
+Titanic,7.8,Kate Winslet
+Titanic,7.8,Billy Zane
+Titanic,7.8,Kathy Bates
+Hana-bi,7.8,Takeshi Kitano
+Hana-bi,7.8,Kayoko Kishimoto
+Hana-bi,7.8,Ren Osugi
+Hana-bi,7.8,Susumu Terajima
+Gattaca,7.8,Ethan Hawke
+Gattaca,7.8,Uma Thurman
+Gattaca,7.8,Jude Law
+Gattaca,7.8,Gore Vidal
+The Game,7.8,Michael Douglas
+The Game,7.8,Deborah Kara Unger
+The Game,7.8,Sean Penn
+The Game,7.8,James Rebhorn
+Breaking the Waves,7.8,Emily Watson
+Breaking the Waves,7.8,Stellan Skarsgård
+Breaking the Waves,7.8,Katrin Cartlidge
+Breaking the Waves,7.8,Jean-Marc Barr
+Ed Wood,7.8,Johnny Depp
+Ed Wood,7.8,Martin Landau
+Ed Wood,7.8,Sarah Jessica Parker
+Ed Wood,7.8,Patricia Arquette
+What's Eating Gilbert Grape,7.8,Johnny Depp
+What's Eating Gilbert Grape,7.8,Leonardo DiCaprio
+What's Eating Gilbert Grape,7.8,Juliette Lewis
+What's Eating Gilbert Grape,7.8,Mary Steenburgen
+Tombstone,7.8,Kevin Jarre
+Tombstone,7.8,Kurt Russell
+Tombstone,7.8,Val Kilmer
+Tombstone,7.8,Sam Elliott
+The Sandlot,7.8,Tom Guiry
+The Sandlot,7.8,Mike Vitar
+The Sandlot,7.8,Art LaFleur
+The Sandlot,7.8,Patrick Renna
+The Remains of the Day,7.8,Anthony Hopkins
+The Remains of the Day,7.8,Emma Thompson
+The Remains of the Day,7.8,John Haycraft
+The Remains of the Day,7.8,Christopher Reeve
+Naked,7.8,David Thewlis
+Naked,7.8,Lesley Sharp
+Naked,7.8,Katrin Cartlidge
+Naked,7.8,Greg Cruttwell
+The Fugitive,7.8,Harrison Ford
+The Fugitive,7.8,Tommy Lee Jones
+The Fugitive,7.8,Sela Ward
+The Fugitive,7.8,Julianne Moore
+A Bronx Tale,7.8,Robert De Niro
+A Bronx Tale,7.8,Chazz Palminteri
+A Bronx Tale,7.8,Lillo Brancato
+A Bronx Tale,7.8,Francis Capra
+Batman: Mask of the Phantasm,7.8,Boyd Kirkland
+Batman: Mask of the Phantasm,7.8,Frank Paur
+Batman: Mask of the Phantasm,7.8,Dan Riba
+Batman: Mask of the Phantasm,7.8,Eric Radomski
+Night on Earth,7.8,Winona Ryder
+Night on Earth,7.8,Gena Rowlands
+Night on Earth,7.8,Lisanne Falk
+Night on Earth,7.8,Alan Randolph Scott
+La double vie de Véronique,7.8,Irène Jacob
+La double vie de Véronique,7.8,Wladyslaw Kowalski
+La double vie de Véronique,7.8,Halina Gryglaszewska
+La double vie de Véronique,7.8,Kalina Jedrusik
+Boyz n the Hood,7.8,Cuba Gooding Jr.
+Boyz n the Hood,7.8,Laurence Fishburne
+Boyz n the Hood,7.8,Hudhail Al-Amir
+Boyz n the Hood,7.8,Lloyd Avery II
+Misery,7.8,James Caan
+Misery,7.8,Kathy Bates
+Misery,7.8,Richard Farnsworth
+Misery,7.8,Frances Sternhagen
+Awakenings,7.8,Robert De Niro
+Awakenings,7.8,Robin Williams
+Awakenings,7.8,Julie Kavner
+Awakenings,7.8,Ruth Nelson
+Glory,7.8,Matthew Broderick
+Glory,7.8,Denzel Washington
+Glory,7.8,Cary Elwes
+Glory,7.8,Morgan Freeman
+Back to the Future Part II,7.8,Michael J. Fox
+Back to the Future Part II,7.8,Christopher Lloyd
+Back to the Future Part II,7.8,Lea Thompson
+Back to the Future Part II,7.8,Thomas F. Wilson
+Mississippi Burning,7.8,Gene Hackman
+Mississippi Burning,7.8,Willem Dafoe
+Mississippi Burning,7.8,Frances McDormand
+Mississippi Burning,7.8,Brad Dourif
+Predator,7.8,Arnold Schwarzenegger
+Predator,7.8,Carl Weathers
+Predator,7.8,Kevin Peter Hall
+Predator,7.8,Elpidia Carrillo
+Evil Dead II,7.8,Bruce Campbell
+Evil Dead II,7.8,Sarah Berry
+Evil Dead II,7.8,Dan Hicks
+Evil Dead II,7.8,Kassie Wesley DePaiva
+Ferris Bueller's Day Off,7.8,Matthew Broderick
+Ferris Bueller's Day Off,7.8,Alan Ruck
+Ferris Bueller's Day Off,7.8,Mia Sara
+Ferris Bueller's Day Off,7.8,Jeffrey Jones
+Down by Law,7.8,Tom Waits
+Down by Law,7.8,John Lurie
+Down by Law,7.8,Roberto Benigni
+Down by Law,7.8,Nicoletta Braschi
+The Goonies,7.8,Sean Astin
+The Goonies,7.8,Josh Brolin
+The Goonies,7.8,Jeff Cohen
+The Goonies,7.8,Corey Feldman
+The Color Purple,7.8,Danny Glover
+The Color Purple,7.8,Whoopi Goldberg
+The Color Purple,7.8,Oprah Winfrey
+The Color Purple,7.8,Margaret Avery
+The Breakfast Club,7.8,Emilio Estevez
+The Breakfast Club,7.8,Judd Nelson
+The Breakfast Club,7.8,Molly Ringwald
+The Breakfast Club,7.8,Ally Sheedy
+The Killing Fields,7.8,Sam Waterston
+The Killing Fields,7.8,Haing S. Ngor
+The Killing Fields,7.8,John Malkovich
+The Killing Fields,7.8,Julian Sands
+Ghostbusters,7.8,Bill Murray
+Ghostbusters,7.8,Dan Aykroyd
+Ghostbusters,7.8,Sigourney Weaver
+Ghostbusters,7.8,Harold Ramis
+The Right Stuff,7.8,Sam Shepard
+The Right Stuff,7.8,Scott Glenn
+The Right Stuff,7.8,Ed Harris
+The Right Stuff,7.8,Dennis Quaid
+The King of Comedy,7.8,Robert De Niro
+The King of Comedy,7.8,Jerry Lewis
+The King of Comedy,7.8,Diahnne Abbott
+The King of Comedy,7.8,Sandra Bernhard
+E.T. the Extra-Terrestrial,7.8,Henry Thomas
+E.T. the Extra-Terrestrial,7.8,Drew Barrymore
+E.T. the Extra-Terrestrial,7.8,Peter Coyote
+E.T. the Extra-Terrestrial,7.8,Dee Wallace
+Kramer vs. Kramer,7.8,Dustin Hoffman
+Kramer vs. Kramer,7.8,Meryl Streep
+Kramer vs. Kramer,7.8,Jane Alexander
+Kramer vs. Kramer,7.8,Justin Henry
+The Outlaw Josey Wales,7.8,Clint Eastwood
+The Outlaw Josey Wales,7.8,Sondra Locke
+The Outlaw Josey Wales,7.8,Chief Dan George
+The Outlaw Josey Wales,7.8,Bill McKinney
+The Conversation,7.8,Gene Hackman
+The Conversation,7.8,John Cazale
+The Conversation,7.8,Allen Garfield
+The Conversation,7.8,Frederic Forrest
+La planète sauvage,7.8,Barry Bostwick
+La planète sauvage,7.8,Jennifer Drake
+La planète sauvage,7.8,Eric Baugin
+La planète sauvage,7.8,Jean Topart
+The Day of the Jackal,7.8,Edward Fox
+The Day of the Jackal,7.8,Terence Alexander
+The Day of the Jackal,7.8,Michel Auclair
+The Day of the Jackal,7.8,Alan Badel
+Cabaret,7.8,Liza Minnelli
+Cabaret,7.8,Michael York
+Cabaret,7.8,Helmut Griem
+Cabaret,7.8,Joel Grey
+Willy Wonka & the Chocolate Factory,7.8,Gene Wilder
+Willy Wonka & the Chocolate Factory,7.8,Jack Albertson
+Willy Wonka & the Chocolate Factory,7.8,Peter Ostrum
+Willy Wonka & the Chocolate Factory,7.8,Roy Kinnear
+God's Own Country,7.7,Josh O'Connor
+God's Own Country,7.7,Alec Secareanu
+God's Own Country,7.7,Gemma Jones
+God's Own Country,7.7,Ian Hart
+Deadpool 2,7.7,Ryan Reynolds
+Deadpool 2,7.7,Josh Brolin
+Deadpool 2,7.7,Morena Baccarin
+Deadpool 2,7.7,Julian Dennison
+Wind River,7.7,Kelsey Asbille
+Wind River,7.7,Jeremy Renner
+Wind River,7.7,Julia Jones
+Wind River,7.7,Teo Briones
+Get Out,7.7,Daniel Kaluuya
+Get Out,7.7,Allison Williams
+Get Out,7.7,Bradley Whitford
+Get Out,7.7,Catherine Keener
+Mission: Impossible - Fallout,7.7,Tom Cruise
+Mission: Impossible - Fallout,7.7,Henry Cavill
+Mission: Impossible - Fallout,7.7,Ving Rhames
+Mission: Impossible - Fallout,7.7,Simon Pegg
+En man som heter Ove,7.7,Rolf Lassgård
+En man som heter Ove,7.7,Bahar Pars
+En man som heter Ove,7.7,Filip Berg
+En man som heter Ove,7.7,Ida Engvoll
+What We Do in the Shadows,7.7,Taika Waititi
+What We Do in the Shadows,7.7,Jemaine Clement
+What We Do in the Shadows,7.7,Taika Waititi
+What We Do in the Shadows,7.7,Cori Gonzalez-Macuer
+Omoide no Mânî,7.7,Hiromasa Yonebayashi
+Omoide no Mânî,7.7,Sara Takatsuki
+Omoide no Mânî,7.7,Kasumi Arimura
+Omoide no Mânî,7.7,Nanako Matsushima
+The Theory of Everything,7.7,Eddie Redmayne
+The Theory of Everything,7.7,Felicity Jones
+The Theory of Everything,7.7,Tom Prior
+The Theory of Everything,7.7,Sophie Perry
+Kingsman: The Secret Service,7.7,Colin Firth
+Kingsman: The Secret Service,7.7,Taron Egerton
+Kingsman: The Secret Service,7.7,Samuel L. Jackson
+Kingsman: The Secret Service,7.7,Michael Caine
+The Fault in Our Stars,7.7,Shailene Woodley
+The Fault in Our Stars,7.7,Ansel Elgort
+The Fault in Our Stars,7.7,Nat Wolff
+The Fault in Our Stars,7.7,Laura Dern
+Me and Earl and the Dying Girl,7.7,Thomas Mann
+Me and Earl and the Dying Girl,7.7,RJ Cyler
+Me and Earl and the Dying Girl,7.7,Olivia Cooke
+Me and Earl and the Dying Girl,7.7,Nick Offerman
+Birdman or (The Unexpected Virtue of Ignorance),7.7,Michael Keaton
+Birdman or (The Unexpected Virtue of Ignorance),7.7,Zach Galifianakis
+Birdman or (The Unexpected Virtue of Ignorance),7.7,Edward Norton
+Birdman or (The Unexpected Virtue of Ignorance),7.7,Andrea Riseborough
+La vie d'Adèle,7.7,Léa Seydoux
+La vie d'Adèle,7.7,Adèle Exarchopoulos
+La vie d'Adèle,7.7,Salim Kechiouche
+La vie d'Adèle,7.7,Aurélien Recoing
+Kai po che!,7.7,Amit Sadh
+Kai po che!,7.7,Sushant Singh Rajput
+Kai po che!,7.7,Rajkummar Rao
+Kai po che!,7.7,Amrita Puri
+The Broken Circle Breakdown,7.7,Veerle Baetens
+The Broken Circle Breakdown,7.7,Johan Heldenbergh
+The Broken Circle Breakdown,7.7,Nell Cattrysse
+The Broken Circle Breakdown,7.7,Geert Van Rampelberg
+Captain America: The Winter Soldier,7.7,Joe Russo
+Captain America: The Winter Soldier,7.7,Chris Evans
+Captain America: The Winter Soldier,7.7,Samuel L. Jackson
+Captain America: The Winter Soldier,7.7,Scarlett Johansson
+Rockstar,7.7,Ranbir Kapoor
+Rockstar,7.7,Nargis Fakhri
+Rockstar,7.7,Shammi Kapoor
+Rockstar,7.7,Kumud Mishra
+Nebraska,7.7,Bruce Dern
+Nebraska,7.7,Will Forte
+Nebraska,7.7,June Squibb
+Nebraska,7.7,Bob Odenkirk
+Wreck-It Ralph,7.7,John C. Reilly
+Wreck-It Ralph,7.7,Jack McBrayer
+Wreck-It Ralph,7.7,Jane Lynch
+Wreck-It Ralph,7.7,Sarah Silverman
+Le Petit Prince,7.7,Jeff Bridges
+Le Petit Prince,7.7,Mackenzie Foy
+Le Petit Prince,7.7,Rachel McAdams
+Le Petit Prince,7.7,Marion Cotillard
+Detachment,7.7,Adrien Brody
+Detachment,7.7,Christina Hendricks
+Detachment,7.7,Marcia Gay Harden
+Detachment,7.7,Lucy Liu
+Midnight in Paris,7.7,Owen Wilson
+Midnight in Paris,7.7,Rachel McAdams
+Midnight in Paris,7.7,Kathy Bates
+Midnight in Paris,7.7,Kurt Fuller
+The Lego Movie,7.7,Phil Lord
+The Lego Movie,7.7,Chris Pratt
+The Lego Movie,7.7,Will Ferrell
+The Lego Movie,7.7,Elizabeth Banks
+Gravity,7.7,Sandra Bullock
+Gravity,7.7,George Clooney
+Gravity,7.7,Ed Harris
+Gravity,7.7,Orto Ignatiussen
+Star Trek Into Darkness,7.7,Chris Pine
+Star Trek Into Darkness,7.7,Zachary Quinto
+Star Trek Into Darkness,7.7,Zoe Saldana
+Star Trek Into Darkness,7.7,Benedict Cumberbatch
+Beasts of No Nation,7.7,Abraham Attah
+Beasts of No Nation,7.7,Emmanuel Affadzi
+Beasts of No Nation,7.7,Ricky Adelayitor
+Beasts of No Nation,7.7,Andrew Adote
+The Social Network,7.7,Jesse Eisenberg
+The Social Network,7.7,Andrew Garfield
+The Social Network,7.7,Justin Timberlake
+The Social Network,7.7,Rooney Mara
+X: First Class,7.7,James McAvoy
+X: First Class,7.7,Michael Fassbender
+X: First Class,7.7,Jennifer Lawrence
+X: First Class,7.7,Kevin Bacon
+The Hangover,7.7,Zach Galifianakis
+The Hangover,7.7,Bradley Cooper
+The Hangover,7.7,Justin Bartha
+The Hangover,7.7,Ed Helms
+Skyfall,7.7,Daniel Craig
+Skyfall,7.7,Javier Bardem
+Skyfall,7.7,Naomie Harris
+Skyfall,7.7,Judi Dench
+Silver Linings Playbook,7.7,Bradley Cooper
+Silver Linings Playbook,7.7,Jennifer Lawrence
+Silver Linings Playbook,7.7,Robert De Niro
+Silver Linings Playbook,7.7,Jacki Weaver
+Argo,7.7,Ben Affleck
+Argo,7.7,Bryan Cranston
+Argo,7.7,John Goodman
+Argo,7.7,Alan Arkin
+(500) Days of Summer,7.7,Zooey Deschanel
+(500) Days of Summer,7.7,Joseph Gordon-Levitt
+(500) Days of Summer,7.7,Geoffrey Arend
+(500) Days of Summer,7.7,Chloë Grace Moretz
+Harry Potter and the Deathly Hallows: Part 1,7.7,Daniel Radcliffe
+Harry Potter and the Deathly Hallows: Part 1,7.7,Emma Watson
+Harry Potter and the Deathly Hallows: Part 1,7.7,Rupert Grint
+Harry Potter and the Deathly Hallows: Part 1,7.7,Bill Nighy
+Gake no ue no Ponyo,7.7,Cate Blanchett
+Gake no ue no Ponyo,7.7,Matt Damon
+Gake no ue no Ponyo,7.7,Liam Neeson
+Gake no ue no Ponyo,7.7,Tomoko Yamaguchi
+Frost/Nixon,7.7,Frank Langella
+Frost/Nixon,7.7,Michael Sheen
+Frost/Nixon,7.7,Kevin Bacon
+Frost/Nixon,7.7,Sam Rockwell
+Papurika,7.7,Megumi Hayashibara
+Papurika,7.7,Tôru Emori
+Papurika,7.7,Katsunosuke Hori
+Papurika,7.7,Tôru Furuya
+Changeling,7.7,Angelina Jolie
+Changeling,7.7,Colm Feore
+Changeling,7.7,Amy Ryan
+Changeling,7.7,Gattlin Griffith
+Flipped,7.7,Madeline Carroll
+Flipped,7.7,Callan McAuliffe
+Flipped,7.7,Rebecca De Mornay
+Flipped,7.7,Anthony Edwards
+This Is England,7.7,Thomas Turgoose
+This Is England,7.7,Stephen Graham
+This Is England,7.7,Jo Hartley
+This Is England,7.7,Andrew Shim
+Ex Machina,7.7,Alicia Vikander
+Ex Machina,7.7,Domhnall Gleeson
+Ex Machina,7.7,Oscar Isaac
+Ex Machina,7.7,Sonoya Mizuno
+Efter brylluppet,7.7,Mads Mikkelsen
+Efter brylluppet,7.7,Sidse Babett Knudsen
+Efter brylluppet,7.7,Rolf Lassgård
+Efter brylluppet,7.7,Neeral Mulchandani
+The Last King of Scotland,7.7,James McAvoy
+The Last King of Scotland,7.7,Forest Whitaker
+The Last King of Scotland,7.7,Gillian Anderson
+The Last King of Scotland,7.7,Kerry Washington
+Zodiac,7.7,Jake Gyllenhaal
+Zodiac,7.7,Robert Downey Jr.
+Zodiac,7.7,Mark Ruffalo
+Zodiac,7.7,Anthony Edwards
+Lucky Number Slevin,7.7,Josh Hartnett
+Lucky Number Slevin,7.7,Ben Kingsley
+Lucky Number Slevin,7.7,Morgan Freeman
+Lucky Number Slevin,7.7,Lucy Liu
+Joyeux Noël,7.7,Diane Kruger
+Joyeux Noël,7.7,Benno Fürmann
+Joyeux Noël,7.7,Guillaume Canet
+Joyeux Noël,7.7,Natalie Dessay
+Control,7.7,Sam Riley
+Control,7.7,Samantha Morton
+Control,7.7,Craig Parkinson
+Control,7.7,Alexandra Maria Lara
+Tangled,7.7,Byron Howard
+Tangled,7.7,Mandy Moore
+Tangled,7.7,Zachary Levi
+Tangled,7.7,Donna Murphy
+Zwartboek,7.7,Carice van Houten
+Zwartboek,7.7,Sebastian Koch
+Zwartboek,7.7,Thom Hoffman
+Zwartboek,7.7,Halina Reijn
+Brokeback Mountain,7.7,Jake Gyllenhaal
+Brokeback Mountain,7.7,Heath Ledger
+Brokeback Mountain,7.7,Michelle Williams
+Brokeback Mountain,7.7,Randy Quaid
+3:10 to Yuma,7.7,Russell Crowe
+3:10 to Yuma,7.7,Christian Bale
+3:10 to Yuma,7.7,Ben Foster
+3:10 to Yuma,7.7,Logan Lerman
+Crash,7.7,Don Cheadle
+Crash,7.7,Sandra Bullock
+Crash,7.7,Thandie Newton
+Crash,7.7,Karina Arroyave
+Kung fu,7.7,Stephen Chow
+Kung fu,7.7,Wah Yuen
+Kung fu,7.7,Qiu Yuen
+Kung fu,7.7,Siu-Lung Leung
+The Bourne Supremacy,7.7,Matt Damon
+The Bourne Supremacy,7.7,Franka Potente
+The Bourne Supremacy,7.7,Joan Allen
+The Bourne Supremacy,7.7,Brian Cox
+The Machinist,7.7,Christian Bale
+The Machinist,7.7,Jennifer Jason Leigh
+The Machinist,7.7,Aitana Sánchez-Gijón
+The Machinist,7.7,John Sharian
+Ray,7.7,Jamie Foxx
+Ray,7.7,Regina King
+Ray,7.7,Kerry Washington
+Ray,7.7,Clifton Powell
+Lost in Translation,7.7,Bill Murray
+Lost in Translation,7.7,Scarlett Johansson
+Lost in Translation,7.7,Giovanni Ribisi
+Lost in Translation,7.7,Anna Faris
+Harry Potter and the Goblet of Fire,7.7,Daniel Radcliffe
+Harry Potter and the Goblet of Fire,7.7,Emma Watson
+Harry Potter and the Goblet of Fire,7.7,Rupert Grint
+Harry Potter and the Goblet of Fire,7.7,Eric Sykes
+Man on Fire,7.7,Denzel Washington
+Man on Fire,7.7,Christopher Walken
+Man on Fire,7.7,Dakota Fanning
+Man on Fire,7.7,Radha Mitchell
+Coraline,7.7,Dakota Fanning
+Coraline,7.7,Teri Hatcher
+Coraline,7.7,John Hodgman
+Coraline,7.7,Jennifer Saunders
+The Last Samurai,7.7,Tom Cruise
+The Last Samurai,7.7,Ken Watanabe
+The Last Samurai,7.7,Billy Connolly
+The Last Samurai,7.7,William Atherton
+The Magdalene Sisters,7.7,Eileen Walsh
+The Magdalene Sisters,7.7,Dorothy Duffy
+The Magdalene Sisters,7.7,Nora-Jane Noone
+The Magdalene Sisters,7.7,Anne-Marie Duff
+Good Bye Lenin!,7.7,Daniel Brühl
+Good Bye Lenin!,7.7,Katrin Saß
+Good Bye Lenin!,7.7,Chulpan Khamatova
+Good Bye Lenin!,7.7,Florian Lukas
+In America,7.7,Paddy Considine
+In America,7.7,Samantha Morton
+In America,7.7,Djimon Hounsou
+In America,7.7,Sarah Bolger
+I Am Sam,7.7,Sean Penn
+I Am Sam,7.7,Michelle Pfeiffer
+I Am Sam,7.7,Dakota Fanning
+I Am Sam,7.7,Dianne Wiest
+Adaptation.,7.7,Nicolas Cage
+Adaptation.,7.7,Meryl Streep
+Adaptation.,7.7,Chris Cooper
+Adaptation.,7.7,Tilda Swinton
+Black Hawk Down,7.7,Josh Hartnett
+Black Hawk Down,7.7,Ewan McGregor
+Black Hawk Down,7.7,Tom Sizemore
+Black Hawk Down,7.7,Eric Bana
+Road to Perdition,7.7,Tom Hanks
+Road to Perdition,7.7,Tyler Hoechlin
+Road to Perdition,7.7,Rob Maxey
+Road to Perdition,7.7,Liam Aiken
+Das Experiment,7.7,Moritz Bleibtreu
+Das Experiment,7.7,Christian Berkel
+Das Experiment,7.7,Oliver Stokowski
+Das Experiment,7.7,Wotan Wilke Möhring
+Billy Elliot,7.7,Jamie Bell
+Billy Elliot,7.7,Julie Walters
+Billy Elliot,7.7,Jean Heywood
+Billy Elliot,7.7,Jamie Draven
+Hedwig and the Angry Inch,7.7,John Cameron Mitchell
+Hedwig and the Angry Inch,7.7,Miriam Shor
+Hedwig and the Angry Inch,7.7,Stephen Trask
+Hedwig and the Angry Inch,7.7,Theodore Liscinski
+Ocean's Eleven,7.7,George Clooney
+Ocean's Eleven,7.7,Brad Pitt
+Ocean's Eleven,7.7,Julia Roberts
+Ocean's Eleven,7.7,Matt Damon
+Vampire Hunter D: Bloodlust,7.7,Andrew Philpot
+Vampire Hunter D: Bloodlust,7.7,John Rafter Lee
+Vampire Hunter D: Bloodlust,7.7,Pamela Adlon
+Vampire Hunter D: Bloodlust,7.7,Wendee Lee
+"O Brother, Where Art Thou?",7.7,Ethan Coen
+"O Brother, Where Art Thou?",7.7,George Clooney
+"O Brother, Where Art Thou?",7.7,John Turturro
+"O Brother, Where Art Thou?",7.7,Tim Blake Nelson
+"South Park: Bigger, Longer & Uncut",7.7,Trey Parker
+"South Park: Bigger, Longer & Uncut",7.7,Matt Stone
+"South Park: Bigger, Longer & Uncut",7.7,Mary Kay Bergman
+"South Park: Bigger, Longer & Uncut",7.7,Isaac Hayes
+Office Space,7.7,Ron Livingston
+Office Space,7.7,Jennifer Aniston
+Office Space,7.7,David Herman
+Office Space,7.7,Ajay Naidu
+Happiness,7.7,Jane Adams
+Happiness,7.7,Jon Lovitz
+Happiness,7.7,Philip Seymour Hoffman
+Happiness,7.7,Dylan Baker
+Training Day,7.7,Denzel Washington
+Training Day,7.7,Ethan Hawke
+Training Day,7.7,Scott Glenn
+Training Day,7.7,Tom Berenger
+Rushmore,7.7,Jason Schwartzman
+Rushmore,7.7,Bill Murray
+Rushmore,7.7,Olivia Williams
+Rushmore,7.7,Seymour Cassel
+Abre los ojos,7.7,Eduardo Noriega
+Abre los ojos,7.7,Penélope Cruz
+Abre los ojos,7.7,Chete Lera
+Abre los ojos,7.7,Fele Martínez
+Being John Malkovich,7.7,John Cusack
+Being John Malkovich,7.7,Cameron Diaz
+Being John Malkovich,7.7,Catherine Keener
+Being John Malkovich,7.7,John Malkovich
+As Good as It Gets,7.7,Jack Nicholson
+As Good as It Gets,7.7,Helen Hunt
+As Good as It Gets,7.7,Greg Kinnear
+As Good as It Gets,7.7,Cuba Gooding Jr.
+The Fifth Element,7.7,Bruce Willis
+The Fifth Element,7.7,Milla Jovovich
+The Fifth Element,7.7,Gary Oldman
+The Fifth Element,7.7,Ian Holm
+Le dîner de cons,7.7,Thierry Lhermitte
+Le dîner de cons,7.7,Jacques Villeret
+Le dîner de cons,7.7,Francis Huster
+Le dîner de cons,7.7,Daniel Prévost
+Donnie Brasco,7.7,Al Pacino
+Donnie Brasco,7.7,Johnny Depp
+Donnie Brasco,7.7,Michael Madsen
+Donnie Brasco,7.7,Bruno Kirby
+Shine,7.7,Geoffrey Rush
+Shine,7.7,Armin Mueller-Stahl
+Shine,7.7,Justin Braine
+Shine,7.7,Sonia Todd
+Primal Fear,7.7,Richard Gere
+Primal Fear,7.7,Laura Linney
+Primal Fear,7.7,Edward Norton
+Primal Fear,7.7,John Mahoney
+A Little Princess,7.7,Liesel Matthews
+A Little Princess,7.7,Eleanor Bron
+A Little Princess,7.7,Liam Cunningham
+A Little Princess,7.7,Rusty Schwimmer
+Il postino,7.7,Massimo Troisi
+Il postino,7.7,Massimo Troisi
+Il postino,7.7,Philippe Noiret
+Il postino,7.7,Maria Grazia Cucinotta
+Clerks,7.7,Brian O'Halloran
+Clerks,7.7,Jeff Anderson
+Clerks,7.7,Marilyn Ghigliotti
+Clerks,7.7,Lisa Spoonauer
+Short Cuts,7.7,Andie MacDowell
+Short Cuts,7.7,Julianne Moore
+Short Cuts,7.7,Tim Robbins
+Short Cuts,7.7,Bruce Davison
+Philadelphia,7.7,Tom Hanks
+Philadelphia,7.7,Denzel Washington
+Philadelphia,7.7,Roberta Maxwell
+Philadelphia,7.7,Buzz Kilman
+The Muppet Christmas Carol,7.7,Michael Caine
+The Muppet Christmas Carol,7.7,Kermit the Frog
+The Muppet Christmas Carol,7.7,Dave Goelz
+The Muppet Christmas Carol,7.7,Miss Piggy
+Malcolm X,7.7,Denzel Washington
+Malcolm X,7.7,Angela Bassett
+Malcolm X,7.7,Delroy Lindo
+Malcolm X,7.7,Spike Lee
+The Last of the Mohicans,7.7,Daniel Day-Lewis
+The Last of the Mohicans,7.7,Madeleine Stowe
+The Last of the Mohicans,7.7,Russell Means
+The Last of the Mohicans,7.7,Eric Schweig
+Glengarry Glen Ross,7.7,Al Pacino
+Glengarry Glen Ross,7.7,Jack Lemmon
+Glengarry Glen Ross,7.7,Alec Baldwin
+Glengarry Glen Ross,7.7,Alan Arkin
+A Few Good Men,7.7,Tom Cruise
+A Few Good Men,7.7,Jack Nicholson
+A Few Good Men,7.7,Demi Moore
+A Few Good Men,7.7,Kevin Bacon
+Fried Green Tomatoes,7.7,Kathy Bates
+Fried Green Tomatoes,7.7,Jessica Tandy
+Fried Green Tomatoes,7.7,Mary Stuart Masterson
+Fried Green Tomatoes,7.7,Mary-Louise Parker
+Barton Fink,7.7,Ethan Coen
+Barton Fink,7.7,John Turturro
+Barton Fink,7.7,John Goodman
+Barton Fink,7.7,Judy Davis
+Miller's Crossing,7.7,Ethan Coen
+Miller's Crossing,7.7,Gabriel Byrne
+Miller's Crossing,7.7,Albert Finney
+Miller's Crossing,7.7,John Turturro
+Who Framed Roger Rabbit,7.7,Bob Hoskins
+Who Framed Roger Rabbit,7.7,Christopher Lloyd
+Who Framed Roger Rabbit,7.7,Joanna Cassidy
+Who Framed Roger Rabbit,7.7,Charles Fleischer
+Withnail & I,7.7,Richard E. Grant
+Withnail & I,7.7,Paul McGann
+Withnail & I,7.7,Richard Griffiths
+Withnail & I,7.7,Ralph Brown
+The Last Emperor,7.7,John Lone
+The Last Emperor,7.7,Joan Chen
+The Last Emperor,7.7,Peter O'Toole
+The Last Emperor,7.7,Ruocheng Ying
+Empire of the Sun,7.7,Christian Bale
+Empire of the Sun,7.7,John Malkovich
+Empire of the Sun,7.7,Miranda Richardson
+Empire of the Sun,7.7,Nigel Havers
+Der Name der Rose,7.7,Sean Connery
+Der Name der Rose,7.7,Christian Slater
+Der Name der Rose,7.7,Helmut Qualtinger
+Der Name der Rose,7.7,Elya Baskin
+Blue Velvet,7.7,Isabella Rossellini
+Blue Velvet,7.7,Kyle MacLachlan
+Blue Velvet,7.7,Dennis Hopper
+Blue Velvet,7.7,Laura Dern
+The Purple Rose of Cairo,7.7,Mia Farrow
+The Purple Rose of Cairo,7.7,Jeff Daniels
+The Purple Rose of Cairo,7.7,Danny Aiello
+The Purple Rose of Cairo,7.7,Irving Metzman
+After Hours,7.7,Griffin Dunne
+After Hours,7.7,Rosanna Arquette
+After Hours,7.7,Verna Bloom
+After Hours,7.7,Tommy Chong
+Zelig,7.7,Woody Allen
+Zelig,7.7,Mia Farrow
+Zelig,7.7,Patrick Horgan
+Zelig,7.7,John Buckwalter
+The Verdict,7.7,Paul Newman
+The Verdict,7.7,Charlotte Rampling
+The Verdict,7.7,Jack Warden
+The Verdict,7.7,James Mason
+Star Trek II: The Wrath of Khan,7.7,William Shatner
+Star Trek II: The Wrath of Khan,7.7,Leonard Nimoy
+Star Trek II: The Wrath of Khan,7.7,DeForest Kelley
+Star Trek II: The Wrath of Khan,7.7,James Doohan
+First Blood,7.7,Sylvester Stallone
+First Blood,7.7,Brian Dennehy
+First Blood,7.7,Richard Crenna
+First Blood,7.7,Bill McKinney
+Ordinary People,7.7,Donald Sutherland
+Ordinary People,7.7,Mary Tyler Moore
+Ordinary People,7.7,Judd Hirsch
+Ordinary People,7.7,Timothy Hutton
+Airplane!,7.7,David Zucker
+Airplane!,7.7,Jerry Zucker
+Airplane!,7.7,Robert Hays
+Airplane!,7.7,Julie Hagerty
+Halloween,7.7,Donald Pleasence
+Halloween,7.7,Jamie Lee Curtis
+Halloween,7.7,Tony Moran
+Halloween,7.7,Nancy Kyes
+Le locataire,7.7,Roman Polanski
+Le locataire,7.7,Isabelle Adjani
+Le locataire,7.7,Melvyn Douglas
+Le locataire,7.7,Jo Van Fleet
+Blazing Saddles,7.7,Cleavon Little
+Blazing Saddles,7.7,Gene Wilder
+Blazing Saddles,7.7,Slim Pickens
+Blazing Saddles,7.7,Harvey Korman
+Serpico,7.7,Al Pacino
+Serpico,7.7,John Randolph
+Serpico,7.7,Jack Kehoe
+Serpico,7.7,Biff McGuire
+Enter the Dragon,7.7,Bruce Lee
+Enter the Dragon,7.7,John Saxon
+Enter the Dragon,7.7,Jim Kelly
+Enter the Dragon,7.7,Ahna Capri
+Deliverance,7.7,Jon Voight
+Deliverance,7.7,Burt Reynolds
+Deliverance,7.7,Ned Beatty
+Deliverance,7.7,Ronny Cox
+The French Connection,7.7,Gene Hackman
+The French Connection,7.7,Roy Scheider
+The French Connection,7.7,Fernando Rey
+The French Connection,7.7,Tony Lo Bianco
+Dirty Harry,7.7,Clint Eastwood
+Dirty Harry,7.7,Andrew Robinson
+Dirty Harry,7.7,Harry Guardino
+Dirty Harry,7.7,Reni Santoni
+Searching,7.6,John Cho
+Searching,7.6,Debra Messing
+Searching,7.6,Joseph Lee
+Searching,7.6,Michelle La
+Once Upon a Time... in Hollywood,7.6,Leonardo DiCaprio
+Once Upon a Time... in Hollywood,7.6,Brad Pitt
+Once Upon a Time... in Hollywood,7.6,Margot Robbie
+Once Upon a Time... in Hollywood,7.6,Emile Hirsch
+Nelyubov,7.6,Maryana Spivak
+Nelyubov,7.6,Aleksey Rozin
+Nelyubov,7.6,Matvey Novikov
+Nelyubov,7.6,Marina Vasileva
+The Florida Project,7.6,Brooklynn Prince
+The Florida Project,7.6,Bria Vinaite
+The Florida Project,7.6,Willem Dafoe
+The Florida Project,7.6,Christopher Rivera
+Gifted,7.6,Chris Evans
+Gifted,7.6,Mckenna Grace
+Gifted,7.6,Lindsay Duncan
+Gifted,7.6,Octavia Spencer
+The Peanut Butter Falcon,7.6,Michael Schwartz
+The Peanut Butter Falcon,7.6,Zack Gottsagen
+The Peanut Butter Falcon,7.6,Ann Owens
+The Peanut Butter Falcon,7.6,Dakota Johnson
+Mustang,7.6,Günes Sensoy
+Mustang,7.6,Doga Zeynep Doguslu
+Mustang,7.6,Tugba Sunguroglu
+Mustang,7.6,Elit Iscan
+Guardians of the Galaxy Vol. 2,7.6,Chris Pratt
+Guardians of the Galaxy Vol. 2,7.6,Zoe Saldana
+Guardians of the Galaxy Vol. 2,7.6,Dave Bautista
+Guardians of the Galaxy Vol. 2,7.6,Vin Diesel
+Baby Driver,7.6,Ansel Elgort
+Baby Driver,7.6,Jon Bernthal
+Baby Driver,7.6,Jon Hamm
+Baby Driver,7.6,Eiza González
+Only the Brave,7.6,Josh Brolin
+Only the Brave,7.6,Miles Teller
+Only the Brave,7.6,Jeff Bridges
+Only the Brave,7.6,Jennifer Connelly
+Bridge of Spies,7.6,Tom Hanks
+Bridge of Spies,7.6,Mark Rylance
+Bridge of Spies,7.6,Alan Alda
+Bridge of Spies,7.6,Amy Ryan
+Incredibles 2,7.6,Craig T. Nelson
+Incredibles 2,7.6,Holly Hunter
+Incredibles 2,7.6,Sarah Vowell
+Incredibles 2,7.6,Huck Milner
+Moana,7.6,John Musker
+Moana,7.6,Don Hall
+Moana,7.6,Chris Williams
+Moana,7.6,Auli'i Cravalho
+Sicario,7.6,Emily Blunt
+Sicario,7.6,Josh Brolin
+Sicario,7.6,Benicio Del Toro
+Sicario,7.6,Jon Bernthal
+Creed,7.6,Michael B. Jordan
+Creed,7.6,Sylvester Stallone
+Creed,7.6,Tessa Thompson
+Creed,7.6,Phylicia Rashad
+Leviafan,7.6,Aleksey Serebryakov
+Leviafan,7.6,Elena Lyadova
+Leviafan,7.6,Roman Madyanov
+Leviafan,7.6,Vladimir Vdovichenkov
+Hell or High Water,7.6,Chris Pine
+Hell or High Water,7.6,Ben Foster
+Hell or High Water,7.6,Jeff Bridges
+Hell or High Water,7.6,Gil Birmingham
+Philomena,7.6,Judi Dench
+Philomena,7.6,Steve Coogan
+Philomena,7.6,Sophie Kennedy Clark
+Philomena,7.6,Mare Winningham
+Dawn of the Planet of the Apes,7.6,Gary Oldman
+Dawn of the Planet of the Apes,7.6,Keri Russell
+Dawn of the Planet of the Apes,7.6,Andy Serkis
+Dawn of the Planet of the Apes,7.6,Kodi Smit-McPhee
+Serbuan maut,7.6,Iko Uwais
+Serbuan maut,7.6,Ananda George
+Serbuan maut,7.6,Ray Sahetapy
+Serbuan maut,7.6,Donny Alamsyah
+End of Watch,7.6,Jake Gyllenhaal
+End of Watch,7.6,Michael Peña
+End of Watch,7.6,Anna Kendrick
+End of Watch,7.6,America Ferrera
+Kari-gurashi no Arietti,7.6,Amy Poehler
+Kari-gurashi no Arietti,7.6,Mirai Shida
+Kari-gurashi no Arietti,7.6,Ryûnosuke Kamiki
+Kari-gurashi no Arietti,7.6,Tatsuya Fujiwara
+A Star Is Born,7.6,Lady Gaga
+A Star Is Born,7.6,Bradley Cooper
+A Star Is Born,7.6,Sam Elliott
+A Star Is Born,7.6,Greg Grunberg
+True Grit,7.6,Joel Coen
+True Grit,7.6,Jeff Bridges
+True Grit,7.6,Matt Damon
+True Grit,7.6,Hailee Steinfeld
+Hævnen,7.6,Mikael Persbrandt
+Hævnen,7.6,Trine Dyrholm
+Hævnen,7.6,Markus Rygaard
+Hævnen,7.6,Wil Johnson
+Despicable Me,7.6,Chris Renaud
+Despicable Me,7.6,Steve Carell
+Despicable Me,7.6,Jason Segel
+Despicable Me,7.6,Russell Brand
+50/50,7.6,Joseph Gordon-Levitt
+50/50,7.6,Seth Rogen
+50/50,7.6,Anna Kendrick
+50/50,7.6,Bryce Dallas Howard
+Kick-Ass,7.6,Aaron Taylor-Johnson
+Kick-Ass,7.6,Nicolas Cage
+Kick-Ass,7.6,Chloë Grace Moretz
+Kick-Ass,7.6,Garrett M. Brown
+Moneyball,7.6,Brad Pitt
+Moneyball,7.6,Robin Wright
+Moneyball,7.6,Jonah Hill
+Moneyball,7.6,Philip Seymour Hoffman
+La piel que habito,7.6,Antonio Banderas
+La piel que habito,7.6,Elena Anaya
+La piel que habito,7.6,Jan Cornet
+La piel que habito,7.6,Marisa Paredes
+Zombieland,7.6,Jesse Eisenberg
+Zombieland,7.6,Emma Stone
+Zombieland,7.6,Woody Harrelson
+Zombieland,7.6,Abigail Breslin
+Sherlock Holmes,7.6,Robert Downey Jr.
+Sherlock Holmes,7.6,Jude Law
+Sherlock Holmes,7.6,Rachel McAdams
+Sherlock Holmes,7.6,Mark Strong
+The Blind Side,7.6,Quinton Aaron
+The Blind Side,7.6,Sandra Bullock
+The Blind Side,7.6,Tim McGraw
+The Blind Side,7.6,Jae Head
+The Visitor,7.6,Richard Jenkins
+The Visitor,7.6,Haaz Sleiman
+The Visitor,7.6,Danai Gurira
+The Visitor,7.6,Hiam Abbass
+Seven Pounds,7.6,Will Smith
+Seven Pounds,7.6,Rosario Dawson
+Seven Pounds,7.6,Woody Harrelson
+Seven Pounds,7.6,Michael Ealy
+Eastern Promises,7.6,Naomi Watts
+Eastern Promises,7.6,Viggo Mortensen
+Eastern Promises,7.6,Armin Mueller-Stahl
+Eastern Promises,7.6,Josef Altin
+Stardust,7.6,Charlie Cox
+Stardust,7.6,Claire Danes
+Stardust,7.6,Sienna Miller
+Stardust,7.6,Ian McKellen
+The Secret of Kells,7.6,Nora Twomey
+The Secret of Kells,7.6,Evan McGuire
+The Secret of Kells,7.6,Brendan Gleeson
+The Secret of Kells,7.6,Mick Lally
+Inside Man,7.6,Denzel Washington
+Inside Man,7.6,Clive Owen
+Inside Man,7.6,Jodie Foster
+Inside Man,7.6,Christopher Plummer
+Gone Baby Gone,7.6,Morgan Freeman
+Gone Baby Gone,7.6,Ed Harris
+Gone Baby Gone,7.6,Casey Affleck
+Gone Baby Gone,7.6,Michelle Monaghan
+La Vie En Rose,7.6,Marion Cotillard
+La Vie En Rose,7.6,Sylvie Testud
+La Vie En Rose,7.6,Pascal Greggory
+La Vie En Rose,7.6,Emmanuelle Seigner
+Huo Yuan Jia,7.6,Jet Li
+Huo Yuan Jia,7.6,Li Sun
+Huo Yuan Jia,7.6,Yong Dong
+Huo Yuan Jia,7.6,Yun Qu
+The Illusionist,7.6,Edward Norton
+The Illusionist,7.6,Jessica Biel
+The Illusionist,7.6,Paul Giamatti
+The Illusionist,7.6,Rufus Sewell
+Dead Man's Shoes,7.6,Paddy Considine
+Dead Man's Shoes,7.6,Gary Stretch
+Dead Man's Shoes,7.6,Toby Kebbell
+Dead Man's Shoes,7.6,Stuart Wolfenden
+Harry Potter and the Half-Blood Prince,7.6,Daniel Radcliffe
+Harry Potter and the Half-Blood Prince,7.6,Emma Watson
+Harry Potter and the Half-Blood Prince,7.6,Rupert Grint
+Harry Potter and the Half-Blood Prince,7.6,Michael Gambon
+300,7.6,Gerard Butler
+300,7.6,Lena Headey
+300,7.6,David Wenham
+300,7.6,Dominic West
+Match Point,7.6,Scarlett Johansson
+Match Point,7.6,Jonathan Rhys Meyers
+Match Point,7.6,Emily Mortimer
+Match Point,7.6,Matthew Goode
+Watchmen,7.6,Jackie Earle Haley
+Watchmen,7.6,Patrick Wilson
+Watchmen,7.6,Carla Gugino
+Watchmen,7.6,Malin Akerman
+Lord of War,7.6,Nicolas Cage
+Lord of War,7.6,Ethan Hawke
+Lord of War,7.6,Jared Leto
+Lord of War,7.6,Bridget Moynahan
+Saw,7.6,Cary Elwes
+Saw,7.6,Leigh Whannell
+Saw,7.6,Danny Glover
+Saw,7.6,Ken Leung
+"Synecdoche, New York",7.6,Philip Seymour Hoffman
+"Synecdoche, New York",7.6,Samantha Morton
+"Synecdoche, New York",7.6,Michelle Williams
+"Synecdoche, New York",7.6,Catherine Keener
+Mysterious Skin,7.6,Brady Corbet
+Mysterious Skin,7.6,Joseph Gordon-Levitt
+Mysterious Skin,7.6,Elisabeth Shue
+Mysterious Skin,7.6,Chase Ellison
+Jeux d'enfants,7.6,Guillaume Canet
+Jeux d'enfants,7.6,Marion Cotillard
+Jeux d'enfants,7.6,Thibault Verhaeghe
+Jeux d'enfants,7.6,Joséphine Lebas-Joly
+Un long dimanche de fiançailles,7.6,Audrey Tautou
+Un long dimanche de fiançailles,7.6,Gaspard Ulliel
+Un long dimanche de fiançailles,7.6,Jodie Foster
+Un long dimanche de fiançailles,7.6,Dominique Pinon
+The Station Agent,7.6,Peter Dinklage
+The Station Agent,7.6,Patricia Clarkson
+The Station Agent,7.6,Bobby Cannavale
+The Station Agent,7.6,Paul Benjamin
+21 Grams,7.6,Sean Penn
+21 Grams,7.6,Benicio Del Toro
+21 Grams,7.6,Naomi Watts
+21 Grams,7.6,Danny Huston
+Boksuneun naui geot,7.6,Kang-ho Song
+Boksuneun naui geot,7.6,Shin Ha-kyun
+Boksuneun naui geot,7.6,Bae Doona
+Boksuneun naui geot,7.6,Ji-Eun Lim
+Finding Neverland,7.6,Johnny Depp
+Finding Neverland,7.6,Kate Winslet
+Finding Neverland,7.6,Julie Christie
+Finding Neverland,7.6,Radha Mitchell
+25th Hour,7.6,Edward Norton
+25th Hour,7.6,Barry Pepper
+25th Hour,7.6,Philip Seymour Hoffman
+25th Hour,7.6,Rosario Dawson
+The Butterfly Effect,7.6,J. Mackye Gruber
+The Butterfly Effect,7.6,Ashton Kutcher
+The Butterfly Effect,7.6,Amy Smart
+The Butterfly Effect,7.6,Melora Walters
+28 Days Later...,7.6,Cillian Murphy
+28 Days Later...,7.6,Naomie Harris
+28 Days Later...,7.6,Christopher Eccleston
+28 Days Later...,7.6,Alex Palmer
+The Royal Tenenbaums,7.6,Gene Hackman
+The Royal Tenenbaums,7.6,Gwyneth Paltrow
+The Royal Tenenbaums,7.6,Anjelica Huston
+The Royal Tenenbaums,7.6,Ben Stiller
+Y tu mamá también,7.6,Maribel Verdú
+Y tu mamá también,7.6,Gael García Bernal
+Y tu mamá también,7.6,Daniel Giménez Cacho
+Y tu mamá también,7.6,Ana López Mercado
+Harry Potter and the Sorcerer's Stone,7.6,Daniel Radcliffe
+Harry Potter and the Sorcerer's Stone,7.6,Rupert Grint
+Harry Potter and the Sorcerer's Stone,7.6,Richard Harris
+Harry Potter and the Sorcerer's Stone,7.6,Maggie Smith
+The Others,7.6,Nicole Kidman
+The Others,7.6,Christopher Eccleston
+The Others,7.6,Fionnula Flanagan
+The Others,7.6,Alakina Mann
+Blow,7.6,Johnny Depp
+Blow,7.6,Penélope Cruz
+Blow,7.6,Franka Potente
+Blow,7.6,Rachel Griffiths
+Enemy at the Gates,7.6,Jude Law
+Enemy at the Gates,7.6,Ed Harris
+Enemy at the Gates,7.6,Joseph Fiennes
+Enemy at the Gates,7.6,Rachel Weisz
+Minority Report,7.6,Tom Cruise
+Minority Report,7.6,Colin Farrell
+Minority Report,7.6,Samantha Morton
+Minority Report,7.6,Max von Sydow
+The Hurricane,7.6,Denzel Washington
+The Hurricane,7.6,Vicellous Shannon
+The Hurricane,7.6,Deborah Kara Unger
+The Hurricane,7.6,Liev Schreiber
+American Psycho,7.6,Christian Bale
+American Psycho,7.6,Justin Theroux
+American Psycho,7.6,Josh Lucas
+American Psycho,7.6,Bill Sage
+Lola rennt,7.6,Franka Potente
+Lola rennt,7.6,Moritz Bleibtreu
+Lola rennt,7.6,Herbert Knaup
+Lola rennt,7.6,Nina Petri
+The Thin Red Line,7.6,Jim Caviezel
+The Thin Red Line,7.6,Sean Penn
+The Thin Red Line,7.6,Nick Nolte
+The Thin Red Line,7.6,Kirk Acevedo
+Mulan,7.6,Barry Cook
+Mulan,7.6,Ming-Na Wen
+Mulan,7.6,Eddie Murphy
+Mulan,7.6,BD Wong
+Fear and Loathing in Las Vegas,7.6,Johnny Depp
+Fear and Loathing in Las Vegas,7.6,Benicio Del Toro
+Fear and Loathing in Las Vegas,7.6,Tobey Maguire
+Fear and Loathing in Las Vegas,7.6,Michael Lee Gogin
+Dark City,7.6,Rufus Sewell
+Dark City,7.6,Kiefer Sutherland
+Dark City,7.6,Jennifer Connelly
+Dark City,7.6,William Hurt
+Sleepers,7.6,Robert De Niro
+Sleepers,7.6,Kevin Bacon
+Sleepers,7.6,Brad Pitt
+Sleepers,7.6,Jason Patric
+Lost Highway,7.6,Bill Pullman
+Lost Highway,7.6,Patricia Arquette
+Lost Highway,7.6,John Roselius
+Lost Highway,7.6,Louis Eppolito
+Sense and Sensibility,7.6,Emma Thompson
+Sense and Sensibility,7.6,Kate Winslet
+Sense and Sensibility,7.6,James Fleet
+Sense and Sensibility,7.6,Tom Wilkinson
+Die Hard: With a Vengeance,7.6,Bruce Willis
+Die Hard: With a Vengeance,7.6,Jeremy Irons
+Die Hard: With a Vengeance,7.6,Samuel L. Jackson
+Die Hard: With a Vengeance,7.6,Graham Greene
+Dead Man,7.6,Johnny Depp
+Dead Man,7.6,Gary Farmer
+Dead Man,7.6,Crispin Glover
+Dead Man,7.6,Lance Henriksen
+The Bridges of Madison County,7.6,Clint Eastwood
+The Bridges of Madison County,7.6,Meryl Streep
+The Bridges of Madison County,7.6,Annie Corley
+The Bridges of Madison County,7.6,Victor Slezak
+Trois couleurs: Blanc,7.6,Zbigniew Zamachowski
+Trois couleurs: Blanc,7.6,Julie Delpy
+Trois couleurs: Blanc,7.6,Janusz Gajos
+Trois couleurs: Blanc,7.6,Jerzy Stuhr
+Falling Down,7.6,Michael Douglas
+Falling Down,7.6,Robert Duvall
+Falling Down,7.6,Barbara Hershey
+Falling Down,7.6,Rachel Ticotin
+Dazed and Confused,7.6,Jason London
+Dazed and Confused,7.6,Wiley Wiggins
+Dazed and Confused,7.6,Matthew McConaughey
+Dazed and Confused,7.6,Rory Cochrane
+My Cousin Vinny,7.6,Joe Pesci
+My Cousin Vinny,7.6,Marisa Tomei
+My Cousin Vinny,7.6,Ralph Macchio
+My Cousin Vinny,7.6,Mitchell Whitfield
+Omohide poro poro,7.6,Miki Imai
+Omohide poro poro,7.6,Toshirô Yanagiba
+Omohide poro poro,7.6,Yoko Honna
+Omohide poro poro,7.6,Mayumi Izuka
+Delicatessen,7.6,Jean-Pierre Jeunet
+Delicatessen,7.6,Marie-Laure Dougnac
+Delicatessen,7.6,Dominique Pinon
+Delicatessen,7.6,Pascal Benezech
+Home Alone,7.6,Macaulay Culkin
+Home Alone,7.6,Joe Pesci
+Home Alone,7.6,Daniel Stern
+Home Alone,7.6,John Heard
+The Godfather: Part III,7.6,Al Pacino
+The Godfather: Part III,7.6,Diane Keaton
+The Godfather: Part III,7.6,Andy Garcia
+The Godfather: Part III,7.6,Talia Shire
+When Harry Met Sally...,7.6,Billy Crystal
+When Harry Met Sally...,7.6,Meg Ryan
+When Harry Met Sally...,7.6,Carrie Fisher
+When Harry Met Sally...,7.6,Bruno Kirby
+The Little Mermaid,7.6,John Musker
+The Little Mermaid,7.6,Jodi Benson
+The Little Mermaid,7.6,Samuel E. Wright
+The Little Mermaid,7.6,Rene Auberjonois
+The Naked Gun: From the Files of Police Squad!,7.6,Leslie Nielsen
+The Naked Gun: From the Files of Police Squad!,7.6,Priscilla Presley
+The Naked Gun: From the Files of Police Squad!,7.6,O.J. Simpson
+The Naked Gun: From the Files of Police Squad!,7.6,Ricardo Montalban
+"Planes, Trains & Automobiles",7.6,Steve Martin
+"Planes, Trains & Automobiles",7.6,John Candy
+"Planes, Trains & Automobiles",7.6,Laila Robins
+"Planes, Trains & Automobiles",7.6,Michael McKean
+Lethal Weapon,7.6,Mel Gibson
+Lethal Weapon,7.6,Danny Glover
+Lethal Weapon,7.6,Gary Busey
+Lethal Weapon,7.6,Mitchell Ryan
+Blood Simple,7.6,Ethan Coen
+Blood Simple,7.6,John Getz
+Blood Simple,7.6,Frances McDormand
+Blood Simple,7.6,Dan Hedaya
+On Golden Pond,7.6,Katharine Hepburn
+On Golden Pond,7.6,Henry Fonda
+On Golden Pond,7.6,Jane Fonda
+On Golden Pond,7.6,Doug McKeon
+Mad Max 2,7.6,Mel Gibson
+Mad Max 2,7.6,Bruce Spence
+Mad Max 2,7.6,Michael Preston
+Mad Max 2,7.6,Max Phipps
+The Warriors,7.6,Michael Beck
+The Warriors,7.6,James Remar
+The Warriors,7.6,Dorsey Wright
+The Warriors,7.6,Brian Tyler
+The Muppet Movie,7.6,Jim Henson
+The Muppet Movie,7.6,Frank Oz
+The Muppet Movie,7.6,Jerry Nelson
+The Muppet Movie,7.6,Richard Hunt
+Escape from Alcatraz,7.6,Clint Eastwood
+Escape from Alcatraz,7.6,Patrick McGoohan
+Escape from Alcatraz,7.6,Roberts Blossom
+Escape from Alcatraz,7.6,Jack Thibeau
+Midnight Express,7.6,Brad Davis
+Midnight Express,7.6,Irene Miracle
+Midnight Express,7.6,Bo Hopkins
+Midnight Express,7.6,Paolo Bonacelli
+Close Encounters of the Third Kind,7.6,Richard Dreyfuss
+Close Encounters of the Third Kind,7.6,François Truffaut
+Close Encounters of the Third Kind,7.6,Teri Garr
+Close Encounters of the Third Kind,7.6,Melinda Dillon
+The Long Goodbye,7.6,Elliott Gould
+The Long Goodbye,7.6,Nina van Pallandt
+The Long Goodbye,7.6,Sterling Hayden
+The Long Goodbye,7.6,Mark Rydell
+Giù la testa,7.6,Rod Steiger
+Giù la testa,7.6,James Coburn
+Giù la testa,7.6,Romolo Valli
+Giù la testa,7.6,Maria Monti
+Kelly's Heroes,7.6,Clint Eastwood
+Kelly's Heroes,7.6,Telly Savalas
+Kelly's Heroes,7.6,Don Rickles
+Kelly's Heroes,7.6,Carroll O'Connor
