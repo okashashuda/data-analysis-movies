@@ -58,7 +58,7 @@ git clone https://github.com/okashashuda/data-analysis-movies.git
 cd data-analysis.movies
 ```
 
-- install the required libraries (skip this step if using an Anaconda environment
+- install the required libraries (skip this step if using an Anaconda environment)
 ```
 pip install pandas
 pip install numpy
@@ -92,6 +92,6 @@ Feel free to check the visualizations and full insights in the ```movie-analysis
 If I were to repeat a similar project, here is what I would do differently:
 - Additional Questions: is there a correlation between the movie budget and revenue generated?
 - Predictive Modeling: build a simple machine learning model to predict a movie’s IMDb rating based on its attributes
-- Expand Dataset: include more movies beyond the top 1000 to get a broader view of trends.
+- Expand Dataset: include more movies beyond the top 1000 to get a broader view of trends
 
 
