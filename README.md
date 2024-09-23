@@ -15,7 +15,7 @@ This project is an exploratory data analysis (EDA) of the IMDb Top 1000 movies d
 
 **LINK TO DATASET:** https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 
-**LINK TO POWER BI REPORT:** https://app.powerbi.com/view?r=eyJrIjoiOWZhMDY3ZmEtOTU0ZC00OThiLWI1YmQtZGE5MjliZGJlYzRmIiwidCI6IjAwZmZkYmE4LWNlOTEtNGUxMy1iMjg4LTc4MmU1NjQ2OGU2ZSJ9
+**LINK TO POWER BI REPORT:** https://app.powerbi.com/view?r=eyJrIjoiOWZhMDY3ZmEtOTU0ZC00OThiLWI1YmQtZGE5MjliZGJlYzRmIiwidCI6IjAwZmZkYmE4LWNlOTEtNGUxMy1iMjg4LTc4MmU1NjQ2OGU2ZSJ9&pageName=22d03c1a6a020db1c41e
 
 ## Dataset
 The dataset used in this project is the IMDb Top 1000 Movies dataset, which contains information on the top-rated 1000 movies according to IMDb ratings. The dataset includes various attributes such as:
