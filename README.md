@@ -55,7 +55,7 @@ To run this project locally, follow these steps:
 - clone this repository:
 ```
 git clone https://github.com/okashashuda/data-analysis-movies.git
-cd data-analysis.movies
+cd data-analysis-movies
 ```
 
 - install the required libraries (skip this step if using an Anaconda environment)
